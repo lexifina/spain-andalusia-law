@@ -1,0 +1,2 @@
+Disposición transitoria.
+Hasta tanto se promulgue la regulación a que se refiere el artículo 84 de la Ley 14/1986, de 25 de abril, General de Sanidad, y teniendo en cuenta lo dispuesto en la presente Ley, se faculta al Consejo de Gobierno de la Junta de Andalucía a dictar las normas reglamentarias que permitan un mayor desarrollo en las materias de gestión del personal del Sistema Sanitario Público de Andalucía, garantizando previamente los procedimientos de negociación colectiva en los términos previstos por las normas legales vigentes.
