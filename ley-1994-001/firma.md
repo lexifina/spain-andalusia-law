@@ -34,5 +34,6 @@ II. Actividades de intervención singular.
 Educación: Centros de enseñanza secundaria posobligatoria.
 Sanidad: Áreas sanitarias, hospitales y centros de especialidades.
 Servicios Sociales: Centros de servicios sociales comunitarios y centros de servicios sociales especializados.
-13. Localización de grandes superficies comerciales, turísticas e industriales no previstas expresamente en el Planeamiento urbanístico general.
+13. Localización de grandes establecimientos comerciales, turísticas e industriales no previstas expresamente en el Planeamiento urbanístico general.
+Se modifica el apartado II.13 por la disposicíón final 1 de la Ley autonómica 6/2002, de 16 de diciembre. Ref. BOE-A-2003-772.
 Se renumera el apartado I.14 como I.15 y se añade un apartado I.14 por la disposición adicional 5 de la Ley autonómica 12/1999, de 15 de diciembre. Ref. BOE-A-2000-1008.
