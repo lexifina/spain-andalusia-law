@@ -1,0 +1,1 @@
+El contenido de los preceptos de esta ley, no derogados por la Ley 2/1998, de 15 de junio. Ref. BOE-A-1998-18720#dfprimera., podrá ser objeto de regulación reglamentaria. A la entrada en vigor de la citada regulación reglamentaria, quedarán totalmente derogados, según establece la disposición final 1 de la citada ley.
