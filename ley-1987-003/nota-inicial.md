@@ -1,0 +1,1 @@
+Téngase en cuenta que el Instituto de Fomento de Andalucía pasa a denominarse "Agencia de Innovación y Desarrollo de Andalucía (IDEA)", según establece la disposición final 2 de la Ley 3/2004, de 28 de diciembre. Ref. BOE-A-2005-1082
