@@ -1,0 +1,2 @@
+Disposición final.
+Se autoriza al Consejo de Gobierno para dictar las disposiciones que resulten necesarias para la ejecución y desarrollo de esta Ley.
