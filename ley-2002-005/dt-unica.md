@@ -1,0 +1,2 @@
+Disposición transitoria única. Integración de inscripciones registrales.
+El Registro de Uniones de Hecho de la Comunidad Autónoma de Andalucía prolongará su vigencia hasta que se regule y constituya el Registro previsto en esta Ley, en el que se integrarán de oficio, salvo manifestación expresa en contrario, las inscripciones obrantes en aquél, considerándose las mismas como acreditativas de la existencia de las parejas de hecho respecto de las personas a que hagan referencia.
