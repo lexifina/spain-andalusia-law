@@ -1,0 +1,1 @@
+Téngase en cuenta que se suspende la vigencia y aplicación de esta Ley desde el 16 de diciembre de 2003 para las partes de proceso y desde el 24 de enero de 2014 para los terceros, por providencia del TC de 15 de enero de 2014, que admite a trámite el recurso de inconstitucionalidad núm. 7552/2003. Ref. BOE-A-2004-1436.
