@@ -1,0 +1,4 @@
+Disposición transitoria. Régimen transitorio.
+1. La presente Ley no será de aplicación a los procedimientos administrativos iniciados antes de su entrada en vigor, los cuales se tramitarán y resolverán con arreglo a las disposiciones vigentes en el momento de su incoación.
+2. Lo previsto en el apartado anterior no será de aplicación a los procedimientos sancionadores en lo que la presente Ley resulte más favorable a los presuntos infractores.
+3. Hasta tanto no se apruebe el correspondiente reglamento, la toma de muestras y la realización de análisis, salvo las previsiones contenidas en esta Ley, se regirán por lo previsto en los artículos 15 y 16 del Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria, con excepción de la previsión contenida en el apartado décimo de dicho artículo 16.
