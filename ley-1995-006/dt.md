@@ -1,0 +1,3 @@
+Disposición transitoria. Organizaciones colegiales existentes.
+1. Las organizaciones colegiales que actualmente agrupen a todos los Colegios de una misma profesión en la Comunidad Autónoma de Andalucía cuyo ámbito de actuación esté comprendido exclusivamente dentro de su territorio y que reúnan los requisitos establecidos en los artículos 4 a 6, ambos inclusive, y 11, de esta Ley, adquirirán la condición de Consejos andaluces de Colegios de la profesión respectiva cuando sean legalizados sus Estatutos de acuerdo con lo previsto en el artículo 12 de esta Ley.
+2. Las organizaciones colegiales actualmente existentes en Andalucía deberán dar cumplimiento a lo establecido en el apartado anterior, en el plazo de seis meses a partir de la entrada en vigor de esta Ley.
