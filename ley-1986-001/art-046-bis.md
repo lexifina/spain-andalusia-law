@@ -1,0 +1,15 @@
+Artículo 46 bis.
+1. Además de las subvenciones a las que se refiere el apartado primero del artículo 45, la Comunidad Autónoma subvencionará a los partidos, federaciones, coaliciones o agrupaciones de electores, los gastos electorales originados por el envío directo y personal a los electores de sobres y papeletas electorales o de propaganda y publicidad electoral, de acuerdo con las siguientes reglas:
+a) Sólo se abonará la cantidad correspondiente al porcentaje de votos obtenido cuando el partido, federación, coalición o agrupación de electores haya obtenido, al menos, un escaño en el Parlamento de Andalucía, y supere el 5 por 100 del total de votos válidos emitidos.
+b) La cantidad que corresponda no estará incluida dentro del límite previsto en el apartado tercero del artículo 45 de la presente Ley.
+c) La subvención se abonará con la justificación de la realización efectiva de la actividad a que se refiere este artículo.
+d) Las cantidades a subvencionar por la Comunidad Autónoma serán las siguientes:
+Doce pesetas por elector cuando se obtengan más del 5 por 100 y hasta el 10 por 100 de los votos válidos emitidos en las elecciones.
+Dieciséis pesetas por elector cuando el resultado supere el 10 por 100 de los votos y hasta el 15 por 100 de los sufragios.
+Veinte pesetas por elector cuando el resultado supere el 15 por 100 de los votos y hasta el 20 por 100 de los sufragios.
+Veinticuatro pesetas por elector cuando el resultado supere el 20 por 100 de los votos y hasta el 25 por 100 de los sufragios.
+Veintiocho pesetas por elector cuando el resultado supere el 25 por 100 de los votos y hasta el 30 por 100 de los sufragios.
+Treinta y dos pesetas por elector cuando el resultado supere el 30 por 100 de los votos y hasta el 35 por 100 de los sufragios.
+Treinta y seis pesetas por elector cuando el resultado supere el 35 por 100 de los votos válidos emitidos en las elecciones.
+Se añade por el art. único de la Ley 5/1994, de 3 de mayo. Ref. BOE-A-1994-12978.
+Téngase en cuenta para el cálculo de la subvención en las elecciones de 1994 lo dispuesto en la disposición adicional 1.
