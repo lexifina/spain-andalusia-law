@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+En el ámbito de la Comunidad Autónoma de Andalucía, quedan derogadas todas las normas, de igual o inferior rango, en lo que contradigan o se opongan a lo dispuesto en la presente Ley, y en especial los artículos 2, 3, 5 y parcialmente los artículos 6 y 8 del Decreto 84/1999, de 6 de abril, por el que se establece el régimen sancionador y de inspección de la comercialización y transporte de productos de la pesca.
