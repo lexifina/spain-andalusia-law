@@ -1,0 +1,2 @@
+Disposición transitoria única. Personal de SODEAN.
+El personal que al liquidarse SODEAN preste servicios en la misma se incorporará a la Agencia Andaluza de la Energía, subrogándose esta última en los derechos y obligaciones derivados de los contratos laborales celebrados por aquélla, reconociéndose el tiempo de servicios prestados a los efectos de la retribución que corresponda en concepto de antigüedad.
