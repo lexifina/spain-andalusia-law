@@ -212,6 +212,16 @@ Capitalidad: Barbate de Franco
 Municipios que lo integran:
 Barbate de Franco.
 Vejer de la Frontera.
+Partido Judicial número 15
+Capitalidad: Ubrique.
+Municipios que lo integran:
+Benaocaz.
+El Bosque.
+Grazalema.
+Prado del Rey.
+Ubrique.
+Villaluenga del Rosario.
+Zahara de la Sierra.
 PROVINCIA DE CÓRDOBA
 Partido Judicial número 1
 Capitalidad: Montoro
@@ -515,6 +525,13 @@ Galera.
 Huéscar.
 Orce.
 Puebla de Don Fadrique.
+Partido Judicial número 9
+Capitalidad: Almuñécar
+Municipios que lo integran:
+Almuñécar.
+Otívar.
+Jete.
+Lentejí.
 PROVINCIA DE HUELVA
 Partido Judicial número 1
 Capitalidad: Aracena
@@ -871,6 +888,12 @@ Villanueva del Rosario.
 Villanueva del Trabuco.
 Cuevas Bajas.
 Cuevas de San Marcos.
+Partido Judicial número 12
+Capitalidad: Torremolinos.
+Municipios que lo integran:
+Torremolinos.
+Alhaurín de la Torre.
+Benalmádena.
 PROVINCIA DE SEVILLA
 Partido Judicial número 1
 Capitalidad: Osuna
@@ -1019,3 +1042,5 @@ Lora de Estepa.
 Marinaleda.
 Pedrera.
 Roda de Andalucía (La).
+Se modifica por el art. 1 de la Ley 1/1993, de 19 de enero. Ref. BOE-A-1993-4916
+Redactado conforme a la corrección de errores publicada en BOJA núm. 13, de 6 de febrero de 1993.
