@@ -1,0 +1,2 @@
+Disposición transitoria.
+En el plazo de un mes a partir de la publicación de la presente Ley, se formará una Junta Constituyente integrada por los Presidentes de todas y cada una de las Academias enumeradas en el artículo 1.º, 2, que se encargará de elaborar los Estatutos por los que haya de regirse el Instituto de Academias de Andalucía, los cuales deberán ser elevados para su aprobación por el Consejo de Gobierno, a través de la Consejería de Educación y Ciencia, en el plazo de tres meses a partir de la publicación de esta Ley.
