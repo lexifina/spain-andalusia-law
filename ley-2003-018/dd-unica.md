@@ -1,0 +1,5 @@
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley y en concreto:
+1. El artículo 61 de la Ley 7/1994, de 18 de mayo, de Protección Ambiental, y los artículos 26 a 29 del Decreto 14/1996, de 16 de enero, por el que se aprueba el Reglamento de la calidad de las aguas litorales, quedando suprimido el canon por autorización de vertidos regulado en dichos preceptos.
+2. La Ley 8/1985, de 27 de diciembre, de creación del Consejo de la Juventud de Andalucía, así como la disposición adicional 14.ª de la Ley 2/1990, de 2 de febrero, de Presupuestos de la Comunidad Autónoma de Andalucía para 1990. En todo aquello que no se oponga a lo establecido en la presente Ley, se mantiene la vigencia del Decreto 258/1998, de 15 de diciembre, por el que se crean los Consejos Provinciales de Jóvenes y se regula su composición.
+3. La Orden de 26 de marzo de 2003, por la que se modifica parcialmente la de 15 de julio de 1985 de la Consejería de Economía e Industria.
