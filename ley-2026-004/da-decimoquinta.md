@@ -1,0 +1,2 @@
+Disposición adicional decimoquinta. Incorporación al Registro de Instituciones Museísticas de Andalucía de los museos, colecciones museográficas y conjuntos culturales.
+Quedan inscritos en el Registro de Instituciones Museísticas de Andalucía los museos, colecciones museográficas y conjuntos culturales que a la fecha de entrada en vigor de esta ley se encontrasen inscritos en el Registro Andaluz de Museos y Colecciones Museográficas, siéndoles de aplicación el régimen previsto en la presente ley.

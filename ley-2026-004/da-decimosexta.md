@@ -1,0 +1,3 @@
+Disposición adicional decimosexta. Planes de salvaguardia frente a riesgos y emergencias.
+1. Los archivos, bibliotecas y centros de documentación de titularidad y/o gestión autonómica deberán contar con un plan de salvaguardia frente a riesgos y emergencias que contemple medidas de prevención, detección, respuesta y recuperación, garantizando la seguridad de las personas y del patrimonio cultural.
+2. En el caso de los museos y colecciones museográficas inscritos en el Registro de Instituciones Museísticas de Andalucía, deberán elaborar dicho plan de acuerdo con las directrices técnicas que establezca mediante Orden la Consejería competente en materia de museos.
