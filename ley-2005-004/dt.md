@@ -1,0 +1,3 @@
+Disposición transitoria.
+1. En tanto no se cumplimenten los nombramientos previstos en la disposición final segunda de esta Ley con respecto a los Consejeros electivos y se produzca, en su caso, el nombramiento de Consejeros permanentes, se mantendrá la actual composición del Consejo Consultivo, quedando asegurado el funcionamiento del Pleno y de la Comisión Permanente sin solución de continuidad.
+2. Los actuales Consejeros electivos que al entrar en vigor esta Ley no hayan cumplido el término del mandato para el que fueran designados y no sean elegidos de nuevo conforme a la misma continuarán como Consejeros adscritos al Pleno hasta que expire el referido término.
