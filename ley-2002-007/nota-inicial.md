@@ -1,1 +1,1 @@
-Incluye la corrección de errores publicada en BOJA núm. 33, de 18 de febrero de 2003. Ref. BOE-A-2003-10293.
+Las referencias hechas a viviendas de protección oficial u otros regímenes de protección pública se entenderán efectuadas a la denominación y concepto de vivienda protegida, según establece la disposición adicional 2 de la Ley 13/2005, de 11 de noviembre. Ref. BOE-A-2005-20662.
