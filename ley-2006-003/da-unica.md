@@ -1,0 +1,3 @@
+Disposición adicional única. Personal estatutario fijo que se incorpore a la plantilla de la empresa pública.
+El personal estatutario fijo que se incorpore a la plantilla de la empresa pública, de conformidad con lo previsto en el artículo 65 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, pasa a situación de servicios bajo otro régimen jurídico y tendrá derecho al cómputo de tiempo a efectos de antigüedad en caso de volver a la situación de servicio activo como personal estatutario.
+Durante los cinco primeros años se ostentará derecho para la reincorporación al servicio activo en la misma categoría y área de salud de origen o, si ello no fuera posible, en áreas limítrofes con aquélla.
