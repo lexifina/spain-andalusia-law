@@ -1,0 +1,3 @@
+Disposición transitoria única. Régimen de las asociaciones inscritas y del Registro de Asociaciones de Andalucía.
+1. Las asociaciones inscritas en el Registro de Asociaciones de Andalucía a la entrada en vigor de la presente Ley estarán sujetas a la misma y conservarán su personalidad jurídica y su plena capacidad de obrar, no siendo aplicables las disposiciones de sus estatutos que se opongan a lo previsto en la presente Ley o lo contradigan.
+2. El Registro de Asociaciones de Andalucía continuará rigiéndose, en tanto no sea modificada, por la normativa de aplicación a la entrada en vigor de la presente Ley que no se oponga a lo previsto en ésta o lo contradiga.
