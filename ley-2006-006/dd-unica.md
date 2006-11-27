@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta Ley y, expresamente, los siguientes preceptos de la Ley 6/1983, de 21 de julio, del Gobierno y la Administración de la Comunidad Autónoma: artículos 1 al 33; 36; ordinales 2.º y 3.º del artículo 39; artículos 40; 44; 45; 46; 50, en lo relativo a la competencia del Consejo de Gobierno; y 52 al 56.
