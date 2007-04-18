@@ -1,0 +1,2 @@
+Disposición transitoria única. Donación de óvulos crioconservados ya existentes.
+Respecto a los óvulos crioconservados ya existentes a la entrada en vigor de la presente ley, las mujeres de quienes procedan los mismos serán consultadas a fin de que manifiesten expresamente su voluntad sobre la posibilidad de donación para la investigación, de acuerdo con lo previsto en el apartado 2 del artículo 6 de la presente ley.
