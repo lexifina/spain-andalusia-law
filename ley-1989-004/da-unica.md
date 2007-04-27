@@ -1,0 +1,10 @@
+Disposición adicional única. Registro de Población de Andalucía.
+1. Se crea el Registro de Población de Andalucía en el que se contendrán los datos del nombre, apellidos, domicilio, sexo y fecha de nacimiento que constan en los padrones municipales de habitantes y en el censo electoral de todos los Ayuntamientos de la Comunidad Autónoma de Andalucía.
+Los datos de carácter personal del Registro de Población de Andalucía serán facilitados por el Instituto Nacional de Estadística, de acuerdo con lo previsto en la disposición adicional segunda de Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+2. Corresponde al Instituto de Estadística de Andalucía mantener, explotar y custodiar el Registro de Población de Andalucía.
+Los interesados podrán ejercitar los derechos de acceso, rectificación, cancelación y oposición ante el Instituto de Estadística de Andalucía.
+3. El Registro de Población de Andalucía tiene como finalidad la comunicación de los diferentes órganos de la Administración de la Comunidad Autónoma de Andalucía con los interesados residentes en su territorio, respecto a las relaciones jurídico administrativas derivadas del ejercicio de las competencias que tengan atribuidas, así como también, la elaboración de estadísticas oficiales de acuerdo con lo establecido en esta Ley.
+4. Fuera de los supuestos contemplados en los apartados anteriores, los datos de carácter personal del Registro de Población de Andalucía son confidenciales y el acceso a los mismos se regirá por lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y, con carácter supletorio, en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+5. Las medidas de seguridad del Registro de Población de Andalucía serán las correspondientes al nivel básico.
+Se numera como disposición adicional única por el art. 1.5 Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+Su anterior numeración era disposición adicional quinta.
