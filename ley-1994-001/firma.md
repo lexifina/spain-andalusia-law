@@ -17,7 +17,8 @@ I. Actividades de planificación.
 12. Planes de desarrollo y programas operativos para un ámbito territorial.
 13. Planes de ordenación de recursos naturales.
 14. Plan General del Turismo
-15. Otras actividades de planificación que se refieran a las materias que se relacionan en el anexo II.
+15. Planificación de infraestructuras energéticas.
+16. Otras actividades de planificación que se refieran a las materias que se relacionan en el anexo II.
 II. Actividades de intervención singular.
 1. Nuevas carreteras, modificación de la clasificación o de la categoría de las carreteras.
 2. Nuevas líneas ferroviarias, ampliación, cierre o reducción de las existentes.
@@ -35,5 +36,6 @@ Educación: Centros de enseñanza secundaria posobligatoria.
 Sanidad: Áreas sanitarias, hospitales y centros de especialidades.
 Servicios Sociales: Centros de servicios sociales comunitarios y centros de servicios sociales especializados.
 13. Localización de grandes establecimientos comerciales, turísticas e industriales no previstas expresamente en el Planeamiento urbanístico general.
+Se renumera el apartado I.15 como I.16 y se añade un apartado I.15 por la disposición adicional 3 de la Ley autonómica 2/2007, de 27 de marzo. Ref. BOE-A-2007-9264.
 Se modifica el apartado II.13 por la disposicíón final 1 de la Ley autonómica 6/2002, de 16 de diciembre. Ref. BOE-A-2003-772.
 Se renumera el apartado I.14 como I.15 y se añade un apartado I.14 por la disposición adicional 5 de la Ley autonómica 12/1999, de 15 de diciembre. Ref. BOE-A-2000-1008.
