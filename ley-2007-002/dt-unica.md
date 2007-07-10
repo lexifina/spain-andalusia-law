@@ -1,0 +1,4 @@
+Disposición transitoria única. Plazo de adaptación para la incorporación de energías renovables en edificios e instalaciones públicas.
+1. Se establece un plazo de diez años, a contar desde la entrada en vigor de la presente Ley, para la adaptación de los edificios e instalaciones propiedad de la Junta de Andalucía prevista en el artículo 14. Este mismo plazo es aplicable para los edificios en construcción o que hayan solicitado licencia antes de la entrada en vigor de la Ley.
+2. Los edificios e instalaciones que se adquieran con posterioridad a la entrada en vigor de la esta Ley dispondrán de un plazo de siete años, a partir de la fecha de adquisición, para su adecuación a lo dispuesto en su artículo 14.
+3. La adaptación de estos edificios e instalaciones se modulará en función de las circunstancias recogidas en el artículo 14, pudiendo ser sustituida o compensada por medidas de ahorro energético tras la elaboración de la correspondiente auditoría energética.
