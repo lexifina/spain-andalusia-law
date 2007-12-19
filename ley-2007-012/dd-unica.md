@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas todas aquellas disposiciones, de igual o inferior rango, que se opongan a lo previsto en la presente ley y, de forma expresa, el artículo 140 de la Ley 18/2003, de 29 de diciembre, por la que se aprueban medidas fiscales y administrativas; el apartado 3 a) del artículo 30, de la Ley 10/1988, de 29 de diciembre, de Presupuesto de la Comunidad Autónoma de Andalucía para 1989, por el que se crea el Consejo Rector del Instituto Andaluz de la Mujer.
