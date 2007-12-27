@@ -1,0 +1,3 @@
+Disposición transitoria única. Representación actual en el Senado.
+La presente Ley no será de aplicación a los Senadores y Senadoras de la Comunidad Autónoma de Andalucía cuya designación se ha efectuado en la VII Legislatura del Parlamento de Andalucía. Se exceptúa de lo anterior lo dispuesto en sus artículos 6 y 7.
+En relación con la incompatibilidad sobrevenida prevista en el artículo 7.1 de esta Ley, las causas de incompatibilidad reguladas en su artículo 2.2 solo serán aplicables en el caso de que el nombramiento que genera la incompatibilidad se produzca tras la entrada en vigor de la presente Ley.
