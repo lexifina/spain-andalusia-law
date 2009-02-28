@@ -1,0 +1,7 @@
+Artículo 100 bis. Ponencias Técnicas de Patrimonio Histórico.
+1. De las Delegaciones Provinciales competentes en materia de patrimonio histórico dependerán las Ponencias Técnicas de Patrimonio Histórico para el estudio e informe previo de los asuntos que vayan a tratarse por las Comisiones Provinciales de Patrimonio Histórico, sin perjuicio de las competencias que le corresponden de acuerdo al apartado tercero del presente artículo. Tendrán carácter permanente, por lo que su funcionamiento no estará sujeto a ningún requisito de convocatoria previa.
+2. Las Ponencias Técnicas de Patrimonio Histórico estarán integradas por personal técnico de la Delegación Provincial competente en materia de patrimonio histórico y su composición y funcionamiento se regulará reglamentariamente.
+3. Corresponderán a las Ponencias Técnicas de Patrimonio Histórico las siguientes funciones:
+a) La emisión de informes en relación a procedimientos de obras y otras intervenciones en inmuebles afectados por inscripciones en el Catálogo General del Patrimonio Histórico Andaluz de Bienes de Interés Cultural y sus entornos, excepto para las tipologías de Monumentos y Jardines Históricos, siempre que no se haya producido la delegación de competencias prevista en el artículo 40.
+b) La emisión de cuantos informes pueda requerir la persona titular de la Delegación Provincial competente en materia de patrimonio histórico en el ámbito de sus competencias.
+Se añade por el art. 5.4 del Decreto-ley 1/2009, de 24 de febrero. Ref. BOJA-b-2009-90005.
