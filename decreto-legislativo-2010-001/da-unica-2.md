@@ -1,0 +1,2 @@
+Disposición adicional única. Agencia Tributaria de Andalucía.
+De conformidad con el artículo 9 de la Ley 23/2007, de 18 de diciembre, por la que se crea la Agencia Tributaria de Andalucía y se aprueban medidas fiscales, la recaudación de los recursos de naturaleza tributaria y de los demás ingresos de derecho público que realice la Agencia Tributaria de Andalucía formará parte de la Hacienda de la Junta de Andalucía y de su Tesorería General.

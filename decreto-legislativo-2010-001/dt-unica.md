@@ -1,0 +1,2 @@
+Disposición transitoria única. Organismos autónomos y entidades de derecho público.
+Los organismos autónomos y entidades de derecho público que a la entrada en vigor del presente Decreto Legislativo y del texto refundido que se aprueba, no se hayan adecuado a las previsiones de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, conforme a su disposición transitoria única, se regirán por lo establecido por la presente Ley para las agencias administrativas y agencias públicas empresariales, respectivamente.
