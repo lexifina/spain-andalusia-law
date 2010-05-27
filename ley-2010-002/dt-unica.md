@@ -1,0 +1,2 @@
+Disposición transitoria única. Consulta al Registro de Voluntades Vitales Anticipadas.
+No obstante lo previsto en el artículo 9.2 de la Ley 5/2003, de 9 de octubre, hasta tanto el contenido de la declaración de voluntad vital anticipada se incorpore a la historia clínica, conforme a lo previsto en el artículo 9.2 de la presente Ley, los profesionales sanitarios responsables de los pacientes que se encuentren en el proceso de muerte estarán obligados a consultar el Registro de Voluntades Vitales Anticipadas.
