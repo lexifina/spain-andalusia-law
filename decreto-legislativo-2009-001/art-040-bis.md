@@ -1,0 +1,7 @@
+Artículo 40 bis. Obligación de autoliquidar.
+1. El incumplimiento de los requisitos exigidos en la regulación de los beneficios fiscales aprobados por la Comunidad Autónoma determinará la obligación de regularizar la situación tributaria mediante la presentación de una declaración donde se exprese tal circunstancia, dentro del plazo de un mes desde que se produzca el hecho determinante del incumplimiento.
+2. A dicha declaración se acompañará el ingreso mediante autoliquidación complementaria de la parte del impuesto que se hubiera dejado de ingresar como consecuencia de la aplicación del beneficio fiscal, más los intereses de demora correspondientes.
+3. La obligación de declarar se extenderá a cualquier beneficio fiscal cuya efectividad dependa de condiciones futuras.
+4. En particular, cuando se hayan aplicado beneficios fiscales de la Comunidad Autónoma en la adquisición de la vivienda habitual, el incumplimiento de los requisitos regulados en la normativa estatal del Impuesto sobre la Renta de las Personas Físicas relativos a que se habite de forma efectiva y permanente y por plazo continuado, determinará la obligación de presentar la declaración y autoliquidación en la forma establecida en el apartado anterior.
+5. A los efectos del presente artículo se considerará beneficio fiscal aquel que establezca exenciones, reducciones a la base imponible, deducciones en cuota y cualquier otro incentivo fiscal.
+Se añade por el art. 1.16 del Decreto-ley 4/2010, de 6 de julio. Ref. BOJA-b-2010-90059.
