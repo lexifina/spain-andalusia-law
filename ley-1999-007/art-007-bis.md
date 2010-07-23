@@ -1,0 +1,3 @@
+Artículo 7 bis. Mutación demanial externa.
+Las entidades locales de Andalucía podrán afectar bienes y derechos demaniales de su patrimonio a la Comunidad Autónoma de Andalucía y a otras administraciones públicas para destinarlos a un uso o servicio público de su competencia. Este supuesto de mutación no alterará la titularidad de los bienes ni su carácter demanial y será aplicable a las citadas administraciones cuando estas prevean en su legislación la posibilidad de afectar bienes demaniales de su titularidad a las entidades locales de Andalucía para su destino a un uso o servicio público de su competencia.
+Se añade por la disposición final 1.2 de la Ley 5/2010, de 11 de junio. Ref. BOE-A-2010-11491#dfprimera
