@@ -12,7 +12,7 @@ I. Actividades de planificación.
 7. Planificación de puertos de interés general del Estado.
 8. Planificación de aeropuertos.
 9. Planificación hidrológica.
-10. Planificación regional y subregional de sistemas en alta de abastecimiento de agua.
+10. Planificación regional y subregional de infraestructuras de aducción y depuración de aguas.
 11. Planificación de infraestructuras y equipamientos para la gestión de los residuos.
 12. Planes de desarrollo y programas operativos para un ámbito territorial.
 13. Planes de ordenación de recursos naturales.
@@ -26,7 +26,7 @@ II. Actividades de intervención singular.
 3. Centros de transporte de mercancías y centros de actividades logísticas del transporte.
 4. Nuevos puertos y aeropuertos o cambio de su funcionalidad.
 5. Embalses destinados a abastecimiento de agua a poblaciones o para regadíos con una capacidad superior a 15 hm3.
-6. Redes en alta de un sistema supramunicipal de abastecimiento de agua.
+6. Infraestructuras supramunicipales de aducción y depuración de aguas.
 7. Infraestructuras y equipamiento ambiental para el tratamiento de residuos.
 8. Alteración de límites de términos municipales.
 9. Creación de Áreas Metropolitanas.
@@ -38,6 +38,8 @@ Sanidad: Áreas sanitarias, hospitales y centros de especialidades.
 Servicios Sociales: Centros de servicios sociales comunitarios y centros de servicios sociales especializados.
 13. Localización de grandes establecimientos comerciales, turísticas e industriales no previstas expresamente en el Planeamiento urbanístico general.
 14. Actuaciones residenciales de interés supramunicipal con destino preferente a viviendas protegidas.
+Se modifican los apartados I.10 y II.6 por la disposición final 2 de la Ley autonómica 9/2010, de 30 de julio. Ref. BOE-A-2010-13465.
+Se modifican los apartados I.10 y II.6 por la disposición final 2 de la Ley autonómica 4/2010, de 8 de junio. Ref. BOE-A-2010-11490.
 Se añaden los apartados I.15 bis y II.14 por la disposición final 3 de la Ley autonómica 1/2010, de 8 de marzo. Ref. BOE-A-2010-5218.
 Se renumera el apartado I.15 como I.16 y se añade un apartado I.15 por la disposición adicional 3 de la Ley autonómica 2/2007, de 27 de marzo. Ref. BOE-A-2007-9264.
 Se modifica el apartado II.13 por la disposicíón final 1 de la Ley autonómica 6/2002, de 16 de diciembre. Ref. BOE-A-2003-772.

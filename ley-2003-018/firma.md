@@ -5,7 +5,7 @@ ANEXO I
 (Impuesto sobre vertidos a las aguas litorales)
 Parámetros característicos de los vertidos.
 A) Parámetros característicos de los vertidos por sectores de actividad.
-Aguas residuales urbanas: DQO, sólidos en suspensión. En caso de vertido en zona declarada sensible por la Consejería de Medio Ambiente se incluirá nitrógeno total y fósforo total. Las unidades contaminantes se evaluarán de acuerdo con los requisitos y métodos de los Anexos del Real Decreto 509/1996, de 15 de marzo, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas.
+Aguas residuales urbanas: DQO, sólidos en suspensión. En caso de vertidos en zonas declaradas sensibles por la Administración competente, se incluirá nitrógeno total y fósforo total. Las unidades contaminantes se evaluarán de acuerdo con los requisitos y métodos de los Anexos del Real Decreto 509/1996, de 15 de marzo, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas.
 Piscifactorías: COT, sólidos en suspensión, nitrógeno total, fósforo total. Las unidades contaminantes se evaluarán sobre los valores medios anuales restando el valor de los parámetros en el agua de aporte.
 Aguas de refrigeración: temperatura, cloro residual total. Las unidades contaminantes se evaluarán sobre los valores medios mensuales.
 La temperatura se medirá como incremento o decremento térmico respecto al agua de captación. Se utilizará el valor en el medio receptor o en el vertido dependiendo del valor que esté limitado en la autorización, preferentemente este último.
@@ -52,6 +52,8 @@ Núm. | Parámetro | Unidad | Valor de referencia
 36 | Selenio. | mg/l | 0,05
 37 | Tetracloruro de carbono. | mg/l | 1,50
 38 | Tricloroetileno (TRI). | mg/l | 0,50
+Se modifica el primer párrafo del apartado A) por la disposición final 1 de la Ley 9/2010, de 30 de julio. Ref. BOE-A-2010-13465#dfprimera
+Se modifica el primer párrafo del apartado A) por la disposición final 1 de la Ley 4/2010, de 8 de junio. Ref. BOE-A-2010-11490
 ANEXO II
 Relación de residuos peligrosos susceptibles de valorización
 Código LER (1) | Descripción | Valorizable (2)
