@@ -52,7 +52,6 @@ Núm. | Parámetro | Unidad | Valor de referencia
 36 | Selenio. | mg/l | 0,05
 37 | Tetracloruro de carbono. | mg/l | 1,50
 38 | Tricloroetileno (TRI). | mg/l | 0,50
-Se modifica el primer párrafo del apartado A) por la disposición final 1 de la Ley 9/2010, de 30 de julio. Ref. BOE-A-2010-13465#dfprimera
 Se modifica el primer párrafo del apartado A) por la disposición final 1 de la Ley 4/2010, de 8 de junio. Ref. BOE-A-2010-11490
 ANEXO II
 Relación de residuos peligrosos susceptibles de valorización

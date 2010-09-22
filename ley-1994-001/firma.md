@@ -38,7 +38,6 @@ Sanidad: Áreas sanitarias, hospitales y centros de especialidades.
 Servicios Sociales: Centros de servicios sociales comunitarios y centros de servicios sociales especializados.
 13. Localización de grandes establecimientos comerciales, turísticas e industriales no previstas expresamente en el Planeamiento urbanístico general.
 14. Actuaciones residenciales de interés supramunicipal con destino preferente a viviendas protegidas.
-Se modifican los apartados I.10 y II.6 por la disposición final 2 de la Ley autonómica 9/2010, de 30 de julio. Ref. BOE-A-2010-13465.
 Se modifican los apartados I.10 y II.6 por la disposición final 2 de la Ley autonómica 4/2010, de 8 de junio. Ref. BOE-A-2010-11490.
 Se añaden los apartados I.15 bis y II.14 por la disposición final 3 de la Ley autonómica 1/2010, de 8 de marzo. Ref. BOE-A-2010-5218.
 Se renumera el apartado I.15 como I.16 y se añade un apartado I.15 por la disposición adicional 3 de la Ley autonómica 2/2007, de 27 de marzo. Ref. BOE-A-2007-9264.
