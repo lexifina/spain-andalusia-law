@@ -1,0 +1,3 @@
+Artículo 67 bis.
+La persona titular de la Consejería competente en materia de Hacienda podrá concertar operaciones financieras que por su propia naturaleza no incrementen el volumen de endeudamiento, destinadas a asegurar o disminuir el riesgo o coste de la deuda a largo plazo, tales como permutas financieras, opciones, contratos sobre futuros y cualquier otra de cobertura de tipos de cambios o de interés. La persona titular de la referida Consejería podrá delegar esta facultad en la persona titular de la Dirección General de Tesorería y Deuda Pública.
+Se añade por la disposición final 3.3 de la Ley 12/2010, de 27 de diciembre. Ref. BOE-A-2011-1436.
