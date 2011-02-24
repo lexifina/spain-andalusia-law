@@ -1,0 +1,2 @@
+Disposición transitoria única. Daños físicos o psíquicos por acciones terroristas anteriores a la presente ley.
+Cuando se trate de daños físicos o psíquicos, lo dispuesto en esta ley se aplicará a los actos causantes de los mismos que hayan acaecido desde el 1 de enero de 1968, en cuyo caso el plazo de presentación de la solicitud a que se refiere la disposición adicional cuarta se contará a partir de la fecha de entrada en vigor de la presente ley.
