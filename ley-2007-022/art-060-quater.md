@@ -1,0 +1,9 @@
+Artículo 60 quater. Convenios.
+1. Los compromisos entre el Servicio Andaluz de Salud y los laboratorios farmacéuticos o las empresas proveedoras de productos sanitarios, derivados de la selección y sus efectos económicos, quedarán establecidos en los convenios correspondientes, suscritos por la persona titular de la Dirección Gerencia del mismo y por los representantes legales de aquéllos, con sujeción a las normas específicas establecidas en esta ley.
+2. La duración de los convenios será la prevista en cada convocatoria de selección, que en todo caso no podrán tener un plazo de vigencia superior a dos años.
+3. Cada convenio contendrá, al menos, los elementos siguientes:
+a) La constitución de una comisión mixta paritaria, presidida por uno de los representantes del Servicio Andaluz de Salud, que tendrá las funciones de seguimiento y de resolución de cuantas cuestiones y dudas puedan plantearse en la interpretación y ejecución del mismo.
+b) El plazo en el que el Servicio Andaluz de Salud notificará a las empresas o laboratorios farmacéuticos las cantidades económicas que, en su caso, corresponda liquidar mensualmente a cada una, por las mejoras económicas acordadas, así como el plazo en que éstas lo deban hacer efectivo en la forma que aquél determine.
+c) El procedimiento para la validación de las liquidaciones mensuales, que se efectuará sin perjuicio de los plazos establecidos para sus abonos, que tendrán el carácter de pagos a cuenta, en tanto se produce dicha validación.
+d) Los supuestos y el régimen de suspensión, modificación y resolución del mismo.
+Se añade por el art. único.5 del Decreto-ley 3/2011, de 13 de diciembre. Ref. BOJA-b-2011-90077
