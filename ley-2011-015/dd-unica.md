@@ -1,0 +1,3 @@
+Disposición derogatoria única. Derogación normativa.
+1. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo previsto en la presente Ley, y en concreto el Decreto 175/2006, de 10 de octubre, por el que se aprueba el Plan de Fomento y Consolidación del Trabajo Autónomo en Andalucía.
+2. Para el procedimiento de inscripción y certificación referidos a las asociaciones profesionales del trabajo autónomo de Andalucía, continuará en vigor el Decreto 362/2009, de 27 de octubre, por el que se crea el Registro de Asociaciones Profesionales del Trabajo Autónomo de Andalucía y se aprueba su Reglamento de Organización y Funcionamiento.
