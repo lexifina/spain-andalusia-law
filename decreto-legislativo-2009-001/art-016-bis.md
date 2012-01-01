@@ -9,4 +9,5 @@ BASE LIQUIDABLE HASTA EUROS | CUOTA EUROS | RESTO BASE LIQUIDABLE HASTA EUROS | 
 2.673.999,01 | 28.494,79 | 2.673.999,02 | 1,87%
 5.347.998,03 | 78.498,57 | 5.347.998,03 | 2,31%
 10.695.996,06 | 202.037,33 | en adelante | 2,75%
+Se modifica por el art. 1.2 de la Ley 17/2011, de 23 de diciembre. Ref. BOE-A-2012-880.
 Se añade por el art. único.2 del Decreto-ley 2/2011, de 25 de octubre. Ref. BOJA-b-2011-90076.
