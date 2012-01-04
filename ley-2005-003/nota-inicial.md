@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse " Ley 3/2005, de 8 de abril, de Incompatibilidades de Altos Cargos de la Administración de la Junta de Andalucía y de Declaración de Actividades, Bienes, Intereses y Retribuciones de Altos Cargos y otros Cargos Públicos", según establece el art. 6 de la Ley 9/2011, de 5 de diciembre. Ref. BOE-A-2011-20373
