@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas la Ley 2/1999, de 31 de marzo, de Sociedades Cooperativas Andaluzas; el Decreto 367/1986, de 19 de noviembre, de organización y funcionamiento del Consejo Andaluz de Cooperación; la Orden de la Consejería de Empleo y Desarrollo Tecnológico, de 9 de junio de 2003, por la que se establece la composición del Consejo Andaluz de Cooperación, y cuantas otras disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley.
