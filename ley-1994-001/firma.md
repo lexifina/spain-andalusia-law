@@ -16,7 +16,7 @@ I. Actividades de planificación.
 11. Planificación de infraestructuras y equipamientos para la gestión de los residuos.
 12. Planes de desarrollo y programas operativos para un ámbito territorial.
 13. Planes de ordenación de recursos naturales.
-14. Plan General del Turismo
+14. Plan General del Turismo y Marcos Estratégicos para la Ordenación de los Recursos y las Actividades Turísticas.
 15. Planificación de infraestructuras energéticas.
 15 bis. Planificación regional o supramunicipal en materia de vivienda.
 16. Otras actividades de planificación que se refieran a las materias que se relacionan en el anexo II.
@@ -38,8 +38,10 @@ Sanidad: Áreas sanitarias, hospitales y centros de especialidades.
 Servicios Sociales: Centros de servicios sociales comunitarios y centros de servicios sociales especializados.
 13. Localización de grandes establecimientos comerciales, turísticas e industriales no previstas expresamente en el Planeamiento urbanístico general.
 14. Actuaciones residenciales de interés supramunicipal con destino preferente a viviendas protegidas.
+Se modifica el apartado I.14 por la disposición final 1 de la Ley autonómica 13/2011, de 23 de diciembre. Ref. BOE-A-2012-876.
+Se modifican los apartados I.10 y II.6 por la disposición final 2 de la Ley autonómica 9/2010, de 30 de julio. Ref. BOE-A-2010-13465.
 Se modifican los apartados I.10 y II.6 por la disposición final 2 de la Ley autonómica 4/2010, de 8 de junio. Ref. BOE-A-2010-11490.
 Se añaden los apartados I.15 bis y II.14 por la disposición final 3 de la Ley autonómica 1/2010, de 8 de marzo. Ref. BOE-A-2010-5218.
 Se renumera el apartado I.15 como I.16 y se añade un apartado I.15 por la disposición adicional 3 de la Ley autonómica 2/2007, de 27 de marzo. Ref. BOE-A-2007-9264.
-Se modifica el apartado II.13 por la disposicíón final 1 de la Ley autonómica 6/2002, de 16 de diciembre. Ref. BOE-A-2003-772.
+Se modifica el apartado II.13 por la disposición final 1 de la Ley autonómica 6/2002, de 16 de diciembre. Ref. BOE-A-2003-772.
 Se renumera el apartado I.14 como I.15 y se añade un apartado I.14 por la disposición adicional 5 de la Ley autonómica 12/1999, de 15 de diciembre. Ref. BOE-A-2000-1008.
