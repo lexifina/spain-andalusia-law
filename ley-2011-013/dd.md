@@ -1,0 +1,2 @@
+Disposición derogatoria. Derogación normativa.
+Quedan derogadas las normas de igual o inferior rango en lo que contradigan o se opongan a lo establecido en la presente Ley, y en particular la Ley 12/1999, de 15 de diciembre, del Turismo; el Decreto 35/1996, de 30 de enero, por el que se crea la Escuela Oficial de Turismo de Andalucía, y el Decreto 150/2005, de 21 de junio, por el que se regula la Oficina de la Calidad del Turismo de Andalucía.
