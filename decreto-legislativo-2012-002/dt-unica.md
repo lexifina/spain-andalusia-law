@@ -1,0 +1,2 @@
+Disposición transitoria única. Personas inscritas en el Registro General de Comerciantes Ambulantes.
+Las personas que a la entrada en vigor de la Ley 3/2010, de 21 de mayo, se encontrasen inscritas en el Registro General de Comerciantes Ambulantes y estén en posesión del carné profesional de comerciante ambulante, podrán obtener los beneficios establecidos en el artículo 6.3 del texto refundido, durante el tiempo de vigencia de la inscripción.

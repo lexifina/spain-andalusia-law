@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a este Decreto Legislativo y el texto refundido que aprueba y, expresamente, la Ley 9/1988, de 25 de noviembre, y la disposición transitoria séptima de la Ley 3/2010, de 21 de mayo, por la que se modifican diversas leyes para la transposición en Andalucía de la Directiva 2006/123/CE, de 12 de diciembre de 2006, del Parlamento Europeo y del Consejo, relativa a los servicios en el mercado interior.
