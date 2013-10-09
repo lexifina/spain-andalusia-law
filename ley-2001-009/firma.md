@@ -97,7 +97,8 @@ Consejería de Fomento y Vivienda
 Procedimiento | Normativa de referencia | Plazos de resolución y notificación
 Sancionador en materia de vivienda protegida | Ley 13/2005, de 11 de noviembre, de Medidas para la Vivienda Protegida y el Suelo. | 1 año
 Contradictorio para la declaración de vivienda deshabitada | Ley 1/2010, de 8 de marzo, Reguladora del Derecho a la Vivienda en Andalucía. | 1 año
-Sancionador en materia de vivienda protegida | Ley 1/2010, de 8 de marzo, Reguladora del Derecho a la Vivienda en Andalucía. | 1 año
+Sancionador en materia de vivienda | Ley 1/2010, de 8 de marzo, reguladora del Derecho a la Vivienda en Andalucía. | 1 año
+Se modifica por el art. 3 de la Ley 4/2013, de 1 de octubre. Ref. BOE-A-2013-11497#a3
 Se modifica por el art. 3 del Decreto-ley 6/2013, de 9 de abril. Ref. BOJA-b-2013-90001
 Se modifica por el art. 4.1 del Decreto-ley 1/2009, de 24 de febrero. Ref. BOJA-b-2009-90005
 Téngase en cuenta la disposición transitoria 2.1 del citado Decreto-ley, sobre régimen transitorio de procedimientos.
