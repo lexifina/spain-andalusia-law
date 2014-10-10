@@ -483,6 +483,7 @@ AAU*.: Autorización Ambiental Unificada, procedimiento abreviado.
 EA: Evaluación Ambiental.
 CA: Calificación Ambiental.
 CA-DR: Calificación ambiental mediante Declaración Responsable.
+Se modifica por el art. 7.3 y anexo III de la Ley 3/2014, de 1 de octubre. Ref. BOE-A-2014-10663.
 Se modifica por el art. 7.3 y anexo III del Decreto-ley 5/2014, de 22 de abril. Ref. BOJA-b-2014-90289.
 ANEXO II
 A.1) Documentación para el estudio de impacto ambiental.
