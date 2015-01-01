@@ -1,0 +1,6 @@
+Artículo 56 bis. Procedimiento de anticipo de caja fija.
+Se establece el procedimiento de anticipo de caja fija como un instrumento de gestión del gasto y del pago que está destinado a la atención inmediata y posterior aplicación al presupuesto, de determinados gastos periódicos o repetitivos, o de otros que se determinen por acuerdo motivado de la persona titular de la Consejería con competencia en materia de hacienda, previo informe de la Intervención General y de la Dirección General de Tesorería y Deuda Pública.
+Mediante este procedimiento se proveerá a los órganos gestores pagadores de un límite cuantitativo máximo hasta el que podrán tramitar facturas para el pago por la Tesorería General de la Junta de Andalucía o por las tesorerías de las agencias administrativas o de régimen especial. Este límite cuantitativo se restituirá a medida que se efectúe la tramitación de la justificación de las facturas pagadas.
+Los gastos menores de 3.005,06 euros que se tramiten a través del procedimiento establecido en el presente artículo no estarán sometidos a intervención previa.
+Se habilita a la persona titular de la Consejería con competencia en materia de hacienda para proceder a la regulación y desarrollo de este procedimiento de anticipo de caja fija.
+Se añade por la disposición final 2.15 de la Ley 6/2014, de 30 de diciembre. Ref. BOE-A-2015-680.
