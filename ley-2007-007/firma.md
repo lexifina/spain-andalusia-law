@@ -355,13 +355,6 @@ Cuando la única actividad de tratamiento de residuos que se lleve a cabo en la 
 11.12 | Almacenamiento temporal de los residuos peligrosos no incluidos en el apartado 11.7 en espera de la aplicación de alguno de los tratamientos mencionados en el apartado 11.1, 11.4, 11.7 y 11.11, con una capacidad total superior a 50 toneladas, excluyendo el almacenamiento temporal, pendiente de recogida, en el sitio donde el residuo es generado. | AAI
 11.13 | Almacenamiento subterráneo de residuos peligrosos con una capacidad total superior a 50 toneladas. | AAI
 12. | Planes y programas. | 
-12.1 | Planes y programas que establezcan el marco para la futura autorización de proyectos enumerados en este Anexo sobre las siguientes materias: agricultura, ganadería, selvicultura, acuicultura, pesca, energía, industria, minería, transporte, gestión de residuos, gestión de recursos hídricos, ocupación del dominio público marítimo-terrestre, telecomunicaciones, turismo, ordenación del territorio urbano y rural, o del uso del suelo. | EA
-12.2 | Planes y programas que requieran una evaluación en aplicación de la normativa reguladora de la Red Ecológica Europea Natura 2000. | EA
-12.3 | Planes Generales de Ordenación Urbanística, así como las innovaciones que afecten al suelo no urbanizable. | EA
-12.4 | Planes de Ordenación Intermunicipal así como sus innovaciones. | EA
-12.5 | Planes Especiales que puedan afectar al suelo no urbanizable. | EA
-12.6 | Planes de sectorización. | EA
-12.7 | Planes de desarrollo del planeamiento general urbanístico cuando éste último no haya sido objeto de evaluación de impacto ambiental. | EA
 13. | Otras actuaciones. | 
 13.1 | Instalaciones para tratamiento de superficie de materiales, de objetos o productos con utilización de disolventes orgánicos, en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos pegarlos, enlacarlos, limpiarlos o impregnarlos, con una capacidad de consumo de disolventes orgánicos de más de 150 kg de disolvente por hora o más de 200 toneladas/año. | AAI
 13.2 | Instalaciones para tratamiento de superficie de materiales, de objetos o productos con utilización de disolventes orgánicos, en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos pegarlos, enlacarlos, limpiarlos o impregnarlos, no incluidos en la categoría anterior, de más de 300 m² de superficie construida total. | CA
@@ -483,6 +476,7 @@ AAU*.: Autorización Ambiental Unificada, procedimiento abreviado.
 EA: Evaluación Ambiental.
 CA: Calificación Ambiental.
 CA-DR: Calificación ambiental mediante Declaración Responsable.
+Se deja sin contenido el apartado 12 por el art. 2 del Decreto-ley 3/2015, de 3 de marzo. Ref. BOJA-b-2015-90297.
 Se modifica por el art. 7.3 y anexo III de la Ley 3/2014, de 1 de octubre. Ref. BOE-A-2014-10663.
 Se modifica por el art. 7.3 y anexo III del Decreto-ley 5/2014, de 22 de abril. Ref. BOJA-b-2014-90289.
 ANEXO II
@@ -495,8 +489,8 @@ Se deberá analizar, en particular, la definición, características y ubicació
 Deberá centrarse, especialmente, en el ser humano, la fauna, la flora, el suelo, el agua, el aire, los factores climáticos, los bienes materiales y el patrimonio cultural, el paisaje, así como la interacción entre los factores citados.
 4. Identificación y valoración de impactos en las distintas alternativas.
 Se analizarán, principalmente, los efectos que el proyecto es susceptible de producir sobre el medio ambiente, por: la existencia del proyecto, la utilización de los recursos naturales, la emisión de contaminantes y la generación de residuos. Asimismo, se tendrán que indicar los métodos de previsión utilizados para valorar sus efectos sobre el medio ambiente.
-5. Propuesta de medidas protectoras y correctoras.
-Se realizará una descripción de las medidas previstas para evitar, reducir y, si fuera necesario, compensar los efectos negativos significativos del proyecto en el medio ambiente.
+5. Propuestas de medidas protectoras y correctoras.
+Se realizará una descripción de las medidas previstas para evitar, reducir y, si fuera necesario, compensar los efectos negativos significativos del proyecto en el medio ambiente, entre las cuales estarán, medidas reductoras de emisiones de gases de efecto invernadero y, en su caso, compensatorias. Asimismo, se deberán incluir medidas de adaptación al cambio climático, cuando proceda.
 6. Programa de vigilancia ambiental.
 En relación con la alternativa propuesta, se deberá establecer un sistema que garantice el cumplimiento de las indicaciones y medidas, protectoras y correctoras, contenidas en el estudio de impacto ambiental.
 7. Documento de síntesis.
@@ -512,11 +506,14 @@ a) Localización.
 2.º Optativamente, fotografías aéreas o colección fotográfica del emplazamiento y el entorno.
 b) Afecciones derivadas de la actuación: Excavaciones, desmontes, rellenos, obra civil, materiales de préstamos, vertederos, consumo de materias primas, afectación a recursos naturales y cualquier otra afección relacionada con la ejecución y funcionamiento de la actividad.
 c) Análisis de los residuos, vertidos, emisiones o cualquier otro elemento derivado de la actuación, tanto en la fase de ejecución como en la de operación.
-3. Identificación y evaluación de la incidencia ambiental de la actuación, con descripción de las medidas correctoras y protectoras adecuadas para minimizar o suprimir dicha incidencia, considerando, en su caso, las distintas alternativas estudiadas y justificando la alternativa elegida. Esta descripción deberá considerar, como mínimo, la incidencia sobre:
-a) El ser humano, la fauna y la flora.
-b) El suelo, el agua, el aire, el clima y el paisaje.
-c) Los bienes materiales y el patrimonio cultural.
-d) La interacción entre los factores mencionados anteriormente.
+3. Identificación y evaluación de la incidencia ambiental de la actuación, con descripción de las medidas correctoras y protectoras adecuadas para minimizar o suprimir dicha incidencia, considerando, en su caso, las distintas alternativas estudiadas y justificando la alternativa elegida.
+Se tendrá en cuenta la alternativa elegida que implique una menor emisión de gases de efecto invernadero y la incorporación de medidas reductoras de emisiones de gases de efecto invernadero o, en su caso, compensatorias.
+Esta descripción deberá considerar, como mínimo, la incidencia sobre:
+a. El ser humano, la fauna y la flora.
+b. El suelo, el agua, el aire, el clima y el paisaje.
+c. Los bienes materiales y el patrimonio cultural.
+d. La interacción entre los factores mencionados anteriormente.
+Asimismo, se deberán incluir medidas de adaptación al cambio climático.
 4. Cumplimiento de la normativa vigente.
 Se deberá establecer y justificar el cumplimiento de la legislación relativa a:
 a) Medio ambiente.
@@ -525,7 +522,7 @@ b) Aspectos ambientales contemplados en otras normativas sectoriales y de planea
 6. Otros requisitos. Como complemento y resumen de lo anteriormente indicado deberá aportarse:
 a) Resumen no técnico de la información aportada.
 b) Identificación y titulación de los responsables de la elaboración del proyecto.
-B) Estudio de impacto ambiental de los instrumentos de planeamiento urbanístico.
+B) Estudio ambiental estratégico de los instrumentos de planeamiento urbanístico.
 El estudio de impacto ambiental contendrá, al menos, la siguiente información:
 1. Descripción de las determinaciones del planeamiento.
 La descripción requerida habrá de comprender:
@@ -544,11 +541,12 @@ f) Identificación de afecciones a dominios públicos.
 g) Normativa ambiental de aplicación en el ámbito de planeamiento.
 3. Identificación y valoración de impactos:
 a) Examen y valoración ambiental de las alternativas estudiadas. Justificación de la alternativa elegida.
-b) Identificación y valoración de los impactos inducidos por las determinaciones de la alternativa seleccionada, prestando especial atención al patrimonio natural, áreas sensibles, calidad atmosférica, de las aguas, del suelo y de la biota, así como al consumo de recursos naturales (necesidades de agua, energía, suelo y recursos geológicos) y al modelo de movilidad/accesibilidad funcional.
+b) Identificación y valoración de los impactos inducidos por las determinaciones de la alternativa seleccionada, prestando especial atención al patrimonio natural, áreas sensibles, calidad atmosférica, de las aguas, del suelo y de la biota, así como al consumo de recursos naturales (necesidades de agua, energía, suelo y recursos geológicos), al modelo de movilidad/ accesibilidad funcional y a los factores relacionados con el cambio climático.
 c) Análisis de los riesgos ambientales derivados del planeamiento. Seguridad ambiental.
 4. Establecimiento de medidas de protección y corrección ambiental del planeamiento.
-a) Medidas protectoras y correctoras, relativas al planeamiento propuesto.
-b) Medidas específicas relacionadas con el consumo de recursos naturales y el modelo de movilidad/accesibilidad funcional.
+a. Medidas protectoras y correctoras, relativas al planeamiento propuesto.
+b. Medidas específicas relacionadas con el consumo de recursos naturales y el modelo de movilidad/accesibilidad funcional.
+c. Medidas específicas relativas a la mitigación y adaptación al cambio climático.
 5. Plan de control y seguimiento del planeamiento.
 a) Métodos para el control y seguimiento de las actuaciones, de las medidas protectoras y correctoras y de las condiciones propuestas.
 b) Recomendaciones específicas sobre los condicionantes y singularidades a considerar en los procedimientos de prevención ambiental exigibles a las actuaciones de desarrollo del planeamiento.
@@ -556,19 +554,20 @@ b) Recomendaciones específicas sobre los condicionantes y singularidades a cons
 Resumen fácilmente comprensible de:
 a) Los contenidos del planeamiento y de la incidencia ambiental analizada.
 b) El plan de control y seguimiento del desarrollo ambiental del planeamiento.
-C) Contenido del informe de sostenibilidad ambiental de planes y programas.
-El informe de sostenibilidad ambiental contendrá, al menos, la siguiente información:
+C) Contenido del estudio ambiental estratégico de planes y programas.
+El estudio ambiental estratégico contendrá, al menos, la siguiente información:
 1. Un esbozo del contenido, objetivos principales del plan o programa y relaciones con otros planes y programas conexos.
 2. Los aspectos relevantes de la situación actual del medio ambiente y su probable evolución en caso de no aplicación del plan o programa.
-3. Las características medioambientales de las zonas que puedan verse afectadas de manera significativa.
-4. Cualquier problema medioambiental existente que sea importante para el plan o programa, incluyendo en particular los problemas relacionados con cualquier zona de especial importancia medioambiental.
+3. Las características medioambientales de las zonas que puedan verse afectadas de manera significativa y su evolución teniendo en cuenta el cambio climático esperado en el plazo de vigencia del plan o programa.
+4. Cualquier problema medioambiental existente que sea importante para el plan o programa, incluyendo en particular los problemas relacionados con cualquier zona de especial importancia medioambiental, como las zonas designadas de conformidad con la legislación aplicable sobre espacios naturales y especies protegidas y los espacios protegidos de la Red Natura 2000.
 5. Los objetivos de protección medioambiental fijados en los ámbitos internacional, comunitario, Estatal y de la Comunidad Autónoma de Andalucía, que guarden relación con el plan o programa y la manera en que tales objetivos y cualquier aspecto medioambiental se han tenido en cuenta durante su elaboración.
-6. Los probables efectos significativos en el medio ambiente, considerando aspectos como la biodiversidad, la población, la salud humana, la fauna, la flora, la tierra, el agua, el aire, los factores climáticos, los bienes materiales, el patrimonio cultural incluyendo el patrimonio arquitectónico y arqueológico, el paisaje y la interrelación entre estos factores. Se deberán analizar de forma específica los efectos secundarios, acumulativos, sinérgicos, a corto, medio y largo plazo, permanentes y temporales, positivos y negativos.
-7. Las medidas previstas para prevenir, reducir y, en la medida de lo posible, compensar cualquier efecto negativo importante en el medio ambiente.
+6. Los probables efectos significativos en el medio ambiente, considerando aspectos como la biodiversidad, la población, la salud humana, la fauna, la flora, la tierra, el agua, el aire, los factores climáticos, su incidencia en el cambio climático, los bienes materiales, el patrimonio cultural incluyendo el patrimonio arquitectónico y arqueológico, el paisaje y la interrelación entre estos factores. Se deberán analizar de forma específica los efectos secundarios, acumulativos, sinérgicos, a corto, medio y largo plazo, permanentes y temporales, positivos y negativos.
+7. Las medidas previstas para prevenir, reducir y, en la medida de lo posible, compensar cualquier efecto negativo importante en el medio ambiente de la aplicación del plan o programa, incluyendo aquellas para mitigar su incidencia sobre el cambio climático y permitir su adaptación al mismo.
 8. Un resumen de los motivos de la selección de las alternativas contempladas y una descripción de la manera en que se realizó la evaluación, incluidas las dificultades (como deficiencias técnicas o falta de conocimientos y experiencia) que pudieran haberse encontrado a la hora de recabar la información requerida.
 9. Una descripción de las medidas previstas para el seguimiento y control de los efectos significativos de la aplicación de los planes y programas.
 10. Un resumen de carácter no técnico de la información facilitada en virtud de los párrafos precedentes.
 11. Un informe sobre la viabilidad económica de las alternativas y de las medidas dirigidas a prevenir, reducir o paliar los efectos negativos del plan o programa.
+Se modifican los apartados A.1).5, A.2).3, B) y C) por el art. 1.39 a 42 del Decreto-ley 3/2015, de 3 de marzo. Ref. BOJA-b-2015-90297.
 ANEXO III
 1. Partículas.
 2. Óxidos de azufre y otros compuestos de azufre.
