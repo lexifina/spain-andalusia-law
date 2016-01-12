@@ -1,0 +1,3 @@
+Disposición adicional decimocuarta.
+La Consejería competente en materia de agua publicará anualmente en el Portal de la Junta de Andalucía un balance de actuación relativo a todas las infraestructuras de saneamiento y depuración de aguas residuales urbanas comprometidas en el Acuerdo de Consejo de Gobierno de 26 de octubre de 2010, con mención expresa por cada actuación iniciada del grado de ejecución alcanzado, la inversión total ejecutada y de la inversión financiada con cargo a los ingresos generados por el canon de mejora de infraestructuras hidráulicas de depuración de interés de la Comunidad Autónoma.
+Se añade por el art. 3.2 de la Ley 3/2015, de 29 de diciembre. Ref. BOE-A-2016-958.
