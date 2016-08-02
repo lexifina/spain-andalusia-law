@@ -1,20 +1,15 @@
-Artículo 22 quáter. Tarifa.
-La cuota íntegra del impuesto regulada en el artículo 21.1 de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones, se obtendrá aplicando sobre la base liquidable los tipos que se indican en la siguiente escala:
-Base liquidable – Hasta euros | Cuota íntegra – Euros | Resto base liquidable – Hasta euros | Tipo aplicable – %
-0,00 | 0,00 | 7.993,46 | 7,65
-7.993,46 | 611,50 | 7.987,45 | 8,50
-15.980,91 | 1.290,43 | 7.987,45 | 9,35
-23.968,36 | 2.037,26 | 7.987,45 | 10,20
-31.955,81 | 2.851,98 | 7.987,45 | 11,05
-39.943,26 | 3.734,59 | 7.987,46 | 11,90
-47.930,72 | 4.685,10 | 7.987,45 | 12,75
-55.918,17 | 5.703,50 | 7.987,45 | 13,60
-63.905,62 | 6.789,79 | 7.987,45 | 14,45
-71.893,07 | 7.943,98 | 7.987,45 | 15,30
-79.880,52 | 9.166,06 | 39.877,15 | 16,15
-119.757,67 | 15.606,22 | 39.877,16 | 18,70
-159.634,83 | 23.063,25 | 79.754,30 | 21,25
-239.389,13 | 40.011,04 | 159.388,41 | 25,50
-398.777,54 | 80.655,08 | 398.777,54 | 31,75
-797.555,08 | 207.266,95 | en adelante | 36,50
+Artículo 22 quáter. Reducción autonómica por la adquisición "mortis causa" e inter vivos de explotaciones agrarias.
+1. Para el supuesto de adquisición "mortis causa" e inter vivos de una explotación agraria por el cónyuge o descendientes del causante o donante, o en los supuestos de equiparaciones recogidos en el artículo 17.1.a) y b) de la presente Ley, se establece una reducción propia en la base imponible del 99%, siempre que se cumplan los siguientes requisitos:
+a) Que el causante o donante haya ejercido la actividad agraria de la explotación de forma habitual, personal y directa a la fecha del fallecimiento o donación.
+No obstante, en el caso de que el causante o donante se encontrara jubilado de la misma o en situación de incapacidad permanente en grado de absoluta o gran invalidez reconocida a la fecha del fallecimiento o donación, dicha actividad agraria deberá estar ejerciéndose de forma habitual, personal y directa por su cónyuge o por alguno de sus descendientes, ya sea mediante contrato laboral remunerado con el titular de la explotación agrícola, o mediante la explotación directa de éstos, en caso de que le sean cedidas las explotaciones agrícolas por cualquier negocio jurídico.
+En tal caso, la reducción se aplicará únicamente al cónyuge o descendientes que ejerzan la actividad agraria y que cumplan los demás requisitos establecidos.
+b) Que el adquirente mantenga en su patrimonio la explotación agraria durante los cinco años siguientes al fallecimiento del causante o a la donación, salvo que falleciese dentro de este plazo.
+2. La reducción prevista en el apartado 1 anterior, será aplicable a aquellos adquirentes que, sin tener la relación de parentesco con el transmitente que se determina en el mismo, cumplan los siguientes requisitos y condiciones:
+a) Que el causante o donante haya ejercido la actividad agraria de la explotación de forma habitual, personal y directa a la fecha del fallecimiento o donación o, en su caso, se encontrara jubilado de la misma o en situación de incapacidad permanente en grado de absoluta o gran invalidez reconocida.
+b) Que el adquirente mantenga en su patrimonio la explotación agraria durante los cinco años siguientes al fallecimiento del causante o a la donación, salvo que falleciese dentro de este plazo.
+c) Que el adquirente tenga un contrato laboral con el transmitente a jornada completa, que esté directamente relacionado con el ejercicio de la actividad agraria de la explotación, que conste en la Tesorería General de la Seguridad Social por afiliación el Régimen General, que esté vigente a la fecha del fallecimiento o donación y que acredite una antigüedad mínima de cinco años en la misma.
+d) Que el adquirente tenga la condición de agricultor profesional o, en su caso, que la obtenga en el plazo de un año desde la adquisición.
+3. La reducción prevista en este artículo será incompatible, para una misma adquisición y contribuyente, con la aplicación de la reducción por empresa individual, negocio profesional o participaciones en entidades prevista en el artículo 20.2.c) de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones, y con las reducciones previstas en los artículos 21 y 22 ter de esta Ley. Asimismo, esta reducción es incompatible con los beneficios fiscales establecidos en la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias.
+4. A los efectos de este artículo los términos "explotación agraria" y agricultor profesional son los definidos en el artículo 2 apartados 2 y 5 de la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias.
+Se modifica por el art. único.2 del Decreto-ley 4/2016, de 26 de julio. Ref. BOJA-b-2016-90444.
 Se añade por la disposición final 8.3 de la Ley 18/2011, de 23 de diciembre. Ref. BOE-A-2012-881.
