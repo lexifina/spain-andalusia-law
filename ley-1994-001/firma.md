@@ -30,8 +30,9 @@ I. Actividades de planificación.
 13. Planes de ordenación de recursos naturales.
 14. Plan General del Turismo y Marcos Estratégicos para la Ordenación de los Recursos y las Actividades Turísticas.
 15. Planificación de infraestructuras energéticas.
-15 bis. Planificación regional o supramunicipal en materia de vivienda.
-16. Otras actividades de planificación que se refieran a las materias que se relacionan en el anexo II.
+16. Planificación regional o supramunicipal en materia de vivienda.
+17. Planificación regional o supramunicipal en materia de instalaciones deportivas.
+18. Otras actividades de planificación que se refieran a las materias que se relacionan en el anexo II.
 II. Actividades de intervención singular.
 1. Nuevas carreteras, modificación de la clasificación o de la categoría de las carreteras.
 2. Nuevas líneas ferroviarias, ampliación, cierre o reducción de las existentes.
@@ -48,8 +49,10 @@ II. Actividades de intervención singular.
 Educación: Centros de enseñanza secundaria posobligatoria.
 Sanidad: Áreas sanitarias, hospitales y centros de especialidades.
 Servicios Sociales: Centros de servicios sociales comunitarios y centros de servicios sociales especializados.
+Deportes: Instalaciones y equipamientos deportivos.
 13. Localización de grandes establecimientos comerciales, turísticas e industriales no previstas expresamente en el Planeamiento urbanístico general.
 14. Actuaciones residenciales de interés supramunicipal con destino preferente a viviendas protegidas.
+Se modifica por la disposición final 2 de la Ley 5/2016, de 19 de julio. Ref. BOE-A-2016-7566#df-2.
 Se numera como anexo II por el art. 1.5 del Decreto-ley autonómico 5/2012, de 27 de noviembre. Ref. BOJA-b-2012-90047.
 Su anterior denominación era anexo.
 ANEXO
