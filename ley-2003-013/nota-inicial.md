@@ -1,0 +1,1 @@
+Téngase en cuenta que el título y las menciones contenidas en esta ley referidas a "consumidores y usuarios" se entenderán efectuadas a "personas consumidoras y usuarias", según establece la disposición final 4 de la Ley 3/2016, de 9 de junio. Ref. BOE-A-2016-6309#df-4
