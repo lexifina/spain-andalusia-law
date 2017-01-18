@@ -1,0 +1,3 @@
+Disposición derogatoria.
+1. Quedan derogadas, sin perjuicio de lo dispuesto en las disposiciones transitoria segunda y tercera, cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley y, de forma expresa, a la Ley 2/1988, de 4 de abril, de Servicios Sociales de Andalucía.
+2. Hasta que se proceda a la aprobación del desarrollo reglamentario de la presente ley, serán de aplicación las normas actualmente vigentes dictadas en desarrollo de la Ley 2/1988, de 4 de abril, de Servicios Sociales de Andalucía, en lo que no sean contrarias a lo dispuesto en la presente ley y en tanto no sean sustituidas o derogadas.
