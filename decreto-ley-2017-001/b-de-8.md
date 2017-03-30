@@ -1,0 +1,9 @@
+Decimoséptima. Obligaciones de las personas beneficiarias.
+1. Son obligaciones de las personas beneficiarias:
+a) La asistencia del niño o la niña al centro educativo de primer ciclo de educación infantil en el que se encuentre matriculado.
+b) Someterse a las actuaciones de comprobación, a efectuar por el órgano concedente, así como cualesquiera otras de comprobación y control financiero que puedan realizar los órganos de control competentes, aportando cuanta información les sea requerida en el ejercicio de las actuaciones anteriores.
+c) Comunicar al órgano concedente la obtención de otras subvenciones, ayudas, ingresos o recursos que financien el servicio objeto de la ayuda de cualesquiera Administraciones o entes públicos o privados, nacionales o internacionales. Esta comunicación deberá efectuarse tan pronto como se conozca. Asimismo se comunicará cualquier alteración de las condiciones tenidas en cuenta para la concesión de la ayuda.
+d) Proceder al reintegro de los fondos percibidos en los supuestos contemplados en la Base Vigésima.
+e) Comunicar al órgano concedente, a través del centro educativo de primer ciclo de educación infantil donde se encuentre matriculado el niño o la niña, el cambio de domicilio o de la dirección de correo electrónico durante el período en el que la ayuda es susceptible de control.
+2. Conforme al artículo 46 de la Ley 38/2003, de 17 de noviembre, las personas beneficiarias estarán obligadas a prestar colaboración y facilitar cuanta documentación sea requerida en el ejercicio de las funciones de control que corresponden a la Intervención General de la Junta de Andalucía, así como a los órganos que, de acuerdo con la normativa comunitaria, tengan atribuidas funciones de control financiero.
+3. La falta de cumplimiento de estas obligaciones se considerará resistencia, excusa, obstrucción o negativa a los efectos previstos en la Base Vigésima, sin perjuicio de las sanciones que, en su caso, pudieran corresponder.

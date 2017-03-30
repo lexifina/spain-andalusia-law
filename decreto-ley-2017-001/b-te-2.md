@@ -1,0 +1,3 @@
+Tercera. Adhesión al Programa de ayuda.
+1. Las personas físicas o jurídicas titulares de los centros que cumplan con los requisitos establecidos en la Base Primera y se comprometan a cumplir con las funciones y obligaciones a las que se hace referencia en la Base Segunda, que deseen adherirse al Programa de ayuda, deberán solicitarlo a través de la página web www.juntadeandalucia.es/educacion mediante el formulario que se habilite en la misma.
+2. Los centros adheridos al Programa de ayuda permanecerán en el mismo hasta que de manera expresa manifiesten lo contrario, en el plazo establecido para la adhesión a él, y tendrá efectos del curso siguiente.

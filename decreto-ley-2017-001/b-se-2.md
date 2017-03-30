@@ -1,0 +1,5 @@
+Sexta. Financiación y régimen de compatibilidad de las ayudas.
+1. Las ayudas serán financiadas con cargo al presupuesto asignado a la Agencia Pública Andaluza de Educación.
+2. Las familias abonarán mensualmente al centro en el que se encuentre matriculado el niño o la niña la diferencia entre el precio establecido y publicado en la resolución de centros adheridos al Programa de ayuda y la bonificación concedida.
+3. Estas ayudas serán compatibles con otras subvenciones, ayudas, ingresos o recursos para la misma finalidad, procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales, de la Unión Europea o de organismos internacionales, de conformidad con el artículo 19.2 de la Ley 38/2003, de 17 de noviembre, y demás normativa de aplicación.
+4. El importe de las ayudas en ningún caso podrá ser de tal cuantía que, aisladamente o en concurrencia con otras subvenciones, ayudas, ingresos o recursos, supere el coste del precio del servicio subvencionado, fijado por el centro.

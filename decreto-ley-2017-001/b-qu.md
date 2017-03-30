@@ -1,0 +1,6 @@
+Quinta. Limitaciones presupuestarias y control de las ayudas.
+1. La concesión de las ayudas estará limitada por las disponibilidades presupuestarias existentes, de acuerdo con el artículo 119.2.j) del Texto refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía.
+2. Las ayudas se concederán con cargo a los créditos presupuestarios que se establezcan en la correspondiente convocatoria, en la que se especificará la cuantía total máxima destinada a la mismas.
+3. Cuando se prevea en la convocatoria, se podrán adquirir compromisos de gasto de carácter plurianual de conformidad con lo establecido en el artículo 40 del Texto refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía y en su normativa de desarrollo, conforme a la distribución por anualidades e importes que en ella se establezca.
+4. La convocatoria podrá prever que eventuales aumentos sobrevenidos en el crédito disponible posibiliten una resolución complementaria de la concesión de las ayudas que incluya personas solicitantes que, aún cumpliendo todos los requisitos, no hubieran sido beneficiarias por agotamiento del mismo.
+5. El régimen de control de las ayudas se llevará a cabo mediante control financiero permanente.

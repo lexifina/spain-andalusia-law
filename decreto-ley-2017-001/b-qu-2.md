@@ -1,0 +1,3 @@
+Quinta. Propuesta de centros adheridos al Programa de ayuda.
+1. La persona titular de la Dirección General competente en materia de planificación educativa publicará en el portal web www.juntadeandalucia.es/educacion, como máximo el segundo día siguiente al de la finalización del plazo de adhesión, la propuesta de los centros adheridos al Programa de ayuda en la que conste, al menos, el código y la denominación del centro, el domicilio, la localidad y la provincia, la oferta de puestos escolares y el precio mensual fijado para cada servicio.
+2. Las personas titulares de los centros o sus representantes, en el plazo de 3 días siguientes a la publicación de la propuesta, podrán realizar las alegaciones que estimen oportunas.

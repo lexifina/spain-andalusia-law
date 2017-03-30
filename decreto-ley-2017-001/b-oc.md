@@ -1,0 +1,5 @@
+Octava. Procedimiento de concesión y convocatoria, y ámbito de competitividad.
+1. El procedimiento de concesión de estas ayudas se tramitará en régimen de concurrencia competitiva y se iniciará de oficio mediante la publicación en el Boletín Oficial de la Junta de Andalucía de la correspondiente convocatoria realizada por la persona titular de la Dirección General de la Agencia Pública Andaluza de Educación.
+2. El ámbito territorial de concurrencia competitiva para la concesión de las ayudas será la Comunidad Autónoma de Andalucía.
+3. Con las mismas condiciones establecidas en esta Base, se podrán contemplar unas nuevas convocatorias con un plazo extraordinario de solicitudes para aquellos casos en los que el niño o la niña no hubiese alcanzado las 16 semanas de vida a 1 de septiembre y para aquellos otros que no hubiesen podido participar en la convocatoria ordinaria.
+Redactado conforme a la corrección de errores publicada en el BOJA núm. 70 de 12 de abril de 2017. Ref. BOJA-b-2017-90331
