@@ -6,7 +6,8 @@ c) Que la constitución o ampliación de la empresa individual o del negocio pro
 d) Que la donación se formalice en documento público y se haga constar de manera expresa que el dinero donado se destina por parte del donatario exclusivamente a la constitución o ampliación de una empresa individual o negocio profesional que cumpla los requisitos que se prevén en este artículo.
 e) Que la empresa individual o negocio profesional no tengan por actividad principal la gestión de un patrimonio mobiliario o inmobiliario, de acuerdo con lo establecido en el artículo 4.Ocho.Dos.a) de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio.
 f) Que la empresa individual o negocio profesional, constituidos o ampliados como consecuencia de la donación de dinero, se mantengan durante los cinco años siguientes a la fecha de la escritura pública de donación, salvo que el donatario falleciera dentro de este plazo.
-2. La base máxima de la reducción será de 120.000 euros, con carácter general. No obstante, cuando el donatario tenga la consideración legal de persona con discapacidad, la base máxima de la reducción no podrá exceder de 180.000 euros.
-En el caso de dos o más donaciones, provenientes del mismo o de diferentes donantes relacionados en el apartado 1 de este artículo, la base de la reducción será el resultado de sumar el importe de todas ellas, sin que pueda exceder de los límites anteriormente señalados.
+2. El importe de la reducción no podrá exceder de 1.000.000 de euros.
+En el caso de dos o más donaciones, provenientes del mismo o de diferentes donantes relacionados en el apartado 1 de este artículo, la base de la reducción será el resultado de sumar el importe de todas ellas, sin que pueda exceder del límite anteriormente señalado.
+Se modifica el apartado 2 por la disposición final 2.4 de la Ley 5/2017, de 5 de diciembre. Ref. BOE-A-2018-1098
 Se modifica por el art. único.4 de la Ley 8/2010, de 14 de julio. Ref. BOE-A-2010-12892.
 Se añade por el art. único.4 del Decreto-ley 1/2010, de 9 de marzo. Ref. BOJA-b-2010-90038.
