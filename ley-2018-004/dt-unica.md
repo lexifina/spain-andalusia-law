@@ -1,0 +1,2 @@
+Disposición transitoria única. Órganos de participación.
+Los órganos de participación que, a la entrada en vigor de la ley, estuvieran ya constituidos continuarán con la misma composición prevista en el Decreto 279/2002, de 12 de noviembre, por el que se regula la organización y funcionamiento de los Consejos del Voluntariado en Andalucía, en tanto se aprueba una nueva regulación que desarrolle su organización y funcionamiento.
