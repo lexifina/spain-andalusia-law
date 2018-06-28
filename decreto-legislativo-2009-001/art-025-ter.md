@@ -1,5 +1,0 @@
-Artículo 25 ter. Tipo de gravamen incrementado para las transmisiones patrimoniales onerosas de determinados bienes muebles.
-El tipo aplicable a las transmisiones de vehículos de turismo y vehículos todoterreno que, según las características técnicas, superen los 15 caballos de potencia fiscal, así como a las embarcaciones de recreo con más de ocho metros de eslora y aquellos otros bienes muebles que se puedan considerar como objetos de arte y antigüedades según la definición que de los mismos se realiza en la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio, será del 8%.
-Se modifica por la disposición final 8.6 de la Ley 18/2011, de 23 de diciembre. Ref. BOE-A-2012-881.
-Se modifica por el art. único.8 de la Ley 8/2010, de 14 de julio. Ref. BOE-A-2010-12892.
-Se añade por el art. único.8 del Decreto-ley 1/2010, de 9 de marzo. Ref. BOJA-b-2010-90038.
