@@ -1,0 +1,4 @@
+Artículo 29 ter. Protección a personas mayores, con discapacidad o en situación de dependencia que convivan con la mujer víctima de violencia de género.
+1. La Administración de la Junta de Andalucía garantizará la protección social ante cualquier manifestación de violencia de género, a las que se refiere el apartado 3 del artículo 3 de la presente Ley, ejercida sobre personas mayores, con discapacidad o en situación de dependencia que estén sujetas a la tutela o guarda y custodia de la mujer víctima de violencia de género y que convivan en el entorno violento.
+2. La Administración de la Junta de Andalucía garantizará el acceso de estas personas a centros residenciales y unidades de día en situaciones de emergencia, especialmente ante resultado de muerte de la mujer víctima de violencia de género.
+Se añade por el art. único.21 de la Ley 7/2018, de 30 de julio. Ref. BOE-A-2018-11883

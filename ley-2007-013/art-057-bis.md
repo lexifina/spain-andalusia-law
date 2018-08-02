@@ -1,0 +1,3 @@
+Artículo 57 bis. Ventanilla única para atención a las víctimas de la violencia de género.
+La Administración de la Junta de Andalucía establecerá un sistema único de atención a las víctimas de violencia de género que permita dar una respuesta integral a las mismas, denominado ventanilla única para atención a las víctimas de la violencia de género. A tales efectos, los poderes públicos adoptarán las medidas necesarias para garantizar la cooperación, la coordinación interinstitucional y el trabajo en red, facilitando la interconexión de los sistemas de atención, protección y seguridad.
+Se añade por el art. único.34 de la Ley 7/2018, de 30 de julio. Ref. BOE-A-2018-11883.

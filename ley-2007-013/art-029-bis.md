@@ -1,0 +1,5 @@
+Artículo 29 bis. Protección de la infancia y la adolescencia.
+1. La Administración de la Junta de Andalucía garantizará la protección social ante cualquier manifestación de violencia de género, a las que se refiere el apartado 3 del artículo 3 de la presente Ley, ejercida sobre la infancia y la adolescencia, incluyendo el acoso escolar por razón de género.
+2. La Administración de la Junta de Andalucía facilitará atención psicológica especializada a las menores de edad que hayan sufrido violencia de género en el ámbito de relaciones de afectividad, aun cuando sean de carácter esporádico. Igualmente, facilitará orientación e información a las madres, padres y/o tutores de las menores atendidas.
+3. La Administración de la Junta de Andalucía incorporará las actuaciones necesarias ante las manifestaciones de violencia de género realizadas a través de las tecnologías de la información y la comunicación y de las redes sociales.
+Se añade por el art. único.20 de la Ley 7/2018, de 30 de julio. Ref. BOE-A-2018-11883

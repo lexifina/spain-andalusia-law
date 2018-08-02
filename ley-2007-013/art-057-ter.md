@@ -1,0 +1,3 @@
+Artículo 57 ter. Punto de coordinación de las órdenes de protección.
+El Punto de coordinación de las órdenes de protección, dependiente de la Consejería competente en materia de violencia de género, se constituye como una vía específica de comunicación de las órdenes de protección dictadas por los órganos judiciales, a través de la cual se articulará una actuación ordenada de los servicios asistenciales y de apoyo a las víctimas de violencia de género en la Comunidad Autónoma de Andalucía, con la finalidad de ofrecerles una atención personalizada y el seguimiento de su situación.
+Se añade por el art. único.35 de la Ley 7/2018, de 30 de julio. Ref. BOE-A-2018-11883.
