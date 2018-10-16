@@ -1,0 +1,7 @@
+Artículo 21 bis. Mujeres en la ciencia, la tecnología, la innovación y la investigación.
+1. Las Administraciones públicas de Andalucía, en el ámbito de sus competencias, promoverán la participación de las mujeres en el ámbito de la ciencia, la tecnología, la innovación y la investigación.
+2. A tal efecto, impulsarán la incorporación de la perspectiva de género como una dimensión transversal en la investigación, el desarrollo y la innovación, de manera que su relevancia sea considerada en todos los aspectos del proceso científico, y fomentarán la presencia paritaria de las mujeres en los eventos científicos, académicos e institucionales.
+3. Los agentes del Sistema Andaluz del Conocimiento del sector público andaluz establecerán mecanismos para eliminar los sesgos de género en los procedimientos de selección y evaluación del personal investigador.
+4. Asimismo, los agentes citados en el apartado 3 desarrollarán mecanismos para evitar el sesgo de género en los procedimientos de concesión de ayudas públicas a la actividad investigadora.
+5. Los organismos públicos de investigación del Sistema Andaluz del Conocimiento en Andalucía adoptarán planes de igualdad que deberán incluir medidas incentivadoras para aquellos centros de investigación de su ámbito de competencias que avancen en la incorporación de indicadores y análisis de género. Para su elaboración podrán contar, de ser preciso, con el asesoramiento del Instituto Andaluz de la Mujer.
+Se añade por el art. único.19 de la Ley 9/2018, de 8 de octubre. Ref. BOE-A-2018-15239
