@@ -1,2 +1,4 @@
 Disposición adicional única. Formulación de la Estrategia andaluza para el impulso de la industria cinematográfica y de la producción audiovisual.
-La Estrategia andaluza para el impulso de la industria cinematográfica y de la producción audiovisual deberá formularse en el plazo de doce meses a partir de la entrada en vigor de la presente ley.
+1. La Estrategia andaluza para el impulso de la industria cinematográfica y de la producción audiovisual deberá formularse en el plazo de doce meses desde la entrada en vigor de la Ley Audiovisual de Andalucía.
+2. La comisión de seguimiento de dicha estrategia, prevista en el artículo 12 de la Ley del Cine de Andalucía, se creará en un plazo máximo de tres meses desde la puesta en marcha de la misma.
+Se modifica por la disposición final 4 de la Ley 10/2018, de 9 de octubre. Ref. BOE-A-2018-15240#df-4
