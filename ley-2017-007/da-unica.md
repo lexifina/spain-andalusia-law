@@ -1,0 +1,2 @@
+Disposición adicional única. Financiación de la promoción de la participación en Andalucía.
+El Presupuesto de la Junta de Andalucía, en el marco de disponibilidad presupuestaria, contará con dotaciones específicas para la financiación de la promoción de la participación en Andalucía, que serán gestionadas por la consejería competente en materia de participación ciudadana, sin perjuicio de los créditos para ayudas y subvenciones de programas que fomenten la participación que pudieran contemplarse en los respectivos estados de gastos de las demás consejerías.
