@@ -1,0 +1,3 @@
+Disposición adicional única. Registro de personas colegiadas.
+1. El Colegio Profesional de Terapeutas Ocupacionales de Andalucía deberá crear y mantener actualizado un registro en el que se incluirán los datos de las personas profesionales colegiadas, de conformidad con lo dispuesto en el artículo 18.2.i) de la Ley 10/2003, de 6 de noviembre.
+2. El Registro de personas colegiadas se instalará en soporte digital y se gestionará con una aplicación informática que permita su integración en el Sistema de Información de Profesionales Sanitarios de Andalucía, previsto en el Decreto 427/2008, de 29 de julio, por el que se crea y regula el Registro de Profesionales Sanitarios de Andalucía.
