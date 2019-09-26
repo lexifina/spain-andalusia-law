@@ -1,3 +1,4 @@
 Disposición adicional decimotercera. Edificaciones anteriores a la Ley 19/1975, de 2 de mayo.
-Las edificaciones aisladas en suelo no urbanizable, construidas con anterioridad a la entrada en vigor de la Ley 19/1975, de 2 de mayo, de reforma de la Ley sobre el Régimen del Suelo y Ordenación Urbana, y que no posean licencia urbanística municipal para su ubicación en esta clase de suelo, se asimilarán en su régimen a las edificaciones con licencia siempre que estuvieran terminadas en dicha fecha, sigan manteniendo en la actualidad el uso y las características tipológicas que tenían a la entrada en vigor de la citada Ley y no se encuentren en situación legal de ruina urbanística.
+(Derogada).
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 3/2019, de 24 de septiembre. Ref. BOJA-b-2019-90536#dd
 Se añade por el art. único.49 de la Ley 2/2012, de 30 de enero. Ref. BOE-A-2012-2627.
