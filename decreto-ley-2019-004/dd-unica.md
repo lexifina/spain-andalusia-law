@@ -1,0 +1,4 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas todas las normas de igual o inferior rango que se opongan a lo previsto en este Decreto-ley, y expresamente las siguientes disposiciones:
+a) La Ley 4/2011, de 6 de junio, de medidas para potenciar inversiones empresariales de interés estratégico para Andalucía y de simplificación, agilización administrativa y mejora de la regulación de actividades económicas en la Comunidad Autónoma de Andalucía, excepto los apartados 2 y 3 de la disposición final primera y las disposiciones finales tercera, cuarta, quinta, sexta, séptima, octava, novena, décima y undécima.
+b) El artículo 41, «Inversiones empresariales declaradas de interés estratégico para Andalucía. Procedimiento y efectos», del Título VI, denominado «De las inversiones empresariales declaradas de interés estratégico para Andalucía», de la Ley 1/1994, de 11 de enero, de Ordenación del Territorio de la Comunidad Autónoma de Andalucía.
