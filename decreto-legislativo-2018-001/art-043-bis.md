@@ -1,0 +1,6 @@
+Artículo 43 bis. Tipo impositivo reducido en el juego del bingo.
+1. El tipo impositivo aplicable en el juego del bingo a las salas de juego que mantengan su plantilla media de trabajadores en relación al año anterior, en términos de personas/año regulados en la normativa laboral, será el 15 %.
+2. El tipo impositivo aplicable en el juego del bingo a las salas de juego que se abran en el año 2020 o siguientes será el 15 %, siempre que las empresas titulares de las salas no cierren ninguna sala abierta en el año en el que se produzca la apertura, ni durante los cinco años anteriores o posteriores a la misma.
+3. El incumplimiento de los requisitos exigidos en los apartados 1 y 2 anteriores determinará la pérdida del beneficio fiscal y la obligación de regularizar la situación tributaria mediante la presentación de una declaración donde se exprese tal circunstancia, dentro del plazo de un mes desde que se produzca la reducción de la plantilla de trabajadores o el cierre de la sala.
+A dicha declaración se acompañará el ingreso, mediante autoliquidación complementaria, de la parte del impuesto que se hubiera dejado de ingresar como consecuencia de la aplicación del beneficio fiscal, más los intereses de demora correspondientes.
+Se añade por la disposición final 6.11 de la Ley 6/2019, de 19 de diciembre. Ref. BOE-A-2020-1068

@@ -1,0 +1,13 @@
+Artículo 36 bis. Tipo de gravamen reducido para determinadas operaciones en las que participen las Sociedades de Garantía Recíproca.
+En la modalidad de Transmisiones Patrimoniales Onerosas del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, se aplicará el tipo de gravamen reducido del 2 % en las siguientes operaciones:
+1. Las adquisiciones de inmuebles por Sociedades de Garantía Recíproca como consecuencia de operaciones de dación en pago que deriven de obligaciones garantizadas por las mismas.
+2. Las adquisiciones de inmuebles por Sociedades de Garantía Recíproca como consecuencia de adjudicaciones judiciales o notariales.
+3. Las adquisiciones de inmuebles que se realicen por pequeñas y medianas empresas con financiación ajena y con el otorgamiento de garantía por Sociedades de Garantía Recíproca. Para la aplicación de este tipo reducido se deben cumplir los siguientes requisitos:
+a) Que la pequeña o mediana empresa adquirente constituya una unidad económica con no más de doscientos cincuenta trabajadores, de conformidad con lo dispuesto en el artículo 1 de la Ley 1/1994, de 11 de marzo, de Sociedades de Garantía Recíproca.
+b) La garantía ofrecida deberá ser de, al menos, el 50 % del precio de adquisición.
+c) El inmueble deberá quedar afecto a la actividad empresarial o profesional del adquirente. El destino del inmueble deberá mantenerse durante los cinco años siguientes a la fecha del documento público de adquisición, salvo que, en el caso de que el adquirente sea persona física, este fallezca dentro de dicho plazo.
+d) La operación deberá formalizarse en documento público, debiendo constar expresamente en el mismo tal afección.
+e) Cuando se trate de entidades, su actividad principal en ningún caso podrá consistir en la gestión de un patrimonio mobiliario o inmobiliario, de acuerdo con lo establecido en el artículo 4.Ocho.Dos.a) de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio.
+No se aplicará este tipo si las menciones exigidas no constan en el documento público, ni cuando se produzcan rectificaciones del mismo que subsanen dicha omisión, salvo que se realicen dentro del plazo de declaración del impuesto.
+4. En los supuestos de adquisiciones de inmuebles por Sociedades de Garantía Recíproca previstos en los apartados 1 y 2, el inmueble adquirido deberá ser objeto de transmisión dentro de los cinco años siguientes a su adquisición con entrega de posesión de la misma, y siempre que esta transmisión esté sujeta al Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+Se añade por la disposición final 6.8 de la Ley 6/2019, de 19 de diciembre. Ref. BOE-A-2020-1068

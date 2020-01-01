@@ -1,2 +1,6 @@
 Disposición transitoria única. Valores de las variables correspondientes a los municipios segregados.
-En el caso de segregación de municipios, en tanto no se disponga de datos relativos a las variables especificadas en el artículo 10, se distribuirán los últimos valores conocidos entre los municipios que resulten afectados, en función de su población.
+1. En el caso de segregación de municipios, en tanto no se disponga de datos relativos a las variables especificadas en el artículo 10, se distribuirán los últimos valores conocidos entre los municipios que resulten afectados, en función de su población.
+2. No obstante, por lo que respecta a la aplicación del Fondo de Nivelación, a efectos de su cálculo para los municipios segregados, las cuantías correspondientes a estos municipios se fijarán asimilándose a las asignadas a aquellos municipios cuya población a 1 de enero de 2008, considerada para el reparto de dicho Fondo en 2009, fuese igual o, en su defecto, más aproximada a la de los últimos valores conocidos para los municipios segregados.
+En caso de que en la comparación hubiese varios municipios con igual población, se escogerá aquel cuyo importe sea menor.
+3. Para aquellos municipios matrices que, por su población, pertenecieran al grupo 1, o bien quedaran clasificados en dicho grupo tras el proceso de segregación, se aplicará, asimismo, lo dispuesto en el apartado anterior.
+Se modifica por la disposición final 11 de la Ley 6/2019, de 19 de diciembre. Ref. BOE-A-2020-1068
