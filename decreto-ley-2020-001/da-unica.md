@@ -1,0 +1,2 @@
+Disposición adicional única. Nombramiento de personal interino.
+Para la ejecución de las actividades a que se refiere el artículo 2 se nombrará personal funcionario interino, en proporción a las necesidades acreditadas de acuerdo con lo dispuesto en el artículo 15 de la Ley 6/2019, de 19 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2020, y su financiación tendrá lugar con cargo a los créditos para el Plan Confianza de la Administración de la Junta de Andalucía previstos en la sección «Gastos de diversas Consejerías».
