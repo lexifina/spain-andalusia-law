@@ -13,7 +13,27 @@ Provincia de Málaga:
 Algarrobo, Benalmádena, Casares, Estepona, Fuengirola, Málaga, Manilva, Marbella, Mijas, Nerja, Rincón de la Victoria, Torremolinos, Torrox, Vélez-Málaga.
 Se añade por el art. 1.4 del Decreto-ley 5/2012, de 27 de noviembre. Ref. BOJA-b-2012-90047.
 ANEXO II
-Actividades de intervención singular
+Actividades de planificación e intervención singular en el ámbito de la Comunidad Autónoma
+I. Actividades de planificación
+1. Planificación de ámbito regional y subregional de la red de carreteras.
+2. Planificación de la red de carreteras de interés general del Estado.
+3. Planificación de la red ferroviaria.
+4. Planificación de ámbito regional y subregional del transporte público.
+5. Planificación regional de centros de transporte de mercancías y de centros de actividades logísticas del transporte.
+6. Planificación regional de los puertos de competencia de la Comunidad Autónoma.
+7. Planificación de puertos de interés general del Estado.
+8. Planificación de aeropuertos.
+9. Planificación hidrológica.
+10. Planificación regional y subregional de infraestructuras de aducción y depuración de aguas.
+11. Planificación de infraestructuras y equipamientos para la gestión de los residuos.
+12. Planes de desarrollo y programas operativos para un ámbito territorial.
+13. Planes de ordenación de recursos naturales.
+14. Planificación de infraestructuras energéticas.
+15. Plan Andaluz de Acción por el Clima.
+16. Planificación regional o supramunicipal en materia de vivienda.
+17. Planificación regional o supramunicipal en materia de instalaciones deportivas.
+18. Otras actividades de planificación que se refieran a las materias que se relacionan en el Anexo II.
+II. Actividades de intervención singular
 1. Nuevas carreteras, modificación de la clasificación o de la categoría de las carreteras.
 2. Nuevas líneas ferroviarias, ampliación, cierre o reducción de las existentes.
 3. Centros de transporte de mercancías y centros de actividades logísticas del transporte.
@@ -26,12 +46,14 @@ Actividades de intervención singular
 10. Transformación en regadío de zonas con superficie igual o superior a 500 ha.
 11. Delimitación de zonas para el establecimiento de ayudas a empresas.
 12. Localización de equipamientos o servicios supramunicipales referida a las siguientes materias:
-Educación: Centros de enseñanza secundaria posobligatoria.
-Sanidad: Áreas sanitarias, hospitales, centros de especialidades, y helipuertos sanitarios.
-Servicios Sociales: Centros de servicios sociales comunitarios y centros de servicios sociales especializados.
-Servicios Públicos: Parque de bomberos, Servicios de Protección Civil, y Policía. Deportes: Instalaciones y equipamientos deportivos.
+– Educación: Centros de enseñanza secundaria posobligatoria.
+– Sanidad: Áreas sanitarias, hospitales, centros de especialidades y helipuertos sanitarios.
+– Servicios Sociales: Centros de servicios sociales comunitarios y centros de servicios sociales especializados.
+– Servicios Públicos: Parque de bomberos, Servicios de Protección Civil y Policía.
+– Deportes: Instalaciones y equipamientos deportivos.
 13. Localización de grandes establecimientos comerciales, turísticos e industriales no previstos expresamente en el Planeamiento urbanístico general.
 14. Actuaciones residenciales de interés supramunicipal con destino preferente a viviendas protegidas.
+Se modifica por el art. 3.3 del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
 Se modifica por la disposición final 1.3 del Decreto-ley 4/2019, de 10 de diciembre. Ref. BOJA-b-2019-90583#df
 Se modifica el apartado I.16 y se añade el I.16 bis por la disposición final 2 de la Ley 8/2018, de 8 de octubre. Ref. BOE-A-2018-15238#df-2
 Téngase en cuenta que esta modificación entra en vigor el 15 de enero de 2019, según establece la disposición final 7 de la citada ley.

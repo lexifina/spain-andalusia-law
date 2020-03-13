@@ -51,10 +51,10 @@ f) Instalaciones para el almacenamiento y procesamiento de residuos radiactivos 
 a) gas, petróleo o productos químicos, incluyendo instalaciones de compresión.
 b) flujos de dióxido de carbono con fines de almacenamiento geológico, incluidas las estaciones de bombeo asociadas.
 2.14 | Oleoductos y gasoductos de longitud superior a 1 kilómetro no incluidos en la categoría 2.13 construidos en suelo no urbanizable. | CA
-2.15 | Construcción de líneas aéreas de transmisión de energía eléctrica4 de longitud superior a 3.000 metros. Se exceptúan las sustituciones que no se desvíen de la traza más de 100 m. | AAU
+2.15 | Construcción de líneas de transmisión de energía eléctrica4, no incluidas en la categoría 13.7, en cualquiera de los siguientes casos: a) Líneas aéreas de longitud superior a 15.000 m. Se exceptúan las sustituciones que no se desvíen de la traza más de 100 m. b) Líneas subterráneas de longitud superior a 15.000 m siempre que discurran por suelo no urbanizable. | AAU
 2.16 | Instalaciones para el almacenamiento de petróleo o productos petroquímicos o químicos de capacidad de, al menos, 200.000 t. | AAU*
 2.16. BIS | Almacenamiento sobre el terreno de combustible fósiles no incluidos en el apartado anterior. | CA
-2.17 | Construcción de líneas aéreas de transmisión de energía eléctrica de longitud superior a 1.000 metros no incluidas en el epígrafe 2.15. Se exceptúan las sustituciones que no se desvíen de la traza más de 100 metros. | CA
+2.17 | Construcción de líneas de transmisión de energía eléctrica, no incluidas en las categorías 2.15 y 13.7, en cualquiera de los siguientes casos: a) Líneas aéreas de longitud superior a 1.000 m. Se exceptúan las sustituciones que no se desvíen de la traza más de 100 m. b) Líneas subterráneas de longitud superior a 3.000 m siempre que discurran por suelo no urbanizable. | CA
 2.18 | Almacenamiento de gas natural sobre el terreno. Tanques con capacidad unitaria superior a 200 toneladas. | AAU*
 2.19 | Almacenamiento subterráneo de gases combustibles. | AAU*
 2.20 | Instalaciones para la utilización de la fuerza del viento para la producción de energía, (parques eólicos) que tengan más de 10 aerogeneradores o 6 MW de potencia o que se encuentren a menos de 2 km de otro parque eólico en funcionamiento, en construcción, con autorización administrativa o con declaración de impacto ambiental. | AAU
@@ -276,11 +276,8 @@ e) 20.000 plazas para conejos.
 f) Especies no autóctonas no incluidas en apartados anteriores.
 10.10 | Instalaciones de la categoría 10.8 y 10.9 por debajo de los umbrales señalados en ella, que no se destinen al autoconsumo. | CA
 10.11 | Industria azucarera no incluida en la categoría 10.3. | AAU*
-10.12 | Instalaciones para la fabricación y elaboración de aceite y otros productos derivados de la aceituna no incluidas en la categoría 10.3. | AAU*
-10.13 | Instalaciones industriales para la fabricación, el refinado o la transformación de grasas y aceites vegetales y animales no incluidas en las categorías 10.3 y 10.12 siempre que se den de forma simultánea las circunstancias siguientes: | AAU*
-1.ª Que esté situada fuera de polígonos industriales.
-2.ª Que se encuentre a menos de 500 metros de una zona residencial.
-3.ª Que ocupe una superficie de al menos 1 hectárea.
+10.12 | IInstalaciones para la fabricación y elaboración de productos derivados de la aceituna, excepto el aceite, no incluidas en la categoría 10.3. | AAU*
+10.13 | Instalaciones industriales para la fabricación, el refinado o la transformación de grasas y aceites vegetales y animales, no incluidas en la categoría 10.3, siempre que se den de forma simultánea las circunstancias siguientes: 1.ª Que estén situadas fuera de suelo urbano o urbanizable con uso industrial. 2.ª Que se encuentren a menos de 500 m de una zona residencial. 3.ª Que ocupen una superficie de, al menos, 1 hectárea. | AAU*
 10.14 | Instalaciones industriales para la fabricación de cerveza y malta no incluidas en la categoría 10.3 siempre que se den de forma simultánea las circunstancias siguientes: | AAU*
 1.ª Que esté situada fuera de polígonos industriales.
 2.ª Que se encuentre a menos de 500 metros de una zona residencial.
@@ -343,7 +340,7 @@ b) para residuos peligrosos con una capacidad superior a 10 toneladas por día.
 11.6 | Instalaciones para el tratamiento, transformación o eliminación en lugares distintos de los vertederos de residuos urbanos, asimilables a urbanos y no peligrosos en general, incluidas las instalaciones de tratamiento y valorización de residuos de las agroindustrias, y no incluidas en las categorías 11.2, 11.4 y 11.5. | AAU
 11.7 | Vertederos de todo tipo de residuos que reciban más de 10 toneladas por día o que tengan una capacidad total de más de 25.000 toneladas con exclusión de los vertederos de residuos inertes. | AAI
 11.8 | Vertederos de residuos no incluidos en la categoría 11.7. | AAU
-11.9 | Instalaciones de gestión de residuos no incluidas en las categorías anteriores. Puntos limpios. Estaciones de transferencia de residuos sin tratamiento. Almacenamiento o clasificación, sin tratamiento, de residuos no peligrosos. | CA
+11.9 | Instalaciones de gestión de residuos no incluidas en las categorías anteriores: Puntos limpios. Estaciones de transferencia de residuos sin tratamiento. Almacenamiento y/o clasificación, sin tratamiento, de residuos no peligrosos. Preparación para la reutilización en el interior de una nave en suelo urbano o urbanizable de uso industrial. Plantas de compostaje con capacidad de tratamiento no superior a 5.000 toneladas anuales y de almacenamiento inferior a 100 toneladas. | CA
 11.10 | Instalaciones terrestres para el vertido o depósito de materiales de extracción de origen fluvial, terrestre o marino con superficie superior a 1 ha. | AAU
 11.11 | Valorización, o una mezcla de valorización y eliminación, de residuos no peligrosos con una capacidad superior a 75 toneladas por día que incluyan una o más de las siguientes actividades, excluyendo las incluidas en el Real Decreto-ley 11/1995, de 28 de diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas: | AAI
 a) tratamiento biológico;
@@ -476,6 +473,7 @@ AAU*.: Autorización Ambiental Unificada, procedimiento abreviado.
 EA: Evaluación Ambiental.
 CA: Calificación Ambiental.
 CA-DR: Calificación ambiental mediante Declaración Responsable.
+Se modifican las categorías 2, 10 y 11 por el art. 11.3 del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
 Se deja sin contenido el apartado 12 por el art. 2 de la Ley 3/2015, de 29 de diciembre. Ref. BOE-A-2016-958.
 Téngase en cuenta que este apartado ya se dejó sin efecto por el Decreto-ley 3/2015, de 3 de marzo.
 Se deja sin contenido el apartado 12 por el art. 2 del Decreto-ley 3/2015, de 3 de marzo. Ref. BOJA-b-2015-90297.

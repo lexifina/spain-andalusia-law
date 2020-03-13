@@ -1,0 +1,3 @@
+Disposición transitoria única. Proyectos declarados de interés estratégico a la entrada en vigor de este Decreto-ley.
+A los proyectos empresariales declarados de interés estratégico para Andalucía conforme a la normativa anterior les será de aplicación el régimen jurídico establecido en el presente Decreto-ley en cuanto a los efectos de tal declaración. A los citados proyectos les será de aplicación lo previsto en el artículo 8.1, en cuanto entre en funcionamiento la Unidad Aceleradora de Proyectos de Interés Estratégico en Andalucía, previa valoración por la Comisión Delegada para Asuntos Económicos.
+Se añade por el art. 29 del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
