@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Queda derogada cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este Decreto-ley y, expresamente, la Orden de Economía y Hacienda, de 22 de marzo de 2007, por la que se regula la ficha resumen de los elementos básicos de las escrituras notariales a efectos del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
