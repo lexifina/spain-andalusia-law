@@ -18,12 +18,19 @@ En .................................... a de ...................................
 El/la interesado/a o representante legal
 Fdo:...............................
 ANEXO III
-Baremo para la adjudicación de recurso por motivo de emergencia social por causas derivadas del COVID-19
+BAREMO PARA LA ADJUDICACIÓN DE RECURSO POR MOTIVO DE EMERGENCIA SOCIAL POR CAUSAS DERIVADAS DEL COVID-19
 Área | Situación | Puntuación
-Convivencia | Vive Sola | 7
-La persona que le presta atención, es empleado público de los servicios declarados esenciales de la Junta de Andalucía. – Para el caso que el servicio esencial sea perteneciente a la Consejería de Salud y Familias (+3 puntos) – Para el caso que el servicio esencial sea centro Hospitalario o Centro de Salud (+2 puntos) – Para el caso que el servicio esencial sea Salud Responde o línea 900 (+1 punto) – Para el caso que el servicio esencial sea perteneciente a la Consejería de Igualdad, Políticas Sociales y Conciliación (+2 puntos) – Para el caso que el servicio esencial sea Centro Residenciales para personas mayores o con discapacidad (+2 puntos) – Para el caso que el servicio esencial sea Servicio de Teleasistencia (+1 punto) | 9
-Familia | No tiene hijos | 7
-Tiene hijos pero tiene falta de auxilio por causas derivadas del COVID-19 | 10
-Su cuidadora principal no puede atender a su cuidado de manera transitoria por causas derivadas del COVID-19 | 9
+Convivencia | Vive Sola. | 7
+La persona que le presta atención, es empleada pública de los servicios declarados esenciales de la Junta de Andalucía. | 9
+– Para el caso que el servicio esencial sea perteneciente a la Consejería de Salud y Familias (+3 puntos).
+– Para el caso que el servicio esencial sea centro Hospitalario o Centro de Salud (+2 puntos).
+– Para el caso que el servicio esencial sea Salud Responde o línea 900 (+1 punto).
+– Para el caso que el servicio esencial sea perteneciente a la Consejería de Igualdad, Políticas Sociales y Conciliación (+2 puntos).
+– Para el caso que el servicio esencial sea Centro Residencial para personas mayores o con discapacidad (+2 puntos).
+– Para el caso que el servicio esencial sea Servicio de Teleasistencia (+1 punto).
+Familia | No tiene hijas/os. | 7
+Tiene hijas/os pero tiene falta de auxilio por causas derivadas del COVID-19. | 10
+Su cuidador/a principal no puede atender a su cuidado de manera transitoria por causas derivadas del COVID-19. | 9
 Vivienda | No dispone de vivienda con carácter estable. | 6
-Zona rural aislada y necesita modificar su lugar residencia por causas derivadas del COVID-19 | 9
+Zona rural aislada y necesita modificar su lugar residencia por causas derivadas del COVID-19. | 9
+Se modifica por la disposición final 1.15 del Decreto-ley 6/2020, de 30 de marzo. Ref. BOJA-b-2020-90080#df
