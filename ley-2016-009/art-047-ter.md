@@ -1,0 +1,4 @@
+Artículo 47 Ter. Régimen jurídico y obligaciones legales de la Historia Social Única electrónica de Andalucía.
+1. El tratamiento de los datos personales necesarios para documentar el proceso de intervención social en el Sistema CoheSSiona se regulará, además de por lo dispuesto en esta ley, por la normativa especial en materia de protección de datos personales, de protección de la infancia, de protección de las personas con discapacidad, de igualdad de género y de cualesquiera otra normativa sectorial en los ámbitos de la intervención social.
+2. La Consejería competente en materia de servicios sociales será el órgano responsable de los ficheros de origen de los datos incluidos en el Sistema CoheSSiona, sin perjuicio de las obligaciones de las entidades encargadas del tratamiento.
+Se añade por la disposición final 1. 4 del Decreto-ley 9/2020, de 15 de abril. Ref. BOJA-b-2020-90103#df
