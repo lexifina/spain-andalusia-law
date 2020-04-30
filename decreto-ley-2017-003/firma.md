@@ -6,6 +6,7 @@ Téngase en cuenta que los anexos de este Decreto-ley podrán ser modificados po
 disposición final 1.2
 de la presente norma.
 ANEXO I
+Se modifica por la disposición final 1.7 del Decreto-ley 10/2020, de 29 de abril. Ref. BOJA-b-2020-90135#df
 ANEXO II
 Documentación a presentar junto con la solicitud de la Renta Mínima de Inserción Social en Andalucía
 Decreto-Ley 3/2017, de 19 de diciembre, por el que se regula la Renta Mínima de Inserción Social en Andalucía

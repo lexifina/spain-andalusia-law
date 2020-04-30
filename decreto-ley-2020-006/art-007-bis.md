@@ -1,0 +1,3 @@
+Artículo 7 Bis. Aplazamiento de la realización del Plan de inclusión sociolaboral para las resoluciones provisionales.
+A los expedientes de Renta Mínima de Inserción Social en Andalucía resueltos conforme a los procedimientos extraordinarios recogidos en los artículos 2 y 3, no les será de aplicación el Capítulo III del Decreto-ley 3/2017, de 19 de diciembre, referido a la realización del Plan de inclusión sociolaboral, que quedará supeditado a la concesión definitiva de la prestación conforme a lo establecido en los precitados artículos.
+Se añade por la disposición final 2.3 del Decreto-ley 10/2020, de 29 de abril. Ref. BOJA-b-2020-90135#df-2
