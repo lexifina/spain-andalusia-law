@@ -1,0 +1,8 @@
+Disposición final decimocuarta. Modificación de la Orden de 19 de mayo de 2017, por la que se establecen las bases reguladoras de concesión de subvenciones, en régimen de concurrencia competitiva, a la producción de documentales en Andalucía.
+La Orden de 19 de mayo de 2017, por la que se establecen las bases reguladoras de concesión de subvenciones, en régimen de concurrencia competitiva, a la producción de documentales en Andalucía, queda modificada como sigue:
+Uno. En el artículo 5.1.a) se añade el ordinal 7.º con la siguiente redacción:
+«7.º Todos los derivados de las medidas de implementación de protocolos de seguridad de rodajes y material sanitario y de protección que requiera la normativa que se establezca para rodajes por la crisis COVID-19.»
+Dos. En el artículo 5 se añade el apartado 8 con la siguiente redacción:
+«8. Se admitirá la compensación de gastos entre partidas del presupuesto aceptado del proyecto subvencionado con un límite del 30% del mismo.»
+Tres. En el artículo 22.2 se añade la letra c) con la siguiente redacción:
+«c) El cambio de persona o entidad beneficiaria de la subvención podrá dar lugar a la modificación de la resolución de concesión, únicamente en aquellos supuestos en los que la entidad beneficiaria pase a integrarse en una Agrupación de Interés Económico o en cualquier otra entidad persona jurídica de carácter asociativo, mercantil y civil, que se incorpore a la producción con anterioridad a la finalización del rodaje, y con independencia de la fecha en que la misma haya sido constituida, cumpla con los requisitos establecidos en el apartado 4.»
