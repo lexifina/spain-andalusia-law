@@ -1,0 +1,1 @@
+Incluye la corrección de erratas publicada en el BOJA núm. 108, de 8 de junio de 2020. Ref. BOJA-b-2020-90206 y la corrección de errores publicada en el BOJA núm. 109, de 9 de junio de 2020. Ref. BOJA-b-2020-90215

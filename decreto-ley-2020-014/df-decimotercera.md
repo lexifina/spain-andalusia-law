@@ -1,0 +1,6 @@
+Disposición final decimotercera. Desarrollo y ejecución.
+1. Se autoriza a la persona titular de la Consejería con competencias en materia de turismo para dictar las disposiciones que, en el ámbito de sus competencias, sean necesarias en desarrollo y ejecución del presente decreto-ley.
+2. Se autoriza a la persona titular de la Consejería con competencias en materia de interior, protección civil y administración pública, para dictar las disposiciones que, en el ámbito de sus competencias, sean necesarias en desarrollo y ejecución del presente decreto-ley.
+3. Se autoriza a la persona titular de la Consejería con competencias en materia de hacienda para dictar las disposiciones que, en el ámbito de sus competencias, sean necesarias en desarrollo y ejecución de lo previsto en este decreto-ley.
+Así mismo, se autoriza a la persona titular de la Dirección de la Agencia Tributaria de Andalucía para adaptar los modelos normalizados en materia tributaria con el fin de adecuarlos a lo establecido en el presente decreto-ley.
+4. Se autoriza a la persona titular de la Consejería con competencias en materia de contaminación acústica para dictar las disposiciones que, en el ámbito de sus competencias, sean necesarias en desarrollo y ejecución de lo previsto en este decreto-ley.
