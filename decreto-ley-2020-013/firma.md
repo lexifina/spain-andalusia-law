@@ -609,7 +609,7 @@ II. Servicios
 III. Unidades de alojamiento
 17 | Al menos el 80% de las habitaciones con dimensiones requeridas para su categoría. | M | M | M | M
 18 | Calefacción y refrigeración regulables por elementos fijos*. | M | M | M | M
-19 | Información del hotel en la habitación. |  | M |  | 
+19 | Información del establecimiento en la habitación. |  | M |  | 
 20 | TV en color con mando a distancia. | M | M |  | 
 21 | Teléfono a petición del cliente, con línea interna y externa en las habitaciones con manual de instrucciones (el cliente debe ser informado cuando hace la entrada). | M | M | M | 
 22 | Camas individuales de dimensiones mínimas de 0,90 m x 1,90 m y camas dobles de dimensiones mínimas de 1,35 m x 1,90 m. | M | M | M | M
@@ -656,6 +656,7 @@ Las habitaciones de ocupación múltiple podrán tener camas individuales, doble
 Dispondrán de una estancia de uso social común a modo de salón techado, a razón de un mínimo de 1 m2 por plaza reglamentaria. No obstante lo anterior, cuando el establecimiento disponga de una capacidad de alojamiento superior a 30 plazas bastará que dicha sala tenga una superficie de 30 m2. Cuando la capacidad del establecimiento sea superior a 20 plazas podrán computarse como medida del salón los patios, terrazas y otros salones del establecimiento si éstos son transitables y pueden ser dedicados a ocio y esparcimiento y siempre que se respeten 20 m2 como mínimo de la estancia de uso social común.
 Las instalaciones sanitarias tendrán una relación de un baño (inodoro, lavabo y placa de ducha o bañera) por cada 8 plazas. Dichas instalaciones podrán estar dentro o fuera de la unidad de alojamiento; en este último caso pueden ser colectivas, pero separadas por sexo. Si existen habitaciones dobles o individuales con baño propio deben cumplir con los requisitos mínimos establecidos para éstos para el grupo Pensión.
 Las estructuras cerradas tipo cabinas, cápsulas o similar, tendrán la consideración de literas, con camas dobles o individuales, pudiendo colocarse libremente dentro de la unidad de alojamiento con un máximo de dos alturas. Si son de cama doble se computarán 8 m2 por estructura.
+Se modifica el requisito 19 por la disposición final 6.5 del Decreto-ley 14/2020, de 26 de mayo. Ref. BOJA-b-2020-90188#df-6
 ANEXO IV
 Requisitos de instalaciones, equipamientos y servicios para la obtención del calificativo Gran Lujo
 Área/Sub-Área/Criterio | N.° req. | Puntos
