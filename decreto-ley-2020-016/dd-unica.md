@@ -1,0 +1,3 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este decreto-ley y expresamente el Decreto 321/2009, de 1 de septiembre, por el que se regula el régimen de uso y gestión de los edificios administrativos destinados a sedes de la Administración de la Junta de Andalucía y de sus agencias y se establecen los mecanismos de coordinación correspondientes.
+Así mismo, se deroga la disposición adicional segunda del Decreto-ley 6/2020, de 30 de marzo, por el que se establecen medidas administrativas extraordinarias y urgentes en el ámbito social y económico como consecuencia de la situación ocasionada por el coronavirus (COVID-19).
