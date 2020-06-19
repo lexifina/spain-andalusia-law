@@ -1,0 +1,1 @@
+Se declara su vigencia, hasta la completa finalización de los procedimientos afectados o regulados en la presente norma, por la disposición adicional 1.g) del Decreto-ley 17/2020, de 19 de junio. Ref. BOJA-b-2020-90237

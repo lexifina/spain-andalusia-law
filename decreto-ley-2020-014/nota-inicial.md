@@ -1,1 +1,2 @@
+Se declara su vigencia, hasta la completa finalización de los procedimientos afectados o regulados en la presente norma, por la disposición adicional 1.j) del Decreto-ley 17/2020, de 19 de junio. Ref. BOJA-b-2020-90237
 Incluye la corrección de erratas publicada en el BOJA núm. 108, de 8 de junio de 2020. Ref. BOJA-b-2020-90206 y la corrección de errores publicada en el BOJA núm. 109, de 9 de junio de 2020. Ref. BOJA-b-2020-90215
