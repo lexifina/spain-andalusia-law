@@ -1,2 +1,0 @@
-Disposición derogatoria única. Derogación normativa.
-Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a lo previsto en este decreto-ley, y expresamente, el artículo 16.2 del Decreto 197/2007, de 3 de julio, por el que se regula la estructura, organización y funcionamiento de los servicios de atención primaria de salud en el ámbito del Servicio Andaluz de Salud, cuando menciona a los Servicios de Salud Pública.
