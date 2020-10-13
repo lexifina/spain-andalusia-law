@@ -1,0 +1,2 @@
+Artículo único. Medida extraordinaria y urgente en el ámbito económico para facilitar ayudas a las PYMES industriales.
+Se aprueban las bases reguladoras para la concesión de subvenciones en régimen de concurrencia no competitiva a pequeñas y medianas empresas industriales afectadas por las consecuencias económicas de la pandemia SARS-CoV-2, para financiación de capital circulante cofinanciadas con Fondos FEDER, que se adjuntan como Anexo I al presente decreto-ley.
