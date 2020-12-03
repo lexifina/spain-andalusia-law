@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a este Decreto-ley. En particular, con el alcance retroactivo que se establece en el artículo 3.2 queda derogada la Disposición adicional tercera de la Ley 3/2015, de 29 de diciembre, de Medidas en Materia de Gestión Integrada de la Calidad Ambiental, de Aguas, Tributaria y de Sanidad Animal.
