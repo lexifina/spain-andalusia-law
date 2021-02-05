@@ -9,3 +9,4 @@ Tres. Se modifica el apartado 5.c).2.º en el siguiente sentido:
 Se admite la compensación de gastos entre partidas del presupuesto aceptado del proyecto subvencionado con un límite del 30% del mismo.»
 Cuatro. Se modifica el apartado 24 a) 2.º en el siguiente sentido:
 «Con anticipo de un importe superior al 75% y hasta el límite del 100% del importe de la subvención por tratarse de: Subvención acogida al siguiente supuesto excepcional: establecido en el articulo 29.1c) de la vigente Ley del Presupuesto de la Comunidad Autónoma de Andalucía.»
+Véase, sobre la vigencia de la presente disposición final, la disposición adicional única.1 del Decreto-ley 2/2021, de 2 de febrero. Ref. BOJA-b-2021-90044#da

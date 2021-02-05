@@ -13,3 +13,4 @@ Cuatro. Se modifica el apartado 24 a) 2.º en el siguiente sentido:
 Cuadro Resumen de la Línea: Subvenciones a la asistencia a festivales y eventos de especial interés cultural
 Uno. En el apartado 2.a) se modifica el párrafo 2.º que queda redactado como sigue:
 «Se admitirán como actividades subvencionables aquellas que se hubieran iniciado dentro del año natural en el que se realice la correspondiente convocatoria y finalice como máximo el 30 de junio del año siguiente al de la citada convocatoria.»
+Véase, sobre la vigencia de la presente disposición final, la disposición adicional única.1 del Decreto-ley 2/2021, de 2 de febrero. Ref. BOJA-b-2021-90044#da
