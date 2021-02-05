@@ -1,0 +1,2 @@
+Disposición transitoria única. Gestión de los gastos del programa presupuestario 1.2.D Estrategia Digital y Gobierno Abierto.
+En tanto los estatutos de la Agencia Digital de Andalucía no estén aprobados y, por tanto, entre en funcionamiento dicha Agencia, la competencia sobre gestión de los gastos del programa presupuestario 1.2.D Estrategia Digital y Gobierno Abierto que reside en la sección presupuestaria de la Agencia Digital de Andalucía corresponderá a la persona titular de la Consejería de la Presidencia, Administración Pública e Interior.
