@@ -1,0 +1,2 @@
+Disposición final decimotercera. Entrada en vigor.
+El presente Decreto-ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía.
