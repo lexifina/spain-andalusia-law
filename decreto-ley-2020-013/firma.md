@@ -141,7 +141,7 @@ Expresados en m2. | 4 m2 por u.a. | 3,2 m2 por u.a. | 3 m2 por u.a | 2 m2 por u.
 (*) Ver especificaciones en las notas del anexo III.
 Aspectos generales
 Cómputos.
-– El 80% del total de unidades de alojamiento del establecimiento deben cumplir con las dimensiones mínimas. El 20% restante podrá cumplir con las dimensiones requeridas hasta dos categorías inferiores, en caso de no existir se deberá cumplir con las dimensiones requeridas en el Código Técnico de Edificación. Se permite una reducción máxima del 20 % de la dimensión mínima de las áreas sociales siempre que no limite su funcionalidad. Cuando el resultado sea un número entero y una fracción, si la fracción es igual o superior a cinco se tomará como resultado la unidad siguiente.
+– El 80% del total de unidades de alojamiento del establecimiento deben cumplir con las dimensiones mínimas. El 20% restante podrá cumplir con las dimensiones requeridas hasta dos categorías inferiores, en caso de existir. Se permite una reducción máxima del 20 % de la dimensión mínima de las áreas sociales siempre que no limite su funcionalidad. Cuando el resultado sea un número entero y una fracción, si la fracción es igual o superior a cinco se tomará como resultado la unidad siguiente.
 – En el cómputo del total de unidades de alojamiento se entenderán incluidas las suites y las suites junior. El cómputo total de plazas se determinará por el número de camas dobles, individuales, literas y convertibles instaladas en la unidad de alojamiento.
 – La dimensión mínima de las unidades de alojamiento tipo Junior Suite será la correspondiente a las dimensiones de una unidad de alojamiento doble más el salón pudiendo estar unificado en una única estancia. En las Suites será la correspondiente a las dimensiones de dos unidades de alojamiento dobles más el salón. En caso de que la reducción del 20% contemplada en el primer párrafo se aplique a estas unidades de alojamiento, se garantizará una superficie mínima del 80% para cada una de estas dependencias.
 Camas Literas.
@@ -154,6 +154,7 @@ Camas supletorias
 – Las camas supletorias se instalarán a petición expresa de las personas usuarias y deberán ser retiradas de las unidades de alojamiento, o recogidas en caso de sofá cama, mueble cama o similar, una vez finalizado el periodo de estancia de la persona usuaria.
 – Podrá utilizarse hasta un máximo de dos camas supletorias por dormitorio siempre que la superficie del mismo exceda por cada cama en un 25% de la mínima exigida. En los hoteles-apartamentos podrán instalarse camas convertibles en el salón comedor, a razón de una plaza por cada 6 m2. Cuando el resultado sea un número entero y una fracción, se despreciará la fracción.
 – El máximo de camas supletorias será del 50% del número de plazas.
+Se modifca el párrado primero del punto Cómputos de los Aspectos Generales por la disposición final 1.7 del Decreto-ley 4/2021, de 23 de marzo. Ref. BOJA-b-2021-90124#df
 ANEXO II
 Tablas puntuación sistema clasificación Hoteles y Hoteles-apartamentos
 Área/Sub-Área/ Requisitos | N.° Requ. | Puntos | 1* | 2* | 3* | 4* | 5*
@@ -174,7 +175,7 @@ Sala de audiovisuales. | 9 | 2 |  |  |  |  |
 Sala de lectura/escritura/biblioteca. | 10 | 2 |  |  |  |  | 
 Obras de arte originales en las zonas comunes*. | 11 | 10 |  |  |  |  | 
 Plantas o flores naturales. | 12 | 6 |  |  |  |  | 
-Terminal de internet accesible para clientes (1 por cada 50 unidades de alojamiento)*. | 13 | 3 |  |  | M | M | M
+Terminal de internet accesible para clientes (1 por cada 50 unidades de alojamiento)*. | 13 | 3 |  |  |  |  | 
 Acceso de internet en las áreas públicas (por ejemplo banda ancha, WLAN, Wi-Fi)*. | 14 | 5 | M | M | M | M | M
 Bar*. | 15 | 5 |  |  |  |  | 
 Bar* abierto los mismos días de apertura del hotel. | 7 |  |  |  | M | M
@@ -331,8 +332,8 @@ Almohada adicional a petición del cliente. | 118 | 1 |  |  | M | M |
 Dos almohadas por persona. | 119 | 4 |  |  |  |  | M
 Los clientes pueden elegir entre diferentes tipos de almohadas (carta de almohadas). | 120 | 4 |  |  |  |  | M
 Manta adicional a petición del cliente. | 121 | 2 |  |  | M | M | M
-Posibilidad de oscurecer la habitación (por ejemplo, cortinas opacas). | 122 | 1 | M | M | M | M | 
-Posibilidad de oscurecer completamente la habitación (por ejemplo, persianas). | 5 |  |  |  |  | M
+Posibilidad de oscurecer la habitación. | 122 | 1 | M | M | M | M | 
+Posibilidad de oscurecer completamente la habitación. | 5 |  |  |  |  | M
 II.5 Equipamientos de la unidad de alojamiento
 Visillo. | 123 | 1 |  |  |  |  | 
 Alfombra. | 124 | 1 |  |  |  |  | 
@@ -584,6 +585,7 @@ ANOTACIONES (comentarios sobre los criterios marcados con asterisco):
 (187) El kit contedrá como mínimo una esponja lustrazapatos, toallita para limpiazapatos o similar.
 (III.2) y (III.3) Los establecimientos clasificados en modalidad ciudad de 3 y 4 estrellas estarán exentos del cumplimiento de estos requisitos.
 (Bloque V) Con dotación de mobiliario específico y amplia oferta de medios audiovisuales.
+Se modifican los requisitos 13 y 122 por la disposición final 1.8 y 9 del Decreto-ley 4/2021, de 23 de marzo. Ref. BOJA-b-2021-90124#df
 ANEXO III
 Requisitos específicos Hostales, Pensiones y Albergues.
 Requisitos | Hostales | Pensiones | Albergues
@@ -647,15 +649,17 @@ ANOTACIONES:
 (8 y 18) Los establecimientos cuyo período de funcionamiento comprenda sólo los meses de octubre a abril no tendrán la obligación de disponer de refrigeración, del mismo modo, aquellos cuyo período de funcionamiento comprenda sólo los meses de mayo a septiembre no tendrán obligación de disponer de calefacción.
 (10) Salvo imposibilidad técnica.
 (15) Si el establecimiento dispone de más de 40 unidades alojativas.
-(36 a 50) En el caso del grupo pensión y albergue si se opta por disponer de baño en las unidades de alojamiento se debe cumplir con estos requisitos en la totalidad de ellos.
-Si la propia unidad de alojamiento no dispone de baño propio debe haber uno compartido por cada 5 unidades de alojamiento cumpliendo con los requisitos en tal proporción.
-(46) Se considerará ya cumplido, si el gel de baño puede realizar la función de champú, y así es indicado en el bote o dispensador existente.
+(36 a 43 y 50) Los establecimientos del grupo pensión con baños fuera de la unidad de alojamiento, deberán disponer de un baño compartido con todos estos requisitos por cada 5 unidades de alojamiento.
+(44 a 46) Requisitos por plaza, sustituibles por dispensadores colectivos. El gel de baño puede realizar la función de champú, debiendo ser indicado en el dispensador.
 ESPECIFICACIONES ALBERGUES:
 Las unidades de alojamiento serán de capacidad múltiple. No obstante, se permitirá un 20% de la capacidad alojativa total en unidades de alojamiento individuales o dobles. En este caso las habitaciones dobles o individuales deben cumplir con los requisitos mínimos establecidos para el grupo Pensión.
 Las habitaciones de ocupación múltiple podrán tener camas individuales, dobles o literas, desde cuatro hasta un máximo de dieciséis plazas por habitación. Su superficie mínima vendrá determinada por los tipos de cama instaladas, a razón de 4 m2 por cama individual o litera y 8 m2 por cama doble.
 Dispondrán de una estancia de uso social común a modo de salón techado, a razón de un mínimo de 1 m2 por plaza reglamentaria. No obstante lo anterior, cuando el establecimiento disponga de una capacidad de alojamiento superior a 30 plazas bastará que dicha sala tenga una superficie de 30 m2. Cuando la capacidad del establecimiento sea superior a 20 plazas podrán computarse como medida del salón los patios, terrazas y otros salones del establecimiento si éstos son transitables y pueden ser dedicados a ocio y esparcimiento y siempre que se respeten 20 m2 como mínimo de la estancia de uso social común.
-Las instalaciones sanitarias tendrán una relación de un baño (inodoro, lavabo y placa de ducha o bañera) por cada 8 plazas. Dichas instalaciones podrán estar dentro o fuera de la unidad de alojamiento; en este último caso pueden ser colectivas, pero separadas por sexo. Si existen habitaciones dobles o individuales con baño propio deben cumplir con los requisitos mínimos establecidos para éstos para el grupo Pensión.
+En las unidades de alojamiento de capacidad múltiple, las instalaciones sanitarias tendrán una relación de un baño (inodoro, lavabo y placa de ducha o bañera) por cada 8 plazas. Dichas instalaciones podrán estar dentro o fuera de la unidad de alojamiento; en este último caso pueden ser colectivas, pero separadas por sexo.
+En caso de disponer, además, de unidades de alojamiento individuales o dobles, el baño deberá cumplir con los requisitos mínimos establecidos para el grupo pensión. Estas instalaciones sanitarias se podrán incorporar en los baños colectivos.
+En todo caso, el cómputo de baños de las unidades de alojamiento de capacidad múltiple y de las unidades de alojamiento individuales o dobles se hará por separado.
 Las estructuras cerradas tipo cabinas, cápsulas o similar, tendrán la consideración de literas, con camas dobles o individuales, pudiendo colocarse libremente dentro de la unidad de alojamiento con un máximo de dos alturas. Si son de cama doble se computarán 8 m2 por estructura.
+Se suprimen determinadas anotaciones, se añaden otras nuevas y se modifica el párrafo cuarto del punto Especificaciones Albergues por la disposición final 1.10 y 11 del Decreto-ley 4/2021, de 23 de marzo. Ref. BOJA-b-2021-90124#df
 Se modifica el requisito 19 por la disposición final 6.5 del Decreto-ley 14/2020, de 26 de mayo. Ref. BOJA-b-2020-90188#df-6
 ANEXO IV
 Requisitos de instalaciones, equipamientos y servicios para la obtención del calificativo Gran Lujo
