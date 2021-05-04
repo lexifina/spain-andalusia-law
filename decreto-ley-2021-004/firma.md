@@ -1,6 +1,6 @@
 Sevilla, 23 de marzo de 2021.‒Juan Manuel Moreno Bonilla, Presidente de la Junta de Andalucía.‒Elías Bendodo Benasayag, Consejero de la Presidencia, Administración Pública e Interior
 ANEXO I
-Relación de actividades económicas subvencionables (artículo 29.2.c) del decreto-ley
+Relación de actividades económicas subvencionables (artículo 29.2.c)
 1310 | Preparación e hilado de fibras textiles.
 1320 | Fabricación de tejidos textiles.
 1330 | Acabado de textiles.
@@ -31,6 +31,7 @@ Relación de actividades económicas subvencionables (artículo 29.2.c) del decr
 2331 | Fabricación de azulejos y baldosas de cerámica.
 2341 | Fabricación de artículos cerámicos de uso doméstico y ornamental.
 2349 | Fabricación de otros productos cerámicos.
+2370 | Corte, tallado y acabado de la piedra.
 2410 | Fabricación de productos básicos de hierro, acero y ferroaleaciones.
 2512 | Fabricación de carpintería metálica.
 2550 | Forja, estampación y embutición de metales; metalurgia de polvos.
@@ -203,6 +204,7 @@ Relación de actividades económicas subvencionables (artículo 29.2.c) del decr
 9700 | Actividades de los hogares como empleadores de personal doméstico.
 9810 | Actividades de los hogares como productores de bienes para uso propio.
 9900 | Actividades de organizaciones y organismos extraterritoriales.
+Se modifica por la disposición final 1.3 del Decreto-ley 8/2021, de 4 de mayo. Ref. BOJA-b-2021-90167#df
 Redactado conforme a la corrección de errores publicada en el BOJA extraordinario núm. 31 de 13 de abril de 2021. Ref. BOJA-b-2021-90143
 ANEXO II
 Certificado de Apoderamiento
