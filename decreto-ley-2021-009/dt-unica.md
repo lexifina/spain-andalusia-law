@@ -1,0 +1,2 @@
+Disposición transitoria única. Solicitudes de reconocimiento de la situación de dependencia presentadas con anterioridad a la entrada en vigor del presente decreto-ley.
+Las solicitudes de reconocimiento de la situación de dependencia presentadas con anterioridad a la entrada en vigor del presente decreto-ley, se regirán por la normativa vigente cuando se presentaron, computándose el plazo máximo para resolver, a partir de la fecha de entrada de dichas solicitudes en el registro de los servicios sociales comunitarios correspondientes.
