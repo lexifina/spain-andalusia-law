@@ -1,0 +1,4 @@
+Disposición transitoria vigesimotercera. Régimen transitorio de los procedimientos administrativos iniciados en el ámbito de museos y patrimonio histórico.
+Los procedimientos administrativos iniciados a la entrada en vigor del presente decreto-ley se tramitarán y resolverán con arreglo a lo dispuesto en el mismo.
+Asimismo, se procederá al archivo de las solicitudes de autorización de actividades arqueológicas para labores de consolidación, restauración y restitución arqueológicas, para las actuaciones de cerramiento, vallado, cubrición y documentación gráfica, así como para el estudio de los materiales arqueológicos depositados en los museos de la Comunidad Autónoma de Andalucía, y que se encuentren pendientes de resolución a la entrada en vigor del presente decreto-ley.
+Redactado conforme a la la corrrección de errores publicada en el BOJA núm. 246, de 24 de diciembre de 2021. Ref. BOJA-b-2021-90446

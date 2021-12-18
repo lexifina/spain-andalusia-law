@@ -1,0 +1,2 @@
+Disposición transitoria decimosexta. Régimen transitorio de los procedimientos de declaración de inversión empresarial de interés estratégico iniciados con anterioridad a la entrada en vigor del presente decreto-ley.
+Los procedimientos de declaración de inversión empresarial de interés estratégico iniciados con anterioridad a la entrada en vigor del presente decreto-ley se tramitarán y resolverán con arreglo a las disposiciones vigentes en el momento de su iniciación.

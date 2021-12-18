@@ -1,0 +1,2 @@
+Disposición adicional decimocuarta. Declaración de utilidad pública y de necesidad de urgente ocupación de los proyectos de las infraestructuras vinculadas al transporte público financiados con fondos FEDER.
+La aprobación de los proyectos de infraestructuras vinculadas al transporte público financiados con fondos FEDER llevará implícita la declaración de la utilidad pública y la necesidad de urgente ocupación a los efectos de la expropiación forzosa de los bienes y derechos necesarios para la ejecución de la actuación proyectada y para su conexión a las redes generales.
