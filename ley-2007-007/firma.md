@@ -1,7 +1,7 @@
 Sevilla, 9 de julio de 2007.
 El Presidente,
 Manuel Chaves González.
-Téngase en cuenta que se habilita al Consejo de Gobierno para modificar los anexos mediante disposición publicada únicamente en el "Boletín Oficial de la Junta de Andalucía", según se establece en la disposición final 2
+Téngase en cuenta que se habilita al Consejo de Gobierno para modificar los anexos mediante disposición publicada únicamente en el "Boletín Oficial de la Junta de Andalucía", según se establece en disposición final segunda.
 ANEXO I
 Categorías de actuaciones sometidas a los instrumentos de prevención y control ambiental
 CAT. | ACTUACIÓN | INSTR.
@@ -46,7 +46,7 @@ d) Exclusivamente el depósito final de residuos radiactivos.
 e) Exclusivamente el almacenamiento de combustibles nucleares irradiados o de residuos radiactivos en un lugar distinto del de producción.
 f) Instalaciones para el almacenamiento y procesamiento de residuos radiactivos no incluidos en los categorías anteriores.
 2.11 | Instalaciones para la producción de energía hidroeléctrica. | AAU
-2.12 | Instalaciones industriales para el transporte de gas, vapor y agua caliente, con excepción de las internas de las industrias. | AAU*
+2.12 | Instalaciones para el transporte de vapor y agua caliente, excepto en suelo urbano, que tengan una longitud superior a 10 km. | AAU*
 2.13 | Tuberías de longitud superior a 10 kilómetros, excepto los que transcurran por suelo urbano o urbanizable, para el transporte de: | AAU
 a) gas, petróleo o productos químicos, incluyendo instalaciones de compresión.
 b) flujos de dióxido de carbono con fines de almacenamiento geológico, incluidas las estaciones de bombeo asociadas.
@@ -99,15 +99,15 @@ b) Fabricación de clinker en hornos rotatorios, con una capacidad de producció
 2.ª Que se encuentre a menos de 500 metros de una zona residencial.
 3.ª Que ocupe una superficie superior a 1 hectárea.
 4.6 | Instalaciones para la fabricación de vidrio, incluida la fibra de vidrio, con una capacidad de fusión superior a 20 toneladas por día. | AAI
-4.7 | Instalaciones para la fabricación de vidrio, incluida la fibra de vidrio no incluidas en la categoría 4.6 siempre que se den de forma simultánea las circunstancias siguientes: | AAU*
+4.7 | Instalaciones para la fabricación de vidrio, incluida la fibra de vidrio no incluidas en la categoría 4.6 siempre que se den de forma simultánea las circunstancias siguientes: | CA
  | 1.ª Que esté situada fuera de polígonos industriales.
  | 2.ª Que se encuentre a menos de 500 metros de una zona residencial.
  | 3.ª Que ocupe una superficie superior a 1 hectárea.
-4.8 | Instalaciones dedicadas a la fabricación de hormigón o clasificación de áridos, siempre que se den de forma simultánea las circunstancias siguientes: | AAU*
+4.8 | Instalaciones dedicadas a la fabricación de hormigón o clasificación de áridos, siempre que se den de forma simultánea las circunstancias siguientes: | CA
  | 1.ª Que esté situada fuera de polígonos industriales.
  | 2.ª Que se encuentre a menos de 500 metros de una zona residencial.
  | 3.ª Que ocupe una superficie superior a 1 hectárea.
-4.9 | Instalaciones de tratamiento térmico de sustancias minerales para la obtención de productos (como yeso, perlita expandida o similares) para la construcción y otros usos siempre que se den de forma simultánea las circunstancias siguientes: | AAU*
+4.9 | Instalaciones de tratamiento térmico de sustancias minerales para la obtención de productos (como yeso, perlita expandida o similares) para la construcción y otros usos siempre que se den de forma simultánea las circunstancias siguientes: | CA
  | 1.ª Que esté situada fuera de polígonos industriales.
  | 2.ª Que se encuentre a menos de 500 metros de una zona residencial.
  | 3.ª Que ocupe una superficie superior a 1 hectárea.
@@ -118,7 +118,7 @@ b) Fabricación de clinker en hornos rotatorios, con una capacidad de producció
 3.ª Que ocupe una superficie superior a 1 hectárea.
 4.12 | Instalaciones para la fabricación de productos cerámicos mediante horneado, en particular, tejas, ladrillos, refractarios, azulejos, gres cerámico o productos cerámicos ornamentales o de uso doméstico, con una capacidad de producción superior a 75 toneladas por día, o una capacidad de horneado de más de 4 metros cúbicos y de más de 300 kilogramos por metro cúbico de densidad de carga por horno. | AAI
 4.13 | Instalaciones para la fabricación de productos cerámicos mediante horneado, en particular, tejas, ladrillos, refractarios, azulejos, gres cerámico o productos cerámicos ornamentales o de uso doméstico, con una capacidad de producción igual o superior a 25 toneladas por día, no incluidos en el epígrafe 4.12. | AAU*
-4.14 | Las instalaciones definidas en las categorías 4.3, 4.5, 4.7, 4.8, 4.9, 4.11, 4.13, 4.21 y 4.24 no incluidas en ellas. | CA
+4.14 | Las instalaciones definidas en las categorías 4.3, 4.5, 4.11, 4.13, 4.21 y 4.24 no incluidas en ellas. | CA
 4.15 | Instalaciones de calcinación o sinterización de minerales metálicos, incluido el mineral sulfuroso. | AAI
 4.16 | Instalaciones industriales para la fabricación de briquetas de coque, de hulla, de lignito o de cualquier materia carbonosa. | AAU*
 4.17 | Coquerías. | AAI
@@ -159,7 +159,7 @@ k) Tensioactivos y agentes de superficie.
 5.9. BIS | Instalaciones para la formulación y el envasado de productos cosméticos, farmacéuticos, fertilizantes pinturas, barnices y detergentes, entendiendo como formulación la mezcla de materiales sin transformación química de los mismos, para su venta al por menor. | CA-DR
 5.10 | Fabricación y tratamiento de productos a base de elastómeros. | AAU*
 5.11 | Sin contenido. | AAU*
-5.12 | Tuberías para el transporte de productos químicos, con excepción de las internas de las instalaciones industriales. | AAU
+5.12 | Tuberías para el transporte de productos químicos no incluidas en la categoría 2.13, con excepción de las internas de las instalaciones industriales. | CA
 5.13 | Instalaciones industriales de almacenamiento de productos petrolíferos, petroquímicos y químicos con más de 100 metros cúbicos de capacidad (proyectos no incluidos en el punto 2.16, quedan exceptuados los proyectos recogidos en el 2.16 BIS que serán tramitados por calificación ambiental). | AAU*
 6. | Industria textil, papelera y del cuero. | 
 6.1 | Instalaciones industriales destinadas a la fabricación de pasta de papel a partir de madera o de otras materias fibrosas. | AAI
@@ -201,13 +201,13 @@ b) Que se ubiquen en suelo no urbanizable.
 7.9 | Construcción de vías navegables, reguladas en la Decisión n.º 661/2010/UE del Parlamento Europeo y del Consejo, de 7 de julio de 2010, sobre las orientaciones de la Unión para el desarrollo de la red transeuropea de transporte; y puertos de navegación interior que permitan el paso de barcos de arqueo superior a 1.350 t. | AAU
 7.9.BIS | -Construcción de vías navegables tierra adentro distintos de los incluidos en el apartado anterior. | AAU*
  | -Obras de encauzamiento y proyectos de defensa de cauces y márgenes cuando la longitud total del tramo afectado sea superior a 5 km. Se exceptúan aquellas actuaciones que se ejecuten para evitar el riesgo en zona urbana. -Obras de encauzamiento y proyectos de defensa de cursos naturales cuando puedan suponer transformaciones ecológicas negativas para el espacio.
-7.10 | Áreas de transporte de mercancías. | AAU*
+7.10 | Áreas de transporte de mercancías. | CdA
 7.11 | Caminos rurales5 de nuevo trazado que transcurran por terrenos con una pendiente6 superior al 40% a lo largo del 20% o más de su trazado y superen los 100 m de longitud. Así como los caminos rurales forestales de servicio7 con una longitud superior a 1000 m. | CA
 7.12 | Caminos rurales de nuevo trazado no incluidos en la categoría anterior. | CA-DR
 7.13 | Pistas permanentes de carreras y de pruebas para vehículos motorizados. | AAU*
-7.14 | Proyectos de urbanizaciones, así como los de establecimientos hoteleros, apartamentos turísticos y construcciones asociadas a éstos así definidos por la normativa sectorial en materia de turismo, incluida la construcción de establecimientos comerciales y aparcamientos (1), en alguno de los siguientes casos: a) En suelo no urbanizable. b) Que deriven de instrumentos de planeamiento urbanístico no sometidos a evaluación ambiental. c) Cuando así lo determine el informe de valoración ambiental del instrumento de planeamiento urbanístico del que derive. Esta determinación se ajustará a los criterios establecidos en el Anexo III de la Ley 21/2013, de 9 de diciembre. d) Que ocupen una superficie igual o superior a 10 hectáreas. e) Que prevean la construcción de edificios de más de 15 plantas en superficie. (1) No se consideran incluidos los aparcamientos comunitarios de uso privado. | AAU
+7.14 | Proyectos de urbanizaciones, así como los de establecimientos hoteleros, apartamentos turísticos y construcciones asociadas a éstos así definidos por la normativa sectorial en materia de turismo, incluida la construcción de establecimientos comerciales y aparcamientos (1), en suelo rústico así definido por la normativa sectorial en materia de urbanismo y ordenación del territorio. (1) No se consideran incluidos los aparcamientos comunitarios de uso privado | AAU
 7.15 | Proyectos de urbanizaciones no incluidos en la categoría anterior, incluida la construcción de establecimientos comerciales y aparcamientos (1). (1) No se consideran incluidos los aparcamientos comunitarios de uso privado. | CA
-7.16 | Proyectos de zonas o polígonos industriales, en alguno de los siguientes casos: a) En suelo no urbanizable. b) Que deriven de instrumentos de planeamiento urbanístico no sometidos a evaluación ambiental. c) Cuando así lo determine el informe de valoración ambiental del instrumento de planeamiento urbanístico del que derive. Esta determinación se ajustará a los criterios establecidos en el Anexo III de la Ley 21/2013, de 9 de diciembre. d) Que ocupe una superficie superior a 25 hectáreas. | AAU
+7.16 | Proyectos de zonas o polígonos industriales, en suelo rústico así definido por la normativa sectorial en materia de urbanismo y ordenación del territorio. | AAU
 7.17 | Proyectos de zonas o polígonos industriales no incluidos en la categoría anterior. | CA
 5 7.11: Se entenderá por camino rural, los caminos agrícolas, los forestales de servicio y los de servicio a los poblados que discurran por suelo no urbanizable, cuyas condiciones de pendiente, radio de curvatura y firme lo hagan apto para el tránsito de cualquier tipo de vehículos durante todo el año, para cuya ejecución sea necesario aporte de material o técnicas de mejora de calzada o estabilización, para cuya construcción puedan ser necesarias obras de fábrica en pasos o cunetas y que al menos posea tres metros de firme.
 6 7.11: Se entenderá por pendiente, la media de la línea de máxima pendiente en una franja de 100 metros, en planta, que incluya la rasante del camino.
@@ -236,7 +236,8 @@ CAT. | ACTUACIÓN | INSTR.
 9.7 | Proyectos para destinar a la explotación agrícola intensiva terrenos incultos que impliquen la ocupación de una superficie mayor de 100 hectáreas o de 50 hectáreas en el caso de terrenos en los que la pendiente media sea igual o superior al 20 por ciento. | AAU*
 9.8 | Proyectos de concentración parcelaria cuando afecten a una superficie mayor de 100 ha o cuando conllevando cambio de uso de suelos y supongan una alteración sustancial de la cubierta vegetal, se desarrollen en Espacios Naturales Protegidos (incluidos los recogidos en la Ley 2/1989, de 18 de julio, por la que se aprueba el inventario de Espacios Naturales Protegidos de Andalucía y se establecen medidas adicionales para su protección), Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad. | AAU*
 9.9 | Instalaciones para la acuicultura intensiva que tenga una capacidad de producción superior a 500 toneladas al año. | AAU*
-9.10 | Cualquier proyecto que suponga un cambio de uso del suelo en una superficie igual o superior a 50 ha. | AAU
+9.10 | Cualquier proyecto que suponga un cambio de uso del suelo en una superficie igual o superior a 100 ha. | AAU
+9.10. bis | Cualquier proyecto que suponga un cambio de uso del suelo en una superficie igual o superior a 50 ha. e inferior a 100 ha. | AAU*
 9.11 | Cualquier proyecto que suponga un cambio de uso del suelo en una superficie igual o superior a 10 ha que se desarrollen en Espacios Naturales Protegidos (incluidos los recogidos en la Ley 2/1989, de 18 de julio, por la que se aprueba el inventario de Espacios Naturales Protegidos de Andalucía y se establecen medidas adicionales para su protección), Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad. | AAU*
 10. | Industrias agroalimentarias y explotaciones ganaderas. | 
 10.1 | Mataderos con una capacidad de producción de canales superior a 50 toneladas por día. | AAI
@@ -361,38 +362,30 @@ Cuando la única actividad de tratamiento de residuos que se lleve a cabo en la 
 13.4.BIS | Complejos deportivos y campamentos permanentes para tiendas de campaña o caravanas no incluidas en la categoría 13.4. | CA
 13.5 | Proyectos para ganar tierras al mar, siempre que supongan una superficie superior a cinco hectáreas. | AAU
 13.5 BIS | Proyecto no incluidos en el epígrafe anterior. | CA
-13.6 | Campos de golf. | AAU
+13.6 | Campos de Golf que ocupen una superficie mayor o igual a 10 hectáreas. | AAU*
+13.6.bis | Campos de Golf que ocupen una superficie menor a 10 hectáreas no incluidos en la categoría 13.7.a) | CA
 13.7 | Los siguientes proyectos cuando se desarrollen en Espacios Naturales Protegidos (incluidos los recogidos en la Ley 2/1989, de 18 de julio, por la que se aprueba el inventario de Espacios Naturales Protegidos de Andalucía y se establecen medidas adicionales para su protección), Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad: a) Transformaciones de uso del suelo que impliquen eliminación de la cubierta vegetal superiores a 1 hectárea. b) Proyectos de gestión de recursos hídricos para la agricultura, con inclusión de proyectos de riego o de avenamientos de terrenos, cuando afecten a una superficie mayor de 10 hectáreas o proyectos de consolidación y mejora de regadíos de más de 100 hectáreas. c) Líneas eléctricas para el suministro de energía eléctrica cuya longitud sea superior a 1.000 metros o que supongan un pasillo de seguridad sobre zonas forestales superior a 5 metros de anchura. d) Obras de encauzamiento y proyectos de defensa de cauces naturales y sus márgenes. e) Instalaciones de conducción de agua a larga distancia con un diámetro de más de 800 mm y una longitud superior a 10 km. f) Plantas de tratamiento de aguas residuales menores de 10.000 hab./equiv. g) Extracción de materiales mediante dragados marinos excepto cuando el objeto del proyecto sea mantener las condiciones hidrodinámicas o de navegabilidad. h) Dragados fluviales cuando el volumen extraído sea superior a 20.000 metros cúbicos al año, y dragados marinos cuando el volumen extraído sea superior a 20.000 metros cúbicos anuales. i) Espigones y pantalanes para carga y descarga, conectados a tierra. j) Oleoductos y gasoductos excepto los que transcurran por suelo urbano o urbanizable. k) Las actuaciones de investigación de yacimientos minerales y demás recursos geológicos. I) Camino rural forestal de servicio de nuevo trazado con una longitud superior a 100 metros. m) Proyectos para destinar áreas incultas o áreas seminaturales a la explotación agrícola o aprovechamiento forestal maderero que impliquen la ocupación de una superficie mayor de 10 ha. n) Construcción de aeropuertos, según la definición del artículo 39 de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea con pistas de despegue y aterrizaje de una longitud inferior a 2.100 metros. ñ) Proyectos que requieran la urbanización del suelo para polígonos industriales o usos residenciales que ocupen más de 5 hectáreas. o) Parques temáticos. | AAU
 13.8 | Instalaciones para depositar y tratar los lodos de depuradora. | AAU*
 13.9 | Instalaciones o bancos de prueba de motores, turbinas o reactores. | AAU*
 13.10 | Instalaciones para la recuperación o destrucción de sustancias explosivas. | AAU*
 13.11 | Pistas de esquí, remontes y teleféricos y construcciones asociadas. | AAU
-13.12 | Parques temáticos, Parques de aventura. Parques acuáticos y análogos, siempre que se de alguna de las circunstancias siguientes: | AAU
+13.12 | Parques temáticos, Parques de aventura. Parques acuáticos y análogos, siempre que se de alguna de las circunstancias siguientes: | AAU*
 1.ª Que esté situada en suelo no urbanizable.
 2.ª Que se encuentre a menos de 500 metros de una zona residencial.
 3.ª Que ocupe una superficie superior a 5 hectáreas, excluida la zona de aparcamientos.
 13.13 | Actividades de dragado, drenaje, relleno y desecación de zonas húmedas. | AAU
-13.14 | Construcción de salinas. | AAU
+13.14 | Construcción de salinas. | AAU*
 13.15 | Instalaciones de almacenamiento de chatarra, de almacenamiento de vehículos desechados e instalaciones de desguace y descontaminación de vehículos que no se desarrollen en el interior de una nave en polígono industrial, o si la actividad se realiza en el exterior o fuera de zonas industriales. | AAU*
-13.16 | Instalaciones para la fabricación de aglomerado de corcho siempre que se den de forma simultánea las circunstancias siguientes: | 
-1ª. Que esté situada fuera de polígonos industriales.
-2ª. Que se encuentre a menos de 500 metros de una zona residencial.
-3ª. Que ocupe una superficie superior a 1 hectárea.
-13.17 | Instalaciones para el trabajo de metales; embutido y corte, calderería en general y construcción de estructuras metálicas siempre que se den de forma simultánea las circunstancias siguientes: | AAU*
-1ª. Que esté situada fuera de polígonos industriales.
-2ª. Que se encuentre a menos de 500 metros de una zona residencial.
-3ª. Que ocupe una superficie superior a 1 hectárea.
-13.18 | Industrias de transformación de la madera y fabricación de muebles siempre que se den de forma simultánea las circunstancias siguientes: | AAU*
-1ª. Que esté situada fuera de polígonos industriales.
-2ª. Que se encuentre a menos de 500 metros de una zona residencial.
-3ª. Que ocupe una superficie superior a 1 hectárea.
-13.19 | Construcción de grandes superficies minoristas y establecimientos comerciales mayoristas, así definidos de acuerdo con la normativa vigente en materia de comercio interior, que tengan una superficie de venta superior a 2.500 metros cuadrados, siempre que se den forma simultánea las circunstancias siguientes: | AAU*
+13.16 | Instalaciones para la fabricación de aglomerado de corcho. | CA
+13.17 | Instalaciones para el trabajo de metales; embutido y corte, calderería en general y construcción de estructuras metálicas. | CA
+13.18 | Industrias de transformación de la madera y fabricación de muebles. | CA
+13.19 | Construcción de grandes superficies minoristas y establecimientos comerciales mayoristas, así definidos de acuerdo con la normativa vigente en materia de comercio interior, siempre que se den forma simultánea las circunstancias siguientes: | AAU*
 1.º Que se encuentre a menos de 500 metros de una residencial.
 2.º Que ocupe una superficie superior a 3 hectáreas.
-13.20 | Instalaciones de las categorías 13.12, 13.16, 13.17, 13.18 no incluidas en ellas. | CA
+13.20 | Instalaciones de la categoría 13.12, no incluidas en ella. | CA
 13.20. BIS | Instalaciones de las categorías 13.15, no incluidas en ella. | CA-DR
-13.21 | Construcción de establecimientos comerciales así definidos de acuerdo con la normativa vigente en materia de comercio interior no incluidos en la categoría 13.19, así como los comercios al por menor de cualquier clase de productos alimenticios y bebidas en régimen de autoservicio o mixto en supermercados. Cuando la superficie construida total de su sala de ventas sea mayor o igual a 750 m². | CA
-13.21. BIS | Construcción de establecimientos comerciales así definidos de acuerdo con la normativa vigente en materia de comercio interior no incluidos en la categoría 13.19, así como los comercios al por menor de cualquier clase de productos alimenticios y bebidas en régimen de autoservicio o mixto en supermercados. Cuando la superficie construida total de su sala de ventas sea inferior de 750 m². | CA-DR
+13.21 | Construcción de establecimientos comerciales así definidos de acuerdo con la normativa vigente en materia de comercio interior no incluidos en las categorías 13.19 y 7.14, así como los comercios al por menor de cualquier clase de productos alimenticios y bebidas en régimen de autoservicio o mixto en supermercados. Cuando la superficie de ocupación sea mayor o igual a 1 ha. | CA
+13.21. BIS | Construcción de establecimientos comerciales así definidos de acuerdo con la normativa vigente en materia de comercio interior no incluidos en la categoría 13.21, así como los comercios al por menor de cualquier clase de productos alimenticios y bebidas en régimen de autoservicio o mixto en supermercados. Cuando la superficie de ocupación sea inferior a 1 ha. | CA-DR
 13.22 | Doma de animales y picaderos. | CA-DR
 13.23 | Tinte, limpieza en seco, lavado y planchado con una superficie construida total mayor o igual de 750 m². | CA
 13.23.BIS | Tinte, limpieza en seco, lavado y planchado no incluidos en la categoría anterior. | CA-DR
@@ -402,10 +395,11 @@ Cuando la única actividad de tratamiento de residuos que se lleve a cabo en la 
 13.26 | Almacenamiento y/o venta de artículos de droguería o perfumería al por mayor. | CA
 Almacenamiento y/o venta de artículos de droguería o perfumería al por menor con una superficie construida total mayor o igual de 750 m².
 13.26. BIS | Almacenamiento y/o venta de artículos de droguería o perfumería al por menor con una superficie construida total menor de 750 m². | CA-DR
-13.27 | Aparcamientos de uso público de interés metropolitano. | AAU
-13.28 | Aparcamientos de uso público no incluidos en la categoría 13.27. | CA-DR
-13.29 | Estaciones de autobuses de interés metropolitano. | AAU
-13.30 | Estaciones de autobuses no incluidas en la categoría 13.29, se incluyen las instalaciones destinadas al aparcamiento de flotas de autobuses urbanos e interurbanos. | CA
+13.27 | Aparcamientos de uso público de interés metropolitano, en suelo no urbanizable, y que en superficie ocupen más de 1 ha. | AAU*
+13.27.bis | Aparcamientos de uso público de interés metropolitano, en suelo no urbanizable, no incluidos en la categoría 13.27. | CA
+13.28 | Aparcamientos de uso público en suelo urbano o urbanizable. | CA-DR
+13.29 | Estaciones de autobuses. Se incluyen las de interés metropolitano e instalaciones destinadas al aparcamiento de flotas de autobuses urbanos e interurbanos. | AAU
+13.30 | Sin contenido. | 
 13.31 | Establecimientos hoteleros y apartamentos turísticos en suelo urbano o urbanizable. | CA
 13.32 | Restaurantes, cafeterías, pubs y bares. | CA
 13.33 | Discotecas y salas de fiesta. | CA
@@ -460,11 +454,12 @@ Almacén y/o venta de abonos y piensos al por menor con una superficie construid
 13.57 | Estaciones o instalaciones radioeléctricas utilizadas para la prestación de servicios de comunicaciones electrónicas disponibles para el publico, cuando se de alguna de las condiciones siguientes: 1º. Que se ubiquen en suelo no urbanizable. 2º. Que ocupen una superficie construida total mayor de 300 metros cuadrados, computándose a tal efecto toda la superficie incluida dentro del vallado de la estación o instalación. 3º. Que tenga impacto en Espacios Naturales Protegidos (incluidos los recogidos en la Ley 2/1989, de 18 de julio, por la que se aprueba el inventario de Espacios Naturales Protegidos de Andalucía y se establecen medidas adicionales para su protección), Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad. 4º.- Que tengan impacto en el patrimonio histórico artístico o en el uso privativo y ocupación de los bienes de dominio publico. | CA
 13.57.BIS | Infraestructuras de telecomunicaciones no incluidas en el epígrafe anterior. | CA-DR
 13.58 | Captura de flujos de CO2 procedentes de instalaciones sometidas a AAI con fines de almacenamiento geológico con arreglo a la Ley 40/2010, de 29 de diciembre, de almacenamiento geológico de dióxido de carbono. | AAI
-13.59 | Parques zoológicos en suelo no urbanizable. | AAU
+13.59 | Parques zoológicos en suelo no urbanizable. | CA
 13.60 | Parques zoológicos en suelo urbano o urbanizable. | CA
 13.61 | Instalaciones para vermicultura o vermicompostaje. Lombricutura. | CA
 13.62 | Crematorios. | CA
-13.63 | Centros residenciales de personas mayores, de personas con discapacidad y de menores o asimilables a estos, en suelo no urbanizable. | AAU*
+13.63 | Centros residenciales de personas mayores, de personas con discapacidad y de menores o asimilables a estos, en suelo no urbanizable, cuando ocupen una superficie mayor de 5 ha. | AAU*
+13.63.bis | Centros residenciales de personas mayores, de personas con discapacidad y de menores o asimilables a estos, en suelo no urbanizable, no incluidos en el epígrafe 13.63. | CA
 13.64 | Instalaciones para el compostaje agrario de residuos biodegradables, procedentes de actividades agrarias, realizado en la propia explotación agraria y destinados al autoconsumo. | CA-DR
 Nomenclatura:
 AAI: Autorización Ambiental Integrada.
@@ -473,6 +468,7 @@ AAU*.: Autorización Ambiental Unificada, procedimiento abreviado.
 EA: Evaluación Ambiental.
 CA: Calificación Ambiental.
 CA-DR: Calificación ambiental mediante Declaración Responsable.
+Se modifican las categorías 2, 4, 5, 7, 9 y 13 por el art. 28.10 del Decreto-ley 26/2021, de 14 de diciembre de 2021. Ref. BOJA-b-2021-90434#a2-10
 Se modifican las categorías 2, 10 y 11 por el art. 11.3 del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
 Se deja sin contenido el apartado 12 por el art. 2 de la Ley 3/2015, de 29 de diciembre. Ref. BOE-A-2016-958.
 Téngase en cuenta que este apartado ya se dejó sin efecto por el Decreto-ley 3/2015, de 3 de marzo.

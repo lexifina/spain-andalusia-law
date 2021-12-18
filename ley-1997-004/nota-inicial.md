@@ -1,1 +1,1 @@
-Incluye la corrección de errores publicada en BOJA núm. 99, de 26 de agosto de 1997. Ref. BOE-A-1997-19435.
+Téngase en cuenta que se modifica la denominación de esta Ley a: "Ley 4/1997, de 9 de julio, de Prevención y Asistencia en Materia de Adicciones", por el art. 58.1 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a5-10

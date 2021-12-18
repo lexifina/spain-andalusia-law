@@ -593,7 +593,7 @@ Requisitos | Hostales | Pensiones | Albergues
 I. Áreas Comunes
 1 | Existencia de servicio de recepción 24 horas*. | M | M | M | M
 2 | Existencia de teléfono público en el establecimiento. | M | M | M | M
-3 | Disponer de un espacio destinado a sala de estar. | M | M | M | M
+3 | Disponer de un espacio destinado a sala de estar. |  | M |  | M
 4 | Disponer de información turística de la zona. | M | M | M | M
 5 | Manual de servicios bilingüe (en castellano e inglés). | M | M | M | 
 6 | Manual de servicios multilingüe (incluyendo castellano e inglés). |  | M |  | M
@@ -659,6 +659,7 @@ En las unidades de alojamiento de capacidad múltiple, las instalaciones sanitar
 En caso de disponer, además, de unidades de alojamiento individuales o dobles, el baño deberá cumplir con los requisitos mínimos establecidos para el grupo pensión. Estas instalaciones sanitarias se podrán incorporar en los baños colectivos.
 En todo caso, el cómputo de baños de las unidades de alojamiento de capacidad múltiple y de las unidades de alojamiento individuales o dobles se hará por separado.
 Las estructuras cerradas tipo cabinas, cápsulas o similar, tendrán la consideración de literas, con camas dobles o individuales, pudiendo colocarse libremente dentro de la unidad de alojamiento con un máximo de dos alturas. Si son de cama doble se computarán 8 m2 por estructura.
+Se modifica el requisito 3 por el art. 7 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a7
 Se suprimen determinadas anotaciones, se añaden otras nuevas y se modifica el párrafo cuarto del punto Especificaciones Albergues por la disposición final 1.10 y 11 del Decreto-ley 4/2021, de 23 de marzo. Ref. BOJA-b-2021-90124#df
 Se modifica el requisito 19 por la disposición final 6.5 del Decreto-ley 14/2020, de 26 de mayo. Ref. BOJA-b-2020-90188#df-6
 ANEXO IV

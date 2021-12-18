@@ -1,0 +1,7 @@
+Sección 5.ª La venta on line
+Se añade por el art. 49.17 del Decreto-ley 26/2021, de 14 de diciembre de 2021. Ref. BOJA-b-2021-90434#a4-11
+Artículo 58 bis. Concepto y requisitos.
+1. La venta on line es una modalidad de venta a distancia, que consiste en la compra y venta de productos a través de internet. Se trata, por tanto, de un tipo de venta especial caracterizada por no contar con la presencia física simultánea de la persona comerciante y consumidora.
+2. Los productos comercializados mediante venta on line deben cumplir la misma normativa que es de aplicación cuando son adquiridos en establecimientos comerciales, así como lo dispuesto en esta Ley para la venta a distancia y ventas promocionales.
+3. En cualquier caso, los contratos que se formalicen mediante la venta on line deberán someterse a lo dispuesto en el Texto Refundido de la Ley General para la Defensa de los Consumidores y Usuarios, aprobado por Real Decreto legislativo 1/2007, de 16 de noviembre, a la normativa vigente en materia de servicios de la sociedad de la información y comercio electrónico, así como a cualquier otra que le sea de aplicación. En especial, deberá cumplirse con los requisitos establecidos en la misma relativos a la información previa y posterior a la formalización del contrato y a las obligaciones entre las partes derivadas de la perfección del contrato.
+Se añade por el art. 49.17 del Decreto-ley 26/2021, de 14 de diciembre de 2021. Ref. BOJA-b-2021-90434#a4-11
