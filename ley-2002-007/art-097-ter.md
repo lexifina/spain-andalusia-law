@@ -1,6 +1,0 @@
-Artículo 97 ter. La empresa urbanizadora y la empresa constructora.
-1. Podrá coadyuvar con las personas propietarias a quienes corresponda la iniciativa del sistema de actuación por compensación una empresa urbanizadora que asuma la financiación de la actuación y, en su caso, preste especialización profesional a la gestión urbanística de acuerdo con las condiciones libremente pactadas entre ambas partes. Los gastos asumidos por la empresa urbanizadora necesarios para la ejecución y desarrollo de la actuación podrán ser retribuidos, total o parcialmente, con parcelas o solares a materializar en el proyecto de reparcelación.
-La colaboración de empresa urbanizadora no exime a las personas propietarias, o en su caso a la Junta de Compensación, de la directa responsabilidad asumida con la Administración actuante en la ejecución del sistema de actuación.
-2. A los efectos de esta Ley, se entiende por empresa constructora aquella persona física o jurídica encargada de la ejecución material de las obras de urbanización.
-Cuando la empresa constructora sea contratada por un agente urbanizador, éste asumirá la total responsabilidad de la ejecución de la actuación frente a la Administración, sin perjuicio de las relaciones jurídicas con la empresa constructora.
-Se añade por el art. único.29 de la Ley 2/2012, de 30 de enero. Ref. BOE-A-2012-2627.

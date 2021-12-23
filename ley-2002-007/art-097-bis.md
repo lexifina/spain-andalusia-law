@@ -1,6 +1,0 @@
-Artículo 97 bis. Agente urbanizador.
-1. El agente urbanizador es la persona legitimada por la Administración actuante para participar, a su riesgo y ventura, en los sistemas de actuación, asumiendo la responsabilidad de su ejecución frente a la Administración actuante y aportando su actividad empresarial de promoción urbanística.
-2. La condición de agente urbanizador puede ser asumida por cualquier persona física o jurídica, pública o privada, propietaria o no del suelo.
-3. El agente urbanizador obtiene la legitimación para intervenir en la ejecución urbanística tras su selección en pública concurrencia por la Administración actuante y la suscripción del convenio urbanístico regulador de la actuación urbanizadora conforme a lo dispuesto en esta Ley y supletoriamente en la legislación de contratación del sector público para el contrato de gestión de servicios públicos.
-4. Cuando el agente urbanizador reúna los requisitos de capacidad para la ejecución por él mismo de las obras de urbanización y dichos requisitos y condiciones se hubieran recogido en el procedimiento para su selección, no será precisa la convocatoria de una nueva licitación pública para la ejecución de las obras.
-Se añade por el art. único.28 de la Ley 2/2012, de 30 de enero. Ref. BOE-A-2012-2627.
