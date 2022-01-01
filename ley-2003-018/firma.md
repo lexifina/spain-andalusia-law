@@ -256,22 +256,5 @@ Código LER (1) | Descripción | Valorizable (2)
 (2) Se consideran residuos peligrosos valorizables los marcados con una X.
 ANEXO III
 (Tasa para la prevención y control de la contaminación)
-Tabla 1. Descripción de los tipos de inspecciones sin toma de muestras | Valoración (en euros)
-1. Sin toma de muestras, inspección básica. | Inspecciones sin toma de muestras. Inspección básica, incluyendo preparación de cuestionario, una visita a la instalación de un técnico, elaboración de los documentos y evaluación del proceso en función de las Mejoras Técnicas Disponibles y de la Autorización Ambiental Integrada en actividades sometidas a la Ley 16/2002 (IPPC). | 750,00
-2. Sin toma de muestras, inspección especial. | Inspecciones sin toma de muestras. Inspección especial, incluyendo preparación de cuestionario, dos visitas a la instalación de dos técnicos, elaboración de los documentos y evaluación del proceso en función de las Mejoras Técnicas Disponibles y de la Autorización Ambiental Integrada en actividades sometidas a la Ley 16/2002 (IPPC). | 1.050,00
-Tabla 2. Descripción de los tipos de trabajos de muestreo y análisis | Código | Valoración (en euros)
-Muestreo básico, emisión. Inspección reglamentaria en foco de emisión con analizador de gases, de acuerdo con la O.M. de 18 de octubre de 1976, incluyendo desplazamientos, dietas e informe. | Matm - em | tipo 1 | 900,00
-Muestreo completo, emisión. Inspección reglamentaria en foco de emisión con muestreo isocinético y analizador de gases, de acuerdo con la O.M. de 18 de octubre de 1976, incluyendo desplazamientos, dietas e informe. | Matm - em | tipo 2 | 950,00
-Muestreo especial, emisión. Inspección reglamentaria en foco de emisión con muestreo isocinético incluyendo dioxinas y furanos, COV's y HAP y analizador de gases, de acuerdo con la O.M. de 18 de octubre de 1976, incluyendo desplazamientos, dietas e informe. | Matm - em | tipo 3 | 2.500,00
-Muestreo básico, inmisiones. Inspección de partículas con captadores PM-10 (de acuerdo con la norma UNE - EN 12341), en tres puntos simultáneamente, acondicionamiento de filtros, incluyendo desplazamientos, dietas e informe. | Mi(inm) |  | 700,00
-Muestreo básico, ruido. Inspección reglamentaria de ruidos en emisiones o inmisiones, de acuerdo con la Orden de 23 de febrero de 1996, por la que se desarrolla el Reglamento de la Calidad del Aire, actividad parada y en marcha en horarios diurno y nocturno. | Mi(rui) |  | 900,00
-Muestreo básico, aguas. Inspección reglamentaria de aguas con toma de muestras (2) puntual, medidas de parámetros in situ y parámetros generales, incluyendo desplazamientos. | Mi(aguas) | tipo 1 | 950,00
-Muestreo básico, aguas. Inspección reglamentaria de aguas con toma de muestras (2) compuestas, medidas de parámetros in situ y parámetros generales, incluyendo desplazamientos. | Mi(aguas) | tipo 2 | 1.100,00
-Muestreo completo, aguas. Inspección reglamentaria de aguas con toma de muestras (2) puntual medidas de parámetros in situ, parámetros generales, metales, COV, HAP, incluyendo desplazamientos. | Mi(aguas) | tipo 3 | 1.500,00
-Muestreo especial, aguas. Inspección reglamentaria de aguas con toma de muestra compuesta medidas de parámetros in situ y parámetros generales, incluyendo desplazamientos. | Mi(aguas) | tipo 4 | 1.900,00
-Muestreo básico, suelos. Toma de muestras de suelo (tres puntos y tres submuestras), preparación, digestión y análisis de parámetros generales, y metales. | Mi(suelos) | tipo 1 | 900,00
-Muestreo completo, suelos. Toma de muestras de suelo (cinco puntos y tres submuestras), preparación, digestión y análisis de parámetros generales y metales, incluyendo desplazamientos. | Mi(suelos) | tipo 2 | 1.400,00
-Muestreo especial, suelos. Toma de muestras de suelo (diez puntos y tres submuestras), preparación, digestión y análisis de parámetros generales y metales, incluyendo desplazamientos. | Mi(suelos) | tipo 3 | 1.900,00
-Muestreo básico, residuos. Toma de muestras de residuos (tres puntos y tres submuestras), preparación, digestión y análisis de parámetros generales y metales. | Mi(res) | tipo 1 | 900,00
-Muestreo completo, residuos. Toma de muestras de residuos (cinco puntos y tres submuestras), preparación, digestión y análisis de parámetros generales y metales, incluyendo desplazamientos. | Mi(res) | tipo 2 | 1.400,00
-Muestreo especial, residuos. Toma de muestras de residuos (diez puntos y tres submuestras), preparación, digestión y análisis de parámetros generales, y metales, incluyendo desplazamientos. | Mi(res) | tipo 3 | 1.900,00
+(Derogado).
+Se deroga por la disposición derogatoria única.1.i) de la Ley 10/2021, de 28 de diciembre. Ref. BOE-A-2022-758#dd
