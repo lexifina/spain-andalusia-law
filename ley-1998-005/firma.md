@@ -1,2 +1,0 @@
-MANUEL CHAVES GONZÁLEZ,
-Presidente
