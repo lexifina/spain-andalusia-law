@@ -1,0 +1,9 @@
+CAPÍTULO II
+Prestación de los servicios en vehículos de arrendamiento con conductor
+Se añade por el art. único.1 del Decreto-ley 8/2022, de 27 de agosto de 2022. Ref. BOJA-b-2022-90297
+Artículo 18 bis. Título habilitante.
+1. La actividad de transporte de arrendamiento de vehículos con conductor tendrá la consideración de transporte público y discrecional de viajeros.
+2. La prestación del servicio de arrendamiento de vehículos con conductor únicamente podrá realizarse por aquellas personas, físicas o jurídicas, que sean titulares de la correspondiente autorización administrativa que les habilite para ello expedida para cada vehículo por el órgano de la Comunidad Autónoma Andaluza con competencias en materia de transporte por delegación del Estado.
+3. Las autorizaciones de arrendamiento de vehículos con conductor de carácter nacional domiciliadas en Andalucía a la entrada en vigor del presente decreto-ley habilitarán para realizar transportes urbanos de viajeros dentro de la Comunidad Autónoma Andaluza tras la finalización del período establecido en la disposición transitoria única del Real Decreto-ley 13/2018, de 28 de septiembre, siempre que el servicio haya sido previamente contratado de conformidad con los requisitos previstos tanto en la normativa legal vigente como de desarrollo que se apruebe sobre la materia que resulte de aplicación.
+4. En todo caso, no procederá el otorgamiento de nuevas autorizaciones de arrendamiento de vehículos con conductor para desarrollar servicios interurbanos y urbanos en tanto la proporción entre el número de las existentes en el territorio de la Comunidad Autónoma de Andalucía y el de las de transporte de viajeros en vehículos taxis sea superior a una de aquellas por cada treinta de estas, a fin de garantizar el adecuado equilibrio entre la oferta de ambas modalidades de trasporte.
+Se añade por el art. único.2 del Decreto-ley 8/2022, de 27 de agosto de 2022. Ref. BOJA-b-2022-90297
