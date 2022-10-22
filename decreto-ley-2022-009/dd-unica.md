@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedarán derogadas cuantas disposiciones de igual o inferior rango contradigan lo establecido en el presente decreto-ley, y expresamente los artículos 4 y 14 de la Ley 9/2021, de 23 de diciembre, por la que se crean la Agencia Empresarial para la Transformación y el Desarrollo Económico (TRADE) y la Agencia para la Calidad Científica y Universitaria de Andalucía (ACCUA).
