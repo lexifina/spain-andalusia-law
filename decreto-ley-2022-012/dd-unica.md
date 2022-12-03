@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas las normas de rango igual o inferior que se opongan a este decreto-ley y, expresamente, el Decreto Ley 5/2013, de 2 de abril, por el que se adoptan determinadas medidas sobre el empleo del personal funcionario interino en la Administración General de la Junta de Andalucía, para el mantenimiento de la calidad y eficiencia de los servicios públicos a la ciudadanía.
