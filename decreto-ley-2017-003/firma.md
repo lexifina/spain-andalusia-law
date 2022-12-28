@@ -6,6 +6,7 @@ Téngase en cuenta que los anexos de este Decreto-ley podrán ser modificados po
 disposición final 1.2
 de la presente norma.
 ANEXO I
+Se modifica por el art. 1.12 del Decreto-ley 14/2022, de 20 de diciembre, en la forma recogida en su anexo. Ref. BOJA-b-2022-90413
 Se modifica por la disposición final 1.7 del Decreto-ley 10/2020, de 29 de abril. Ref. BOJA-b-2020-90135#df
 ANEXO II
 Documentación a presentar junto con la solicitud de la Renta Mínima de Inserción Social en Andalucía
@@ -64,4 +65,5 @@ La Delegación Territorial competente en materia de servicios sociales comprobar
 1.ª Pérdida de la vivienda habitual por incendio, derrumbe u otra catástrofe similar que obligue al desalojo de la misma a la unidad familiar. Esta situación se acreditará mediante la aportación de la documentación acreditativa de la catástrofe por parte de los agentes intervinientes: Policía Local, Servicio de Bomberos, Personal competente en la inspección técnica de edificios y viviendas, u otro personal empleado público que acredite la catástrofe.
 2.ª Sufrir un accidente grave alguna de las o los miembros de la unidad familiar que impida el desarrollo de la vida cotidiana y la inserción laboral. Esta situación se acreditará mediante la aportación de los informes médicos que acrediten las consecuencias y las lesiones derivadas del accidente grave, así como la imposibilidad, por parte de la persona que ha sufrido el accidente, de desarrollar un vida cotidiana con normalidad, impidiendo la inserción laboral de la misma, así como de la persona cuidadora. Acreditación por parte de los servicios sociales comunitarios a través de informe social derivado del proyecto de intervención social de no existir en la unidad familiar más personas en edad laboral, o en el caso de que las hubiera, estas se encuentran realizando estudios reglados.
 ANEXO VII
-ANEXO VII
+ANEXO VIII
+Se modifica por el art. 1.12 del Decreto-ley 14/2022, de 20 de diciembre, en la forma recogida en su anexo. Ref. BOJA-b-2022-90413
