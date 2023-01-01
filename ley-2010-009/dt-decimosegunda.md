@@ -1,0 +1,4 @@
+Disposición transitoria decimosegunda. Régimen transitorio de los hechos imponibles del canon de mejora de infraestructuras hidráulicas de interés de la Comunidad Autónoma.
+Los hechos imponibles correspondientes a periodos de facturación cuya fecha de fin de lectura sea anterior al 1 de enero de 2023 se regirán por el artículo 88 en su redacción vigente antes de la entrada en vigor de la Ley del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2023.
+Los hechos imponibles devengados en 2023 correspondientes a periodos de facturación cuya fecha de inicio de lectura sea anterior al 1 de enero de 2023 y la fecha de fin de lectura sea igual o posterior a ese día se regirán por lo dispuesto en el artículo 88 en su redacción dada por la Ley del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2023.
+Se añade por la disposición final 8.5 de la Ley 1/2022, de 27 de diciembre. Ref. BOE-A-2023-1604

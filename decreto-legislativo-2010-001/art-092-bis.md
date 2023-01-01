@@ -1,0 +1,5 @@
+Artículo 92 bis. El control previo de determinadas operaciones de las entidades sujetas a control financiero.
+1. La Intervención General podrá acordar, mediante resolución publicada en el Boletín Oficial de la Junta de Andalucía, que se sometan a control previo determinadas operaciones de las entidades sujetas a control financiero cuya importancia así lo aconseje.
+2. El alcance general básico de esta actuación de control previo será fijado por la resolución citada en el apartado anterior, que podrá remitirse a las que se aprueben en el ámbito de la fiscalización previa contempladas en el artículo 90.3.
+3. Este control producirá efectos suspensivos en la tramitación de los expedientes afectados, cuando así lo disponga la resolución citada en los anteriores apartados. Si la entidad sujeta a control se mostrara en desacuerdo con el criterio que provoque la suspensión del procedimiento, podrá discrepar del mismo siguiendo el procedimiento establecido en el artículo 90.5.
+Se añade por la disposición final 1.15 de la Ley 1/2022, de 27 de diciembre. Ref. BOE-A-2023-1604

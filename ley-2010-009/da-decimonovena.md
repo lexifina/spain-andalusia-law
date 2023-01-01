@@ -1,0 +1,4 @@
+Disposición adicional decimonovena. Plazo de emisión de las liquidaciones correspondientes al canon de control de vertidos, canon de regulación, tarifa de utilización del agua y canon de servicios generales.
+La Administración tributaria emitirá las liquidaciones correspondientes al canon de control de vertidos, canon de regulación, tarifa de utilización del agua y canon de servicios generales dentro del plazo de un año contado a partir de la fecha de devengo del tributo.
+Todo ello sin perjuicio del derecho de la Administración para determinar la deuda tributaria mediante la oportuna liquidación dentro del plazo establecido en el artículo 66 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+Se añade por la disposición final 8.3 de la Ley 1/2022, de 27 de diciembre. Ref. BOE-A-2023-1604

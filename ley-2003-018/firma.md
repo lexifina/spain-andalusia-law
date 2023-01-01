@@ -55,6 +55,7 @@ Núm. | Parámetro | Unidad | Valor de referencia
 Se modifica el primer párrafo del apartado A) por la disposición final 1 de la Ley 4/2010, de 8 de junio. Ref. BOE-A-2010-11490
 ANEXO II
 Relación de residuos peligrosos susceptibles de valorización
+Téngase en cuenta que este anexo se queda sin efecto, desde el 1 de enero de 2023 mientras exista un tributo estatal que grave el mismo hecho imponible, según establece la disposición adicional 23 de la Ley 1/2022, de 27 de diciembre. Ref. BOE-A-2023-1604
 Código LER (1) | Descripción | Valorizable (2)
 03 | Residuos de la transformación de la madera y de la producción de tableros y muebles, pasta de papel, papel y cartón. | 
 0301 | Residuos de la transformación de la madera y de la producción de tableros y muebles: | ‒

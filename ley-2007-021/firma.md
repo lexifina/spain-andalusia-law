@@ -1,7 +1,7 @@
 Sevilla, 18 de diciembre de 2007.
 El Presidente,
 Manuel Chaves González.
-ANEXO
+ANEXO I
 Clasificación de mercancías
 A los efectos del sistema de determinación de cuotas de la tasa a las mercancías, T3, establecido en el artículo 54.VI.1 de esta Ley, se establecen los siguientes grupos de clasificación:
 Códigos | Grupo | Descripción
@@ -58,4 +58,52 @@ Del 7002 al 71 -- | Quinto | Productos varios incluidos en estos códigos.
 7204 | Primero | Desperdicios y desechos de fundición o lingotes de chatarra de hierro.
 Del 7205 al 7303 | Tercero | Productos de hierro incluidos en estos códigos.
 Del 7304 al 9990 | Quinto | Productos varios incluidos en estos códigos.
+Se numera por la disposición final 7.7 de la Ley 1/2022, de 27 de diciembre. Ref. BOE-A-2023-1604
 Se añade por el art. único.30 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+ANEXO II
+Coeficientes de actualización de valores catastrales medios a efectos del cálculo de la tasa de ocupación privativa prevista en el apartado 1.a) del epígrafe IV del artículo 63
+Provincia | Puerto | Municipio | Coeficiente
+Almería. | Adra. | Adra. | 1,45
+ | Aglomeración Urbana. | Almería. | 1,19
+ | Carboneras. | Carboneras. | 2,45
+ | Villaricos: La Balsa, La Esperanza. | Cuevas de Almanzora. | 2,58
+ | Garrucha. | Garrucha. | 1,73
+ | San José. | Níjar. | 1,41
+ | Roquetas de Mar, Aguadulce. | Roquetas de Mar. | 1,29
+ | Almerimar. | Ejido (El). | 1,26
+ | POT Levante Almeriense. | Mojácar. | 1,45
+ | POT Levante Almeriense. | Pulpí. | 2,01
+Cádiz. | Barbate. | Barbate. | 1,61
+ | Puerto América. | Cádiz. | 1,72
+ | Conil de la Frontera. | Conil de la Frontera. | 1,81
+ | Sancti Petri. | Chiclana de la Frontera. | 1,75
+ | Chipiona. | Chipiona. | 1,48
+ | La Atunara. | La Línea de la Concepción. | 1,77
+ | Río San Pedro. | Puerto Real. | 1,58
+ | Rota. | Rota. | 2,09
+ | Gallineras. | San Fernando. | 2,00
+ | Bonanza. | Sanlúcar de Barrameda. | 2,02
+ | Sotogrande. | San Roque. | 1,30
+Granada. | Punta de la Mona. | Almuñécar. | 2,44
+ | POT Costa tropical de Granada. | Motril. | 1,23
+ | POT Costa tropical de Granada. | Salobreña. | 1,39
+ | POT Costa tropical de Granada. | Lújar. | 2,30
+ | POT Costa tropical de Granada. | Albuñol. | 1,69
+Huelva. | Ayamonte, Punta del Moral. | Ayamonte. | 1,86
+ | El Rompido, San Miguel, Nuevo Portil, Río Piedras (m. izquierdo). | Cartaya. | 2,70
+ | Isla Cristina. | Isla Cristina. | 1,78
+ | El Terrón, Río Piedras (m. derecho). | Lepe. | 1,55
+ | Mazagón. | Palos de la Frontera. | 2,50
+ | Punta Umbría. | Punta Umbría. | 1,17
+ | Sanlúcar de Guadiana. | Sanlúcar de Guadiana. | 1,37
+Málaga. | Benalmádena. | Benalmádena. | 1,22
+ | Estepona. | Estepona. | 1,44
+ | Fuengirola. | Fuengirola. | 1,11
+ | El Candado. | Málaga. | 1,41
+ | La Duquesa. | Manilva. | 1,29
+ | Deportivo Marbella, José Banús, Cabopino, Marina La Bajadilla. | Marbella. | 1,37
+ | Caleta de Vélez. | Vélez-Málaga. | 1,10
+ | POT Sol Oriental – Axarquía. | Nerja. | 1,69
+ | POT Sol Oriental – Axarquía. | Torrox. | 1,44
+Sevilla. | Gelves. | Gelves. | 2,48
+Se añade por la disposición final 7.7 de la Ley 1/2022, de 27 de diciembre. Ref. BOE-A-2023-1604
