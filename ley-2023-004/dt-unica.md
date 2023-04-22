@@ -1,0 +1,2 @@
+Disposición transitoria única. Comisión Asesora del Flamenco.
+Hasta tanto se apruebe la norma reglamentaria por la que se establezca la organización y régimen de funcionamiento de la Comisión Asesora del Flamenco, prevista en el artículo 10, y se produzca la constitución efectiva de dicho órgano colegiado, seguirá ejerciendo sus funciones el Consejo Asesor del Flamenco previsto en la Orden de 29 de junio de 2010, por la que se crea y regula el Consejo Asesor del Flamenco, pasando dichas funciones a ser ejercidas por el nuevo órgano.
