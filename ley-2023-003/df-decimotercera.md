@@ -1,0 +1,2 @@
+Disposición final decimotercera. Sistemas digitales de gestión de recursos hídricos.
+Las previsiones del artículo 59.3 de la presente Ley, relativas a la implantación de sistemas digitales de gestión de los recursos hídricos y las infraestructuras hidráulicas que permitan una gestión eficiente y transparente, así como un adecuado control por parte de las Administraciones competentes, serán de aplicación en el plazo de un año desde la entrada en vigor de esta Ley.

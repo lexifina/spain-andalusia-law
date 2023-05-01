@@ -1,0 +1,2 @@
+Disposición final decimocuarta. Contratación pública ecológica.
+Las disposiciones contenidas en el Capítulo III del Título II de la presente Ley, relativas a la inclusión de cláusulas medioambientales en las distintas fases del proceso de contratación, entrarán en vigor una vez se proceda al desarrollo reglamentario previsto en su disposición final décima, que deberá llevarse a cabo en el plazo de un año desde su entrada en vigor.
