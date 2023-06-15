@@ -1,0 +1,4 @@
+Disposición adicional única. Régimen de acceso a puestos de difícil cobertura de determinado personal estatutario con título de especialista en ciencias de la salud del Servicio Andaluz de Salud.
+Cuando no haya sido posible la cobertura por los procedimientos ordinarios de selección y provisión, el Servicio Andaluz de Salud, excepcionalmente, podrá convocar procesos selectivos específicos por el sistema de concurso, a fin de impulsar la incorporación urgente, estable y permanente de personal a los puestos de difícil cobertura, de conformidad con lo previsto en la legislación estatal de carácter básico y en los términos que reglamentariamente se establezcan.
+Esta norma reglamentaria deberá aprobarse en el plazo máximo de cuatro meses desde la entrada en vigor de esta disposición.
+Se añade por la disposición final 3.1 de la Ley 5/2023, de 7 de junio. Ref. BOE-A-2023-16066#df-3
