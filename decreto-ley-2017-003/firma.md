@@ -67,3 +67,15 @@ La Delegación Territorial competente en materia de servicios sociales comprobar
 ANEXO VII
 ANEXO VIII
 Se modifica por el art. 1.12 del Decreto-ley 14/2022, de 20 de diciembre, en la forma recogida en su anexo. Ref. BOJA-b-2022-90413
+ANEXO IX
+Téngase en cuenta que este anexo, añadido por el art. 1.12 del Decreto-ley 14/2022, de 20 de diciembre, en la forma recogida en su anexo. Ref. BOJA-b-2022-90413, entra en vigor a partir del 1 julio de 2023, según establece su disposicion final 5.
+Se añade, con efectos desde el 1 de julio de 2023, por el art. 1.12 del Decreto-ley 14/2022, de 20 de diciembre, en la forma recogida en su anexo. Ref. BOJA-b-2022-90413
+ANEXO X
+Téngase en cuenta que este anexo, añadido por el art. 1.12 del Decreto-ley 14/2022, de 20 de diciembre, en la forma recogida en su anexo. Ref. BOJA-b-2022-90413, entra en vigor a partir del 1 julio de 2023, según establece su disposicion final 5.
+Se añade, con efectos desde el 1 de julio de 2023, por el art. 1.12 del Decreto-ley 14/2022, de 20 de diciembre, en la forma recogida en su anexo. Ref. BOJA-b-2022-90413
+ANEXO XI
+Documentación a presentar junto con la solicitud de la Ayuda Complementaria al Ingreso Mínimo Vital
+a) Certificado de empadronamiento donde conste que todas las personas integrantes de la unidad familiar ostentan vecindad administrativa en Andalucía, al menos con seis meses de antelación a la fecha de presentación de la solicitud.
+b) Documento bancario de la persona solicitante como titular de la cuenta bancaria donde conste el código IBAN y la entidad bancaria elegida para, en su caso, la liquidación del pago de la ayuda. Dicha cuenta deberá ser coincidente con la existente en el Sistema de Gestión Integral de Recursos Organizativos de la Administración de la Junta de Andalucía y sus entidades instrumentales.
+Téngase en cuenta que este anexo, añadido por el art. 1.12 del Decreto-ley 14/2022, de 20 de diciembre, en la forma recogida en su anexo. Ref. BOJA-b-2022-90413, entra en vigor a partir del 1 julio de 2023, según establece su disposicion final 5.
+Se añade, con efectos desde el 1 de julio de 2023, por el art. 1.12 del Decreto-ley 14/2022, de 20 de diciembre, en la forma recogida en su anexo. Ref. BOJA-b-2022-90413
