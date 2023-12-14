@@ -1,0 +1,4 @@
+Disposición adicional decimoquinta. Cuerpo Técnico de Gestión, especialidad Delineantes.
+1. Se crea dentro del Grupo B, del Cuerpo Técnico de Gestión, la especialidad Delineantes, para ejercer las funciones y actividades técnicas que les son peculiares, debiendo colaborar con los arquitectos e ingenieros en las actividades técnicas que les sean encomendadas por la superioridad, tanto de campo como de gabinete.
+2. Para el ingreso en el Cuerpo Técnico de Gestión, especialidad Delineantes, será necesario estar en posesión de las titulaciones establecidas en la disposición adicional quinta.
+3. El Personal funcionario del Cuerpo de Ayudantes Técnicos, opción Delineantes, que no reúna el requisito de titulación previsto en el apartado anterior a la entrada en vigor de la presente ley permanecerá en el desempeño de sus puestos de trabajo.

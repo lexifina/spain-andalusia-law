@@ -1,0 +1,4 @@
+Disposición derogatoria única. Derogación normativa.
+1. Quedan derogadas la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía, y cuantas disposiciones de igual rango se opongan a lo dispuesto en esta ley.
+Asimismo, quedan derogadas las disposiciones de inferior rango en lo que resulten incompatibles con la normativa estatal de carácter básico, con esta ley o con las normas de desarrollo de la misma.
+2. No obstante, aquellas materias reguladas en esta ley para cuya aplicación sea necesario el posterior desarrollo reglamentario continuarán rigiéndose por las previsiones de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía, y sus disposiciones de desarrollo, hasta que entren en vigor las correspondientes disposiciones reglamentarias.

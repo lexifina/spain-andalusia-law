@@ -1,1 +1,1 @@
-Incluye la corrección de erratas publicada en BOJA núm. 112, de 28 de noviembre de 1985.
+Norma derogada , con efectos de 14 de diciembre de 2023, por la disposición derogatoria única.1 de la Ley 5/2023, de 7 de junio Ref. BOE-A-2023-16066#dd, aunque se mantendra vigente en aquellas materias para cuya aplicación sea necesario el posterior desarrollo reglamentario, hasta que entren en vigor las correspondientes disposiciones reglamentarias, según establece su disposición derogatoria única.2.

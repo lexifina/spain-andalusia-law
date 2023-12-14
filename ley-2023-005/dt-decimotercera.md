@@ -1,0 +1,2 @@
+Disposición transitoria decimotercera. Promoción interna.
+Hasta tanto se lleve a efecto la adecuación de los puestos de trabajo para dar cumplimiento a lo previsto en el artículo 57, apartado 2.d), quienes accedan por promoción interna a cualquiera de los cuerpos o especialidades convocados tendrán derecho a que se les adjudique destino en el puesto que estén desempeñando con carácter definitivo, siempre que el área funcional o las relacionales de aquel estén directamente relacionadas con las funciones del cuerpo, especialidad, opción o subopción a que se promociona.

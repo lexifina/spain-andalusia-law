@@ -1,0 +1,3 @@
+Disposición adicional decimocuarta. Cuerpo Técnico de Gestión, especialidad Tecnologías de la Información y Comunicación.
+1. Se crea dentro del Grupo B, del Cuerpo Técnico de Gestión, la especialidad Tecnologías de la Información y Comunicación, para ejercer las funciones y actividades técnicas de organización, tramitación e impulso y, en general, de colaboración técnica con los cuerpos superiores y técnicos, relacionadas con las actividades de sistemas y tecnologías de la información en la Administración de la Junta de Andalucía.
+2. Para el ingreso en el Cuerpo Técnico de Gestión, especialidad Tecnología de la Información y Comunicación, será necesario estar en posesión de las titulaciones establecidas en la disposición adicional quinta.
