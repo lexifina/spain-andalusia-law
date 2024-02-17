@@ -1,0 +1,16 @@
+Artículo 52 bis. Ejecución del presupuesto de gastos.
+1. La ejecución del presupuesto de gastos se realizará a través de las siguientes fases:
+a) Aprobación de la realización de gasto. Se corresponde con el acto administrativo o negocio jurídico que conlleva la realización de un gasto determinado por una cuantía cierta o estimada, reservando a tal fin la totalidad o parte de un crédito presupuestario.
+b) Disposición. Se corresponde con el acto administrativo o negocio jurídico del que se deriva, en la cuantía y condiciones establecidas, un compromiso de gasto frente a terceros, de la Administración de la Junta de Andalucía, sus agencias administrativas, de régimen especial, públicas empresariales referidas en el artículo 2.c), los consorcios adscritos, y en general, cualesquier organismo y entidad de derecho público vinculado o dependiente de la Administración de la Junta de Andalucía sometido a la contabilidad presupuestaria.
+c) Reconocimiento de la obligación. Declara la existencia de un crédito exigible contra la Hacienda Pública y comporta la propuesta de pago correspondiente.
+d) Ordenación del pago y pago material conforme a lo dispuesto en el artículo 73 bis.
+2. La sucesión de las fases de gestión del presupuesto de gastos requerirá, en todo caso, de la materialización de los actos administrativos o negocios jurídicos que las generen de acuerdo con lo dispuesto en la normativa aplicable. Atendiendo a la naturaleza de los gastos y a criterios de economía y agilidad administrativa, podrán acumularse en un solo acto todas o algunas de las fases de ejecución del gasto en los supuestos y con las condiciones que se determinen por la consejería competente en materia de Hacienda.
+3. Con cargo a créditos que figuren en los estados de gastos de la Administración de la Junta de Andalucía, de las agencias administrativas, de régimen especial y las públicas empresariales referidas en el artículo 2.c), y consorcios, correspondientes a servicios cuyo volumen de gasto tenga correlación con el importe de tasas, cánones y precios públicos liquidados por las mismas, o que por su naturaleza o normativa aplicable deban financiarse total o parcialmente con unos ingresos específicos y predeterminados, tales como los provenientes de transferencias finalistas, subvenciones, convenios con otras Administraciones o encargos de ejecución a medios propios personificados, solo podrán gestionarse sus gastos en la medida en que se vaya asegurando su financiación.
+4. Con cargo al crédito del Fondo de Contingencia se financiarán únicamente, cuando proceda, las siguientes modificaciones de crédito:
+a) Crédito extraordinario.
+b) Suplementos de crédito.
+c) Ampliaciones.
+En ningún caso podrá utilizarse el mencionado crédito para financiar modificaciones destinadas a dar cobertura a gastos o actuaciones que deriven de decisiones discrecionales de la Administración, que carezcan de cobertura presupuestaria.
+Su aplicación se decidirá por el Consejo de Gobierno, a propuesta de la Consejería competente en materia de Hacienda.
+Se añade por el art. 74.8 del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030
+Téngase en cuenta la disposición final 11.2 del citado Decreto-ley, en cuanto a la implantación efectiva de las medidas de simplificación del procedimiento de gestión del gasto.

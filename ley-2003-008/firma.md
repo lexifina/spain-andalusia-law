@@ -345,9 +345,9 @@ Muflón | Ovis musimon.
 Arruí | Ammotragus lervia.
 Jabalí | Sus scrofa.
 Conejo | Oryctolagus cuniculus.
-Liebre | Lepus capensis.
+Liebre | Lepus granatensis.
 Zorro | Vulpes vulpes.
-Perdiz | Alectoris rufa.
+Perdiz roja | Alectoris rufa.
 Becada | Scolopax rusticola.
 Faisán | Phasianus colchicus.
 Codorniz | Coturnix coturnix.
@@ -396,3 +396,4 @@ Lisa o albur | Mugil spp.
 Platija | Platichtys flesus.
 Pez sol | Lepomis gibbosus.
 Cangrejo rojo | Procambarus clarkii.
+Se modifica por el art. 247.8 del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030

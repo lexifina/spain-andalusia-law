@@ -1,0 +1,4 @@
+Disposición adicional decimosegunda. Fundaciones del sector público andaluz.
+La creación y extinción de fundaciones del sector público andaluz y la adquisición y pérdida de la representación mayoritaria requerirá la autorización del Consejo de Gobierno en los términos establecidos en los artículos 56 de la Ley 10/2005, de 31 de mayo, de Fundaciones de la Comunidad Autónoma de Andalucía y 52 de su Reglamento aprobado por Decreto 32/2008, de 5 de febrero.
+El Consejo de Gobierno podrá acordar, a propuesta de la Consejería competente en materia de patrimonio, la aportación de bienes y derechos del patrimonio de la Comunidad Autónoma de Andalucía a fundaciones del sector público andaluz, en los términos establecidos en el artículo 82 bis de esta Ley.
+Se añade por el art. 79.21 del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030
