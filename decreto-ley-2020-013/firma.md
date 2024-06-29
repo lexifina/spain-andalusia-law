@@ -385,10 +385,8 @@ Caja de seguridad /caja fuerte en la habitación. | 8 |  |  |  | M | M
 II.6 Equipamientos y comodidades del baño
 Al menos el 50% de los baños con luz natural. | 160 | 2 |  |  |  |  | 
 El 100% de los baños tienen ducha o bañera, inodoro y lavabo. | 161 | 1 | M | M | M | M | M
-Bañera y/o ducha con cortina*. | 162 | 1 | M | M | M |  | 
-Bañera y/o ducha con mampara*. | 5 |  |  |  | M | M
-Bañera hidromasaje, en al menos el 30% de las habitaciones. | 163 | 4 |  |  |  |  | 
-Bañera al menos en el 30% de baños. | 164 | 2 |  |  |  |  | 
+Ducha con cortina. | 162 | 1 | M | M | M |  | 
+Ducha con mampara. | 5 |  |  |  | M | M
 Columna de ducha de hidromasaje, en al menos el 30% de las habitaciones. | 165 | 2 |  |  |  |  | 
 Bidé*. | 166 | 2 |  |  |  |  | M
 Doble lavabo o único espacio con doble grifería en las unidades de alojamiento dobles, en las junior suites y en las suites. | 167 | 5 |  |  |  |  | M
@@ -396,11 +394,8 @@ Equipamiento básico (jabón de mano, gel, champú, 1 toalla de mano por persona
 Equipamiento medio (equipamiento básico, toallas/pañuelos faciales, espejo de tocador de aumento y banqueta). | 4 |  |  |  | M | M
 Dotación de 2 amenities adicionales. | 169 | 2 |  |  |  | M | 
 Dotación de 4 amenities adicionales. | 4 |  |  |  |  | M
-Instalación de calefacción en el baño. | 170 | 5 |  |  |  |  | M
 Toallero con calefacción incluida. | 171 | 3 |  |  |  |  | 
 Altavoces en el baño. | 172 | 1 |  |  |  |  | 
-Teléfono supletorio en los baños. | 173 | 1 |  |  |  |  | 
-Gel y champú en botellas monodosis. | 174 | 2 |  |  |  |  | 
 Toallas extras. | 175 | 1 |  |  |  |  | 
 Albornoz a petición de la persona usuaria. | 176 | 2 |  |  |  |  | 
 Albornoz. | 4 |  |  |  |  | M
@@ -579,12 +574,13 @@ ANOTACIONES (comentarios sobre los criterios marcados con asterisco):
 (59) Cerrado e integrado en el mismo edificio del establecimiento.
 (61) Salvo que el inmueble en el que se ubique el establecimiento cuente con un grado de protección de acuerdo en lo establecido en el Catálogo General de Bienes del Patrimonio Histórico Andaluz, que imposibilite el cumplimiento de este criterio.
 (62) Los oficios de planta estarán dotados al menos de fregaderos o sumideros y armarios o estanterías para artículos de limpieza y lencería de reposición. Sus paredes estarán revestidas de materiales de fácil limpieza.
-(162) La bañera o el plato de ducha será de una longitud mínima de 1,6 m para hoteles de 3 a 5 estrellas. El plato de ducha podrá tener otras dimensiones siempre que guarde la proporción de lo que le corresponde en metros cuadrado a las medidas de la bañera.
+(162) En los hoteles y los hoteles-apartamentos de 3 a 5 estrellas, el plato de ducha tendrá una dimensión mínima de 0,90 m². En todo caso tendrá un ancho mínimo de 70 cm. Deberán cumplir con estas dimensiones mínimas al menos el 80 % del total de los baños.
 (166) El bidé puede ser sustituido por dispositivo incorporado al inodoro con la misma función.
 (168) El criterio del «Champú» se considerará cumplido, si el gel de baño puede realizar la función de champú, y así es indicado en el bote o dispensador existente.
 (187) El kit contedrá como mínimo una esponja lustrazapatos, toallita para limpiazapatos o similar.
 (III.2) y (III.3) Los establecimientos clasificados en modalidad ciudad de 3 y 4 estrellas estarán exentos del cumplimiento de estos requisitos.
 (Bloque V) Con dotación de mobiliario específico y amplia oferta de medios audiovisuales.
+Se modifica el requisito 162 y su nota aclaratoria y se suprimen los requisitos 163, 164, 170, 173 y 174 por el art. 2.2 a 8 del Decreto-ley 7/2024, de 25 de junio. Ref. BOJA-b-2024-90133
 Se modifican los requisitos 13 y 122 por la disposición final 1.8 y 9 del Decreto-ley 4/2021, de 23 de marzo. Ref. BOJA-b-2021-90124#df
 ANEXO III
 Requisitos específicos Hostales, Pensiones y Albergues.
@@ -677,7 +673,6 @@ Línea de crédito para los servicios del hotel. | GL5 | 1
 I.4 Instalaciones para personas con discapacidad
 Implantación de medidas de accesibilidad universal en al menos el 20% de las unidades de alojamiento. | GL6 | 10
 I.7 Servicios
-Servicio de lavado de coche al reservar parking sin cargo. | GL7 | 5
 Personal que se ocupe de aparcar el coche y ponerlo a disposición del cliente cuando lo solicite. | GL8 | 5
 Servicio de traslados privado gratuito dentro de la localidad. | GL9 | 2
 Servicio de mayordomía 8 horas. | GL10 | 8
@@ -692,10 +687,8 @@ II. Unidades de alojamiento: mobiliario/equipamientos
 II.1 Dimensiones
 Más de un 10 % de suites. | GL17 | 15
 Más de un 15% de suites junior. | GL18 | 15
-Jacuzzi en 10 % habitaciones. | GL19 | 8
 Al menos el 3% de suites especiales, entendiendo aquella con más superficie, instalaciones y dependencias que el resto de unidades de alojamiento tipo suites. | GL20 | 15
 Por habitaciones que superen las medidas mínimas de cinco estrellas en un 20 % (0,5 puntos por unidad de alojamiento-máximo 20 puntos). | GL21 | 20
-Suite con Piscina privada. | GL22 | 8
 II.4 Comodidades para dormir (descanso)
 Complementos para adaptar la dureza de los colchones. | GL23 | 6
 Carta de ropa de cama (algodón, seda o lino). | GL24 | 6
@@ -737,7 +730,6 @@ IV.3 Niños
 Obsequios para niños a su llegada. | GL48 | 1
 Elementos de higiene infantil. | GL49 | 2
 IV.4 Otra oferta
-Piscina para adultos adicional. | GL50 | 8
 Servicio de bar/camareros en zona de hamacas. | GL51 | 8
 Toalla para la piscina a disposición de los clientes. | GL52 | 4
 Galería comercial. | GL53 | 15
@@ -749,3 +741,4 @@ Notas: (GL2) Se valorará la puntuación siempre y cuando se acredite mediante c
 Puntuación mínima requerida calificativo gran lujo
 Hoteles: 800 puntos (650 puntos del anexo II + 150 puntos criterios tipo GL).
 Hoteles-apartamentos: 840 puntos (690 puntos del anexo II + 150 puntos criterios tipo GL).
+Se suprimen los requisitos GL7, GL19, GL22 y GL50 por el art. 2.9 a 12 del Decreto-ley 7/2024, de 25 de junio. Ref. BOJA-b-2024-90133
