@@ -1,0 +1,3 @@
+Disposición transitoria. Permanencia de las actuales consejeras o consejeros electivos y natos hasta el término de su mandato.
+1. Las actuales consejeras o consejeros electivos que al entrar en vigor esta ley no hayan cumplido el término del mandato para el que fueron designados continuarán en sus cargos hasta que expire dicho término, salvo en caso de cese, de conformidad con lo previsto en el artículo 10.
+2. Del mismo modo, las actuales consejeras o consejeros natos que hubiesen sido designados de conformidad con el artículo 9 de la ley permanecerán en el cargo hasta que se agote el término de cinco años para el que fueron designados, sin perjuicio de los supuestos de cese previstos en el artículo 10.
