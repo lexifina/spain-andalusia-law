@@ -1,0 +1,3 @@
+Disposición transitoria decimocuarta. Régimen transitorio del canon de mejora de infraestructuras hidráulicas de interés de la Comunidad Autónoma.
+Los hechos imponibles regulados en el artículo 74 que se devenguen a partir del 1 de enero de 2025, correspondientes a periodos de facturación cuya fecha inicio de lectura sea igual o anterior al 31 de diciembre de 2024, se regirán por lo dispuesto en los artículos 86 y 87 en su redacción anterior a la dada por la Ley del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2025.
+Se añade por la disposición final 4.4 de la Ley 7/2024, de 23 de diciembre. Ref. BOE-A-2025-413
