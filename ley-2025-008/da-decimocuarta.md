@@ -1,0 +1,3 @@
+Disposición adicional decimocuarta. Retribuciones del personal directivo de determinadas entidades.
+Las retribuciones del personal directivo de las entidades o grupo de entidades a que se refiere el artículo 12.1.c), en los que la persona que ostente la máxima responsabilidad de la entidad o grupo tenga que ser elegida por el Parlamento de Andalucía, serán las que les correspondan de acuerdo con los artículos 16 y 25.3.
+No obstante lo anterior, en caso de que al aplicar los límites correspondientes, e incluir asimismo el complemento de antigüedad que pudiera corresponder, sus retribuciones queden minoradas respecto a las percibidas en el año 2025, se completarán hasta alcanzar las citadas retribuciones percibidas en 2025.

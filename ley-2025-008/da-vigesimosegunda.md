@@ -1,0 +1,4 @@
+Disposición adicional vigesimosegunda. Bonificación temporal de la tasa por servicios administrativos y facultativos en materia de caza en Andalucía.
+1. Con efectos desde el día de la entrada en vigor de la presente ley y hasta el día 31 de diciembre de 2026, se establece una bonificación del 30% de la cuota correspondiente a la tasa por expedición de licencia de caza en Andalucía prevista en el artículo 231 de la Ley 10/2021, de 28 de diciembre, de tasas y precios públicos de la Comunidad Autónoma de Andalucía.
+2. Esta bonificación será acumulativa exclusivamente a la de menores de 18 años prevista en el artículo 233.1.b) de la Ley 10/2021, de 28 de diciembre.
+3. El beneficio fiscal previsto en esta disposición adicional no eximirá a los beneficiarios de la obligación de solicitar las licencias procedentes.

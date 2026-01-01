@@ -1,0 +1,4 @@
+Disposición final decimocuarta. Modificación de la Ley 13/2007, de 26 de noviembre, de medidas de prevención y protección integral contra la violencia de género.
+Se añade una disposición adicional cuarta a la Ley 13/2007, de 26 de noviembre, de medidas de prevención y protección integral contra la violencia de género, con la siguiente redacción:
+«Disposición adicional cuarta. Prestación económica destinada a los hijos e hijas de las mujeres víctimas mortales como consecuencia de violencia de género.
+Las prestaciones económicas establecidas en el artículo 46 bis de la presente ley serán asimismo aplicables a los hijos e hijas de las mujeres víctimas mortales como consecuencia de violencia de género, en cualquiera de los supuestos descritos en el precitado artículo 46 bis, hasta que alcancen los veintiséis años de edad.»
