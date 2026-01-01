@@ -1,0 +1,9 @@
+Artículo 22 quater. Deducción para familias con enfermedad celíaca diagnosticada.
+1. Los contribuyentes podrán aplicar en la cuota íntegra autonómica del impuesto sobre la renta de las personas físicas una deducción de 100 euros por cada persona integrante de su núcleo familiar que tenga enfermedad celíaca diagnosticada.
+2. A los exclusivos efectos de esta deducción, se consideran personas integrantes del núcleo familiar del contribuyente al propio contribuyente, su cónyuge o pareja inscrita en el Registro de Parejas de Hecho de la Comunidad Autónoma de Andalucía o en registros análogos de otras Administraciones Públicas, y a aquellas personas que le den derecho a la aplicación del mínimo por ascendientes o descendientes regulado en la normativa estatal del impuesto sobre la renta de las personas físicas.
+3. Cuando dos o más contribuyentes tengan derecho a la aplicación de la deducción por razón de una misma persona, su importe se distribuirá por partes iguales.
+4. La condición de enfermedad celíaca deberá acreditarse mediante informe médico oficial que recoja el diagnóstico definitivo conforme a los criterios reconocidos por la comunidad científica. Dicho informe deberá ser emitido:
+a) Por profesionales en ejercicio en el Sistema Sanitario Público de Andalucía (SSPA) o en otros servicios de salud públicos integrados en el Sistema Nacional de Salud (SNS), debidamente identificados mediante su código numérico personal (CNP) o el homólogo que corresponda en cada Comunidad Autónoma.
+b) En el caso de pacientes con aseguramiento sanitario privado, por profesionales adscritos a la entidad aseguradora correspondiente, debidamente identificados mediante su número de colegiado.
+Se añade por la disposición final 9.5 de la Ley 8/2025, de 22 de diciembre. Ref. BOE-A-2026-945
+Esta modificación surte efectos desde el 1 de enero de 2025, según establece la disposición final 18.b) de la citada Ley.

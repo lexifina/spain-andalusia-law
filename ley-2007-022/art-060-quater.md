@@ -1,13 +1,6 @@
 Artículo 60 quater. Convenios.
-1. Los compromisos entre el Servicio Andaluz de Salud y los laboratorios farmacéuticos o las empresas proveedoras de productos sanitarios, derivados de la selección y sus efectos económicos, quedarán establecidos en los convenios correspondientes, suscritos por la persona titular de la Dirección Gerencia del mismo y por los representantes legales de aquéllos, con sujeción a las normas específicas establecidas en esta ley, sin perjuicio de lo previsto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
-2. La duración de los convenios será la prevista en cada convocatoria de selección, que en todo caso no podrán tener un plazo de vigencia superior a dos años.
-3. Cada convenio contendrá, al menos, los elementos siguientes:
-a) La constitución de una comisión mixta paritaria, presidida por uno de los representantes del Servicio Andaluz de Salud, que tendrá las funciones de seguimiento y de resolución de cuantas cuestiones y dudas puedan plantearse en la interpretación y ejecución del mismo.
-b) El régimen de compensaciones económicas a aplicar por renuncia del laboratorio o de las empresas proveedoras o por falta de suministro de los medicamentos y productos sanitarios seleccionados, en los casos en que ello no conlleve su exclusión del convenio.
-c) El plazo en el que el Servicio Andaluz de Salud notificará a las empresas o laboratorios farmacéuticos las cantidades económicas que corresponda liquidar mensualmente a cada uno por las mejoras económicas acordadas y en su caso las compensaciones económicas que procedan, así como el plazo en que éstos lo deban hacer efectivo en la forma que aquél determine.
-d) El procedimiento para la validación de las liquidaciones mensuales, que se efectuará sin perjuicio de los plazos establecidos para sus abonos, que tendrán el carácter de pagos a cuenta, en tanto se produce dicha validación.
-e) Los supuestos y el régimen de suspensión, modificación y resolución del mismo y, en particular, los casos de exclusión de medicamentos o productos sanitarios por falta de suministro.
-Además de lo anterior, el convenio incluirá el resto de materias establecidas en el artículo 49 de la Ley 40/2015.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 8/2025, de 22 de diciembre. Ref. BOE-A-2026-945
 Se modifica por la disposición final 8.3 de la Ley 3/2020, de 28 de diciembre. Ref. BOE-A-2021-797
 Se levanta la suspensión de la vigencia y aplicación por auto del TC de 12 de diciembre de 2012. Ref. BOE-A-2012-15377
 Téngase en cuenta que se declara la desestimación del recurso de inconstitucionalidad 4539/2012 Ref. BOE-A-2012-10345, por Sentencia del TC 210/2017, de 15 de diciembre de 2016. Ref. BOE-A-2017-645

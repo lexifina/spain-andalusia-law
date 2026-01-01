@@ -1,7 +1,6 @@
 Artículo 60 quinquies. Dispensación de medicamentos y productos seleccionados.
-1. En los casos en que se hayan suscrito convenios de los previstos en el artículo 60 quáter, solo se dispensarán medicamentos y productos sanitarios que hayan sido seleccionados por el Servicio Andaluz de Salud. No obstante, excepcionalmente, cuando concurran circunstancias de desabastecimiento en el mercado o razones de urgente necesidad en su dispensación, acreditadas suficientemente, el farmacéutico podrá sustituirlos dispensando uno de los de precio más bajo.
-2. Los pacientes podrán exigir la dispensación del mismo preparado comercial de un medicamento o un producto sanitario que venía consumiendo, siempre que dicho preparado o producto figure entre los seleccionados por el Servicio Andaluz de Salud en el momento de su dispensación.
-3. Los medicamentos y productos sanitarios seleccionados se dispensarán por las oficinas de farmacia en el plazo máximo de un mes desde que se comunique por la persona titular de la Dirección Gerencia del Servicio Andaluz de Salud al Consejo Andaluz de Colegios Oficiales de Farmacéuticos el correspondiente listado.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 8/2025, de 22 de diciembre. Ref. BOE-A-2026-945
 Se modifica por la disposición final 8.4 de la Ley 3/2020, de 28 de diciembre. Ref. BOE-A-2021-797
 Se levanta la suspensión de la vigencia y aplicación por auto del TC de 12 de diciembre de 2012. Ref. BOE-A-2012-15377
 Téngase en cuenta que se declara la desestimación del recurso de inconstitucionalidad 4539/2012 Ref. BOE-A-2012-10345, por Sentencia del TC 210/2017, de 15 de diciembre de 2016. Ref. BOE-A-2017-645
