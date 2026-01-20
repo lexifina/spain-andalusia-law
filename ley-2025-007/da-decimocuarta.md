@@ -1,0 +1,2 @@
+Disposición adicional decimocuarta. Adaptación de las sociedades mercantiles del sector público de Andalucía.
+En el plazo máximo de un año desde la entrada en vigor de la presente ley, las sociedades mercantiles del sector público andaluz deberán adaptar sus estatutos a lo dispuesto en el artículo 146, así como a las obligaciones de inventario patrimonial y publicidad activa previstas en los artículos 147 y 148.
