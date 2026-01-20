@@ -1,4 +1,0 @@
-Disposición adicional decimoquinta. Régimen económico de los arrendamientos entre la Empresa Pública de Gestión de Activos, SA, y la Junta de Andalucía y sus agencias.
-La compensación prevista para la Empresa Pública de Gestión de Activos, SA (Epgasa) por los arrendamientos de inmuebles a la Junta de Andalucía y sus agencias se fijará a través de un régimen de tarifas que se aprobará por resolución de la Dirección General de Patrimonio a propuesta del Consejo de Administración de la empresa.
-Dichas tarifas tendrán en consideración los costes directos e indirectos en que incurre Epgasa por cada operación y podrán incluir un margen adicional destinado a satisfacer contingencias en los inmuebles objeto de arrendamiento.
-Se añade por la disposición final 2.2 de la Ley 7/2024, de 23 de diciembre. Ref. BOE-A-2025-413
