@@ -1,0 +1,6 @@
+Disposición adicional decimotercera. Actuaciones de fomento de las entidades de gestión y modernización.
+1. La Consejería competente en materia de industria promoverá el desarrollo de la colaboración público-privada, de gestión profesionalizada de los polígonos industriales a través de la figura de entidades de gestión y modernización.
+2. Sin perjuicio de las funciones que corresponden al Gabinete Técnico de Espacios Productivos de Andalucía en relación con las entidades de gestión y modernización, de acuerdo con el artículo 9 de esta ley, para la finalidad establecida en el apartado 1 de esta disposición se realizarán, al menos, las siguientes actuaciones:
+a) Impulso de actuaciones de formación en gestión de espacios productivos, incluyendo itinerarios diferenciados para gestores de entidades de gestión y modernización y técnicos municipales vinculados a las oficinas locales de espacios productivos, entre otros perfiles.
+b) Elaboración de material divulgativo e informativo, promoviendo el intercambio de buenas prácticas y experiencias.
+c) Apoyo y asesoramiento técnico a las entidades que puedan acogerse al mecanismo establecido en la disposición transitoria segunda de esta ley sobre subrogación de las entidades de gestión y modernización.

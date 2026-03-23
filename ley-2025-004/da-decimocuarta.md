@@ -1,0 +1,2 @@
+Disposición adicional decimocuarta. Estrategia contra la despoblación.
+La Consejería competente en materia de industria, en coordinación con la Consejería competente en materia de política territorial, elaborará en el plazo de un año desde la entrada en vigor de la presente ley, un programa de implantación industrial en zonas de riesgo de despoblación, que identifique ámbitos de oportunidad y establezca medidas de discriminación positiva para atraer inversiones a estos territorios.
