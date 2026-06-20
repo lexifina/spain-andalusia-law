@@ -1,0 +1,4 @@
+Artículo 112 sexies. Remisión a la jurisdicción penal.
+En los supuestos en que las infracciones en materia de calidad del medio hídrico pudieran ser constitutivas de delito o falta, la Administración dará cuenta de los hechos al Ministerio Fiscal y se abstendrá de proseguir el procedimiento sancionador hasta que recaiga resolución judicial firme en los supuestos de identidad de sujeto, hecho y fundamento. En el caso de no haberse apreciado la existencia de delito o falta, el órgano administrativo competente continuará el expediente sancionador. Los hechos declarados probados en la resolución judicial firme vincularán al órgano administrativo.
+Téngase en cuenta que este artículo, añadido por la disposición final 6.42 de la Ley 2/2026, de 12 de marzo. Ref. BOE-A-2026-7558#df-6, entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
+Se añade por la disposición final 6.42 de la Ley 2/2026, de 12 de marzo. Ref. BOE-A-2026-7558#df-6

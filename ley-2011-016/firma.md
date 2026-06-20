@@ -29,7 +29,26 @@ d) Plantas de tratamiento de aguas residuales cuya capacidad sea superior a 150.
 Grupo 8. Proyectos de tratamiento y gestión de residuos.
 a) Instalaciones de incineración de residuos peligrosos definidos en el artículo 2.añ) de la Ley 7/2022, 8 de abril, de residuos y suelos contaminados para una economía circular, así como el depósito de seguridad o tratamiento químico.
 b) Instalaciones de incineración de residuos no peligrosos definidos en el artículo 2.an) de la Ley 7/2022, de 8 de abril, o de eliminación de dichos residuos mediante tratamiento físico-químico con una capacidad superior a 100 t diarias.
-Parte II. Actividades extraídas del Anexo I Ley de Gestión Integrada de la Calidad Ambiental.
+Parte II. Actividades extraídas del anexo I de la Ley para la Gestión Ambiental de Andalucía.
+Categoría | Subcategoría | Actuaciones | Instrumento
+Industria Siderúrgica y del Mineral
+4 | Instalaciones dedicadas a la fabricación de hormigón o clasificación de áridos, cuando se dé alguna de las circunstancias siguientes: 1.ª Que esté situada fuera de polígonos industriales. 2.ª Que se encuentre a menos de 500 m de una zona residencial. 3.ª Que ocupe una superficie superior a 1 ha. | LA
+5 | Instalaciones de tratamiento térmico de sustancias minerales para la obtención de productos (como yeso, perlita expandida o similares) para la construcción y otros usos, cuando se dé alguna de las circunstancias siguientes: 1.ª Que esté situada fuera de polígonos industriales. 2.ª Que se encuentre a menos de 500 m de una zona residencial. 3.ª Que ocupe una superficie superior a 1 ha. | LA
+6 | 6.1 | Instalaciones para la producción de cal, cuando no estén sometidas a AAI. | LA
+6.2 | Instalaciones para la producción de óxido de magnesio en hornos, cuando no estén sometidas a AAI. | LA
+6.3 | Instalaciones de trituración, aserrado, tallado y pulido de la piedra, con potencia instalada superior a 50 CV, siempre que se dé alguna de las circunstancias siguientes: 1.ª Que esté situada fuera de polígonos industriales. 2.ª Que se encuentre a menos de 500 m de una zona residencial. 3.ª Que ocupe una superficie superior a 1 ha. | LA
+7 | Instalaciones de fabricación de aglomerados asfálticos. | LA
+Industrias de Productos Alimenticios
+20 | Instalaciones para el aprovechamiento o la eliminación de subproductos o desechos de animales no destinados al consumo humano cuando no estén sometidas a AAI y no estén incluidas ni en el anexo I ni en el anexo II de la Ley 21/2013, de 9 de diciembre. | LA
+22 | Instalaciones para la fabricación y elaboración de productos derivados de la aceituna, excepto el aceite, cuando no estén sometidas a AAI. | LA
+23 | 23.1 | Instalaciones industriales para la fabricación de jarabes y refrescos, cuando no estén sometidas a AAI. | LA
+23.2 | Instalaciones industriales para la destilación de vinos y alcoholes, cuando no estén sometidas a AAI. | LA
+Otros Proyectos
+68 | Estaciones de servicio dedicadas a la venta de gasolina y otros combustibles. | LA
+75 | Crematorios. | LA.
+Téngase en cuenta que esta actualización de la Parte II, establecida por la disposición final 5.3 de la Ley 2/2026, de 12 de marzo, Ref. BOE-A-2026-7558#df-5, entra en vigor el 20 de junio de 2026, según determina su disposición final 7.
+Redacción anterior:
+"Parte II. Actividades extraídas del Anexo I Ley de Gestión Integrada de la Calidad Ambiental.
 Categoría | Subcategoría | Actuaciones | Instrumento (*)
 Industria siderúrgica y del mineral: | 
 9 | Instalaciones dedicadas a la fabricación de hormigón o clasificación de áridos, cuando se dé alguna de las circunstancias siguientes: 1.ª Que esté situada fuera de polígonos industriales. 2.ª Que se encuentre a menos de 500 m de una zona residencial. 3.ª Que ocupe una superficie superior a 1 ha. | CA
@@ -53,5 +72,6 @@ Otros proyectos: |
 102 | Estaciones de servicio dedicadas a la venta de gasolina y otros combustibles. | CA
 110 | Crematorios. | CA
 (*) Nota: CA: La actuación está sometida a Calificación Ambiental. CA (Anexo II): La actuación está sometida a Calificación Ambiental y además está en el Anexo II de la Ley 21/2013 de Evaluación Ambiental. Por lo que en caso de que no proceda realizar informe EIS, será necesario hacer informe de efectos en salud cuando así se solicite por parte del órgano competente.
+Se modifica la Parte II, con efectos de 20 de junio de 2026, por la disposición final 5.3 de la Ley 2/2026, de 12 de marzo. Ref. BOE-A-2026-7558#df-5
 Se modifica por el art. 90.2 del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030
 Se añade por el anexo del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058

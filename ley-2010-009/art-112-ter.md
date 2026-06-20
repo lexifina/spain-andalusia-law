@@ -1,0 +1,7 @@
+Artículo 112 ter. Sujetos responsables de las infracciones en materia de calidad del medio hídrico.
+1. A los efectos de esta ley, tendrán la consideración de responsables de las infracciones en materia de calidad del medio hídrico previstas en la misma:
+a) Las personas físicas o jurídicas que directamente realicen la acción infractora, salvo que las mismas se encuentren unidas a los propietarios o titulares de la actividad o proyecto por una relación laboral, de servicio o cualquier otra de hecho o de derecho, en cuyo caso responderán estos, salvo que acrediten la diligencia debida.
+b) Las personas físicas o jurídicas que sean propietarios, titulares de terrenos o titulares o promotores de la actividad o proyecto del que se derive la infracción.
+2. En el caso de que una obligación legal corresponda a varias personas conjuntamente o cuando no fuera posible determinar el grado de participación de las distintas personas que hubieren intervenido en la realización de la infracción, responderán de forma solidaria de las infracciones que en su caso se cometan y de las sanciones que se impongan.
+Téngase en cuenta que este artículo, añadido por la disposición final 6.39 de la Ley 2/2026, de 12 de marzo. Ref. BOE-A-2026-7558#df-6, entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
+Se añade por la disposición final 6.39 de la Ley 2/2026, de 12 de marzo. Ref. BOE-A-2026-7558#df-6
