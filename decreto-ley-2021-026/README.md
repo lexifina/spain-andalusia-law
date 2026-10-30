@@ -1,0 +1,124 @@
+# Decreto-ley 26/2021, de 14 de diciembre, por el que se adoptan medidas de simplificación administrativa y mejora de la calidad regulatoria para la reactivación económica en Andalucía.
+
+Decreto-ley 26/2021, de 14 de diciembre · 4 versions, from 2021-12-18 (latest in force: 2025-01-01) · <https://www.boe.es/buscar/act.php?id=BOJA-b-2021-90434>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artículo 1 | [art-001.md](art-001.md) | 0 |  |
+| Artículo 2 | [art-002.md](art-002.md) | 0 |  |
+| Artículo 3 | [art-003.md](art-003.md) | 0 |  |
+| Artículo 4 | [art-004.md](art-004.md) | 0 |  |
+| Artículo 5 | [art-005.md](art-005.md) | 0 |  |
+| Artículo 6 | [art-006.md](art-006.md) | 0 |  |
+| Artículo 7 | [art-007.md](art-007.md) | 0 |  |
+| Artículo 8 | [art-008.md](art-008.md) | 0 |  |
+| Artículo 9 | [art-009.md](art-009.md) | 0 |  |
+| Artículo 10 | [art-010.md](art-010.md) | 0 |  |
+| Artículo 11 | [art-011.md](art-011.md) | 0 |  |
+| Artículo 12 | [art-012.md](art-012.md) | 0 |  |
+| Artículo 13 | [art-013.md](art-013.md) | 0 |  |
+| Artículo 14 | [art-014.md](art-014.md) | 0 |  |
+| Artículo 15 | [art-015.md](art-015.md) | 0 |  |
+| Artículo 16 | [art-016.md](art-016.md) | 0 |  |
+| Artículo 17 | [art-017.md](art-017.md) | 0 |  |
+| Artículo 18 | [art-018.md](art-018.md) | 0 |  |
+| Artículo 19 | [art-019.md](art-019.md) | 0 |  |
+| Artículo 20 | [art-020.md](art-020.md) | 0 |  |
+| Artículo 21 | [art-021.md](art-021.md) | 0 |  |
+| Artículo 22 | [art-022.md](art-022.md) | 0 |  |
+| Artículo 23 | [art-023.md](art-023.md) | 0 |  |
+| Artículo 24 | [art-024.md](art-024.md) | 0 |  |
+| Artículo 25 | [art-025.md](art-025.md) | 0 |  |
+| Artículo 26 | [art-026.md](art-026.md) | 0 |  |
+| Artículo 27 | [art-027.md](art-027.md) | 0 |  |
+| Artículo 28 | [art-028.md](art-028.md) | 0 |  |
+| Artículo 29 | [art-029.md](art-029.md) | 0 |  |
+| Artículo 30 | [art-030.md](art-030.md) | 0 |  |
+| Artículo 31 | [art-031.md](art-031.md) | 0 |  |
+| Artículo 32 | [art-032.md](art-032.md) | 0 |  |
+| Artículo 33 | [art-033.md](art-033.md) | 0 |  |
+| Artículo 34 | [art-034.md](art-034.md) | 0 |  |
+| Artículo 35 | [art-035.md](art-035.md) | 0 |  |
+| Artículo 36 | [art-036.md](art-036.md) | 0 |  |
+| Artículo 37 | [art-037.md](art-037.md) | 0 |  |
+| Artículo 38 | [art-038.md](art-038.md) | 0 |  |
+| Artículo 39 | [art-039.md](art-039.md) | 0 |  |
+| Artículo 40 | [art-040.md](art-040.md) | 0 |  |
+| Artículo 41 | [art-041.md](art-041.md) | 0 |  |
+| Artículo 42 | [art-042.md](art-042.md) | 0 |  |
+| Artículo 43 | [art-043.md](art-043.md) | 0 |  |
+| Artículo 44 | [art-044.md](art-044.md) | 0 |  |
+| Artículo 45 | [art-045.md](art-045.md) | 0 |  |
+| Artículo 46 | [art-046.md](art-046.md) | 0 |  |
+| Artículo 47 | [art-047.md](art-047.md) | 0 |  |
+| Artículo 48 | [art-048.md](art-048.md) | 0 |  |
+| Artículo 49 | [art-049.md](art-049.md) | 0 |  |
+| Artículo 50 | [art-050.md](art-050.md) | 0 |  |
+| Artículo 51 | [art-051.md](art-051.md) | 0 |  |
+| Artículo 52 | [art-052.md](art-052.md) | 0 |  |
+| Artículo 53 | [art-053.md](art-053.md) | 0 |  |
+| Artículo 54 | [art-054.md](art-054.md) | 0 |  |
+| Artículo 55 | [art-055.md](art-055.md) | 0 |  |
+| Artículo 56 | [art-056.md](art-056.md) | 0 |  |
+| Artículo 57 | [art-057.md](art-057.md) | 0 |  |
+| Artículo 58 | [art-058.md](art-058.md) | 0 |  |
+| Artículo 59 | [art-059.md](art-059.md) | 0 |  |
+| Artículo 60 | [art-060.md](art-060.md) | 0 |  |
+| Artículo 61 | [art-061.md](art-061.md) | 0 |  |
+| Artículo 62 | [art-062.md](art-062.md) | 0 |  |
+| Artículo 63 | [art-063.md](art-063.md) | 0 |  |
+| Artículo 64 | [art-064.md](art-064.md) | 0 |  |
+| Artículo 65 | [art-065.md](art-065.md) | 0 |  |
+| Artículo 66 | [art-066.md](art-066.md) | 0 |  |
+| Artículo 67 | [art-067.md](art-067.md) | 0 |  |
+| Artículo 68 | [art-068.md](art-068.md) | 0 |  |
+| Artículo 69 | [art-069.md](art-069.md) | 0 |  |
+| Disposición adicional primera | [da-01.md](da-01.md) | 0 |  |
+| Disposición adicional segunda | [da-02.md](da-02.md) | 0 |  |
+| Disposición adicional tercera | [da-03.md](da-03.md) | 0 |  |
+| Disposición adicional cuarta | [da-04.md](da-04.md) | 0 |  |
+| Disposición adicional quinta | [da-05.md](da-05.md) | 1 | 2024-02-17 |
+| Disposición adicional sexta | [da-06.md](da-06.md) | 0 |  |
+| Disposición adicional séptima | [da-07.md](da-07.md) | 0 |  |
+| Disposición adicional octava | [da-08.md](da-08.md) | 0 |  |
+| Disposición adicional novena | [da-09.md](da-09.md) | 1 | 2024-02-17 |
+| Disposición adicional décima | [da-10.md](da-10.md) | 0 |  |
+| Disposición adicional decimocuarta | [da-decimocuarta.md](da-decimocuarta.md) | 0 |  |
+| Disposición adicional decimoprimera | [da-decimoprimera.md](da-decimoprimera.md) | 0 |  |
+| Disposición adicional decimoquinta | [da-decimoquinta.md](da-decimoquinta.md) | 0 |  |
+| Disposición adicional decimosegunda | [da-decimosegunda.md](da-decimosegunda.md) | 2 | 2025-01-01 |
+| Disposición adicional decimotercera | [da-decimotercera.md](da-decimotercera.md) | 0 |  |
+| Disposición derogatoria única | [dd-unica.md](dd-unica.md) | 0 |  |
+| Disposición final primera | [df-01.md](df-01.md) | 0 |  |
+| Disposición final segunda | [df-02.md](df-02.md) | 0 |  |
+| Disposición final tercera | [df-03.md](df-03.md) | 0 |  |
+| Disposición final cuarta | [df-04.md](df-04.md) | 0 |  |
+| Disposición final quinta | [df-05.md](df-05.md) | 0 |  |
+| Disposición final sexta | [df-06.md](df-06.md) | 0 |  |
+| Disposición transitoria primera | [dt-01.md](dt-01.md) | 0 |  |
+| Disposición transitoria segunda | [dt-02.md](dt-02.md) | 0 |  |
+| Disposición transitoria tercera | [dt-03.md](dt-03.md) | 0 |  |
+| Disposición transitoria cuarta | [dt-04.md](dt-04.md) | 0 |  |
+| Disposición transitoria quinta | [dt-05.md](dt-05.md) | 0 |  |
+| Disposición transitoria sexta | [dt-06.md](dt-06.md) | 0 |  |
+| Disposición transitoria séptima | [dt-07.md](dt-07.md) | 0 |  |
+| Disposición transitoria octava | [dt-08.md](dt-08.md) | 0 |  |
+| Disposición transitoria novena | [dt-09.md](dt-09.md) | 0 |  |
+| Disposición transitoria décima | [dt-10.md](dt-10.md) | 0 |  |
+| Disposición transitoria decimoctava | [dt-18.md](dt-18.md) | 0 |  |
+| Disposición transitoria vigésima | [dt-20.md](dt-20.md) | 0 |  |
+| Disposición transitoria vigésima | [dt-20-2.md](dt-20-2.md) | 0 |  |
+| Disposición transitoria decimocuarta | [dt-decimocuarta.md](dt-decimocuarta.md) | 0 |  |
+| Disposición transitoria decimonovena | [dt-decimonovena.md](dt-decimonovena.md) | 0 |  |
+| Disposición transitoria decimoprimera | [dt-decimoprimera.md](dt-decimoprimera.md) | 0 |  |
+| Disposición transitoria decimoquinta | [dt-decimoquinta.md](dt-decimoquinta.md) | 0 |  |
+| Disposición transitoria decimosegunda | [dt-decimosegunda.md](dt-decimosegunda.md) | 0 |  |
+| Disposición transitoria decimoséptima | [dt-decimoseptima.md](dt-decimoseptima.md) | 0 |  |
+| Disposición transitoria decimosexta | [dt-decimosexta.md](dt-decimosexta.md) | 0 |  |
+| Disposición transitoria decimotercera | [dt-decimotercera.md](dt-decimotercera.md) | 0 |  |
+| Disposición transitoria vigesimoprimera | [dt-vigesimoprimera.md](dt-vigesimoprimera.md) | 0 |  |
+| Disposición transitoria vigesimosegunda | [dt-vigesimosegunda.md](dt-vigesimosegunda.md) | 0 |  |
+| Disposición transitoria vigesimotercera | [dt-vigesimotercera.md](dt-vigesimotercera.md) | 0 |  |
+| [firma] | [firma.md](firma.md) | 0 |  |
+| Nota inicial | [nota-inicial.md](nota-inicial.md) | 0 |  |
+| [preambulo] | [preambulo.md](preambulo.md) | 0 |  |
