@@ -275,6 +275,12 @@
     "ley-2021-001"
    ],
    "sha256": "c0a263c015b8961ead604b5e87851a01767123745b5f0508fce78f1d98f8527c"
+  },
+  "97-derogadas-20261105-01.json": {
+   "acts": [
+    "decreto-ley-2021-016"
+   ],
+   "sha256": "8e01fb0461636901137d430a18cfd0b6064e148e1b4b8b8da1e1d4ebcc845aa3"
   }
  },
  "schema": 1

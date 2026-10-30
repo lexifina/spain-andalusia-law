@@ -8606,6 +8606,26 @@
      "sha256": "de5d6a18645f69d4f108324311f19bddd801366922458630e1e5be7325466275"
     }
    ]
+  },
+  {
+   "slug": "decreto-ley-2021-016",
+   "short": "Decreto-ley 16/2021, de 3 de agosto",
+   "title": "Decreto-ley 16/2021, de 3 de agosto, por el que se crean la Agencia Empresarial para la Transformación y el Desarrollo Económico (TRADE) y la Agencia para la Calidad Científica y Universitaria de Andalucía (ACCUA).",
+   "url": "https://www.boe.es/buscar/act.php?id=BOJA-b-2021-90321",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOJA-b-2021-90321",
+     "sha256": "74c93ff2a2c89196281ba9b21465991300b828d625470041c7daba7c0c8a273b"
+    },
+    {
+     "from": "2021-12-31",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOJA-b-2021-90321",
+     "sha256": "74c93ff2a2c89196281ba9b21465991300b828d625470041c7daba7c0c8a273b"
+    }
+   ]
   }
  ]
 }

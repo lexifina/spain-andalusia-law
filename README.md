@@ -10,7 +10,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 
 ## What this repository holds
 
-241 norms with 1113 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 24 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
+242 norms with 1115 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 25 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
 
 | Folder | Norm | Versions | History | BOE last updated |
 | --- | --- | ---: | --- | --- |
@@ -255,6 +255,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-2021-001/` | Ley 1/2021, de 22 de enero, por la que se articula un periodo transitorio para garantizar la prestación del servicio de Televisión Digital Terrestre de ámbito local en Andalucía gestionado por particulares. | 2 | as first published, then each change: 27 January 2021 to 9 August 2025; **repealed** 9 August 2025 by Decreto-ley 3/2025, de 4 de agosto (BOJA-b-2025-90210) | 2025-12-20 |
 | `decreto-ley-2021-007/` | Decreto-ley 7/2021, de 27 de abril, sobre reducción del gravamen del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados para el impulso y la reactivación de la economía de la Comunidad Autónoma de Andalucía ante la situación de crisis generada por la pandemia del coronavirus (COVID19) | 2 | oldest version available, then each change: 28 April 2021 to 27 October 2021; **repealed** 27 October 2021 by Ley 5/2021, de 20 de octubre (BOE-A-2021-17915) | 2026-10-28 |
 | `decreto-ley-2021-008/` | Decreto-ley 8/2021, de 4 de mayo, por el que se aprueba una línea de subvenciones destinadas a las Entidades Locales Autónomas Andaluzas para la financiación de actuaciones relacionadas con el desarrollo y ejecución de sus competencias, y se modifican varios decretos-leyes. | 2 | oldest version available, then each change: 4 May 2021 to 1 January 2022; **repealed** 1 January 2022 by Ley 8/2021, de 23 de diciembre (BOE-A-2022-756) | 2025-11-21 |
+| `decreto-ley-2021-016/` | Decreto-ley 16/2021, de 3 de agosto, por el que se crean la Agencia Empresarial para la Transformación y el Desarrollo Económico (TRADE) y la Agencia para la Calidad Científica y Universitaria de Andalucía (ACCUA). | 2 | oldest version available, then each change: 11 August 2021 to 31 December 2021; **repealed** 31 December 2021 by Ley 9/2021, de 23 de diciembre (BOE-A-2022-757) | 2023-12-26 |
 
 ## Source
 
