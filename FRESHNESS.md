@@ -4,12 +4,13 @@
 
 [English](FRESHNESS.en.md)
 
-Cómo mide global-law lo actualizado que está cada país: [global-law FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md). Para España:
+Cómo mide global-law lo actualizado que está cada país: [global-law FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md). Para Andalucía:
 
 ### Legislación consolidada del BOE, comunidades autónomas (datos abiertos) · `spain/andalusia/acts`
 
-- Última lectura de la fuente oficial con cada norma de este repositorio comprobada frente a ella: **2026-11-23 01:07 UTC**.
+- Última lectura de la fuente oficial con cada norma de este repositorio comprobada frente a ella: **2026-11-23 13:48 UTC**.
 - Normas en este repositorio: 242; al día con la fuente: 242; modificadas en la fuente después de la versión de aquí: 0; ya no están en la fuente: 0.
+- Compared with the source in this read: 8 of the 242 acts held here; the others were not compared in this read (see the check's note).
 - Sin publicar: 2 (fuera del alcance de este repositorio: 2); sin motivo: 0.
 
 En detalle: [monitoring/](monitoring/README.md). Para programas: [data/checks/latest.json](data/checks/latest.json).
