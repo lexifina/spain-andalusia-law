@@ -8,7 +8,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### BOE consolidated legislation, autonomous communities (open data) · `spain/andalusia/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-25 06:14 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-26 06:19 UTC**.
 - Acts held here: 242; current at the source: 242; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 8 of the 242 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 2 (outside this repository's scope: 2); with no reason: 0.
