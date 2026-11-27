@@ -1,16 +1,14 @@
 {
- "generated": "2026-11-26T06:33:25Z",
+ "generated": "2026-11-27T06:33:28Z",
  "latest": {
   "boe-autonomico|spain/andalusia/acts": {
    "attempt": 1,
    "audit": {
     "examples": [
-     "BOE-A-1997-3701: 0 of 43 blocks of the page not found here; 12953 of 50515 letters here not on the page as such",
-     "BOE-A-1998-2572: 0 of 72 blocks of the page not found here; 28108 of 86196 letters here not on the page as such",
-     "BOE-A-1999-17140: 0 of 114 blocks of the page not found here; 2363 of 52749 letters here not on the page as such"
+     "BOE-A-1999-23524: 1 of 95 blocks of the page not found here"
     ],
-    "match_neither": 3,
-    "match_new": 5,
+    "match_neither": 1,
+    "match_new": 7,
     "match_old": 0,
     "method": "the BOE's consolidated-text page (www.boe.es/buscar/act.php?id=<id>, HTML, the text as the BOE publishes it for readers) read for norms published or read this check, and compared with the files at the tip, letters and digits: every block of the page found in the files, and at most 3% of the files' letters not on the page as such (heading blocks the XML keeps and the page no longer shows)",
     "sampled": 8,
@@ -30,19 +28,19 @@
     "repo": 242,
     "source_in_scope": 244
    },
-   "check_id": "es-boe-autonomico-20261126T061818Z",
+   "check_id": "es-boe-autonomico-20261127T061752Z",
    "commits": null,
    "corpus": "spain/andalusia/acts",
    "error": null,
-   "finished": "2026-11-26T06:19:01Z",
+   "finished": "2026-11-27T06:18:34Z",
    "flags": [
     {
-     "detail": "3 of 8 read again by a second route disagree",
+     "detail": "1 of 8 read again by a second route disagree",
      "flag": "audit-disagrees"
     }
    ],
    "gap": 2,
-   "note": "the BOE's list of 12482 consolidated norms (8858 Estatal, 3624 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261126T052734Z); this repository's data run to 2026-10-30; 2 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "note": "the BOE's list of 12485 consolidated norms (8860 Estatal, 3625 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261127T052756Z); this repository's data run to 2026-10-30; 2 norms whose force ran out at the BOE are not held: outside this repository's scope",
    "outcome": "no-change",
    "published": {
     "added": [],
@@ -57,9 +55,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-25T14:14:13Z",
+   "snapshot": "2026-11-26T13:04:42Z",
    "source": "boe-autonomico",
-   "started": "2026-11-26T06:18:18Z",
+   "started": "2026-11-27T06:17:52Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,
